@@ -1,0 +1,24 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iq9vp1as0",
+        "title": "Cool-Vapote",
+        "description": "<p><br /> Adresse: 150 Avenue de Saint-Ouen 75018 Paris<br /> \nTel: +33 (0) 173 708 252</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Vendredi: 10h00 à 20h00</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.328971,
+          48.897043
+        ],
+        "type": "Point"
+      },
+      "id": "6e0f0ce57d4e18d09e7e1a0ff180925c"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,24 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ips1pi940",
+        "title": "Bambang",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          121.1066,
+          16.3865
+        ],
+        "type": "Point"
+      },
+      "id": "14981be892407a793a78d854ca125b92"
+    }
+  ],
+  "type": "FeatureCollection"
+}

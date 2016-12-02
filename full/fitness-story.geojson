@@ -1,0 +1,62 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipiiuwxd1",
+        "title": "Fitness Story",
+        "description": "<p><br /> Adresse: 27 rue lantiez 75017 paris<br /> \nTel: +33 (0) 142 291 614</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi au vendredi : 9h00 – 22h00</li>\n<li>Samedi : 10h00 – 20h00</li>\n<li>Dimanche : 10h00 – 17h00</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.323816,
+          48.895113
+        ],
+        "type": "Point"
+      },
+      "id": "18f057fba6bb024c48943e47aefc15c9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipiivyic2",
+        "title": "Fitness Story",
+        "description": "<p><br /> Adresse: 90 Avenue de Saint Ouen 75018 Paris<br /> \nTel: +33 (0) 142 291 683</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi au vendredi : 8h30 – 22h00</li>\n<li>Samedi : 8h30 – 20h00</li>\n<li>Dimanche : 10h00 – 17h00</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.327715,
+          48.893309
+        ],
+        "type": "Point"
+      },
+      "id": "7522e4df316fef29d28a7b774d597d35"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipiiu21d0",
+        "title": "Fitness Story",
+        "description": "<p><br /> Adresse: 11 rue édouard branly 95220 Herblay<br /> \nTel: +33 (0) 134 500 850</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi au vendredi : 8h30 – 22h00</li>\n<li>Samedi : 9h30 – 19h00</li>\n<li>Dimanche : 9h30 – 15h00</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.178579,
+          49.000658
+        ],
+        "type": "Point"
+      },
+      "id": "c3c374fe9f9a9d9f210691aa9edecd62"
+    }
+  ],
+  "type": "FeatureCollection"
+}

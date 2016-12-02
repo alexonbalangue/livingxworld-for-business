@@ -1,0 +1,24 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipicx4si0",
+        "title": "Vit' Halles",
+        "description": "<p><br /> Adresse: 195 avenue Jacques Cartier 34000 Montpellier<br /> \nTel: +33 (0) 467 710 168</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi et Mardi : 7h à 22h30</li>\n<li>Mercredi à Vendredi : 8h à 22h30</li>\n<li>Samedi, dimanche et jours fériés de 10H à 19H</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          3.89305,
+          43.607065
+        ],
+        "type": "Point"
+      },
+      "id": "fd03b25fa562c9b59b7b802622398be9"
+    }
+  ],
+  "type": "FeatureCollection"
+}

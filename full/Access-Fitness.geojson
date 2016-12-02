@@ -1,0 +1,43 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipbakoz60",
+        "title": "Acess Fitness",
+        "description": "Adresse: 31 Boulevard Georges Clémenceau 92400 Courbevoie<br /> \nTel: +33 (0) 184 192 779</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Dimanche : 6h00 - 00h00</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.271666,
+          48.90285
+        ],
+        "type": "Point"
+      },
+      "id": "7a5eef3e8c3164d76c7d6bdf13abd0da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipbamjjh1",
+        "title": "Access Fitness",
+        "description": "Adresse: 7-11 avenue de Verdun 1916 92250 La Garenne-Colombes<br /> \nTel: +33 (0) 184 192 779</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Dimanche : 6h00 - 00h00</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.327936,
+          48.935047
+        ],
+        "type": "Point"
+      },
+      "id": "ab4dd4e6d650e51e1b26af63f804a8ef"
+    }
+  ],
+  "type": "FeatureCollection"
+}

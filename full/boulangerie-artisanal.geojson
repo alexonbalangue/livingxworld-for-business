@@ -1,0 +1,24 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-irypfn5j0",
+        "title": "Boulangerie Artisanal",
+        "description": "adresse: 53 Rue Navier, 75017 Paris, France<br>\n\ntel: --<br>\n\nHoraires: Lundi - Dimanche de xxhxx à xxhxx",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.323423,
+          48.895778
+        ],
+        "type": "Point"
+      },
+      "id": "d0deae6c9fc669a6e576dc292eb616be"
+    }
+  ],
+  "type": "FeatureCollection"
+}

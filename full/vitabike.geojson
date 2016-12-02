@@ -1,0 +1,290 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoe5teo9",
+        "title": "19 Rue de Cheverus",
+        "description": "<p><br /> Adresse: 19 Rue Cheverus 33000 Bordeaux France<br /> \nTel: non indiquer</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Vendredi: 9h30-19h30</li>\n<li>9h-15h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -0.575783,
+          44.838897
+        ],
+        "type": "Point"
+      },
+      "id": "0ae0a43bf1496db851239fd2de7c8cc3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoe8bshd",
+        "title": "4 Rue Joseph le Brix",
+        "description": "<p><br /> Adresse: 4 Rue Joseph le Brix 56000 Vannes France<br /> \nTel: non indiquer</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Vendredi: 9h-19h30</li>\n<li>Samedi: 9h-14h30</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -2.759173,
+          47.658864
+        ],
+        "type": "Point"
+      },
+      "id": "106ccb00f6ad5d16fae241cf1bda3c2a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoe3n234",
+        "title": "12 Place des Halles",
+        "description": "<p><br /> Adresse: 12 Place des Halles 67000 Strasbourg France<br /> \nTel: non indiquer</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Vendredi: 9h - 19h30</li>\n<li>Samedi: 9h - 15h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          7.742196,
+          48.587616
+        ],
+        "type": "Point"
+      },
+      "id": "12d58ceae693cce74e28b28fa93dceb2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoe425l5",
+        "title": "9 Rue de la Juiverie",
+        "description": "<p><br /> Adresse: 9 Rue de la Juiverie 51200 Epernay France<br /> \nTel: non indiquer</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Vendredi: 8h30 - 19h</li>\n<li>Samedi: 9h-12h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          3.95353,
+          49.044222
+        ],
+        "type": "Point"
+      },
+      "id": "2b437ae568a85e9232ab983b52b7ad00"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoe2bmw1",
+        "title": "6 Rue de la Haye",
+        "description": "<p><br /> Adresse: 6 Rue de la Haye 67300 Schiltigheim France<br /> \nTel: non indiquer</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Vendredi: 7h30-19h</li>\n<li>Samedi: 8h30-13h30</li>\n<li>Dimanche 9h-12h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          7.714174,
+          48.614008
+        ],
+        "type": "Point"
+      },
+      "id": "41605cd0b0d13c539d79e3ecd0112b50"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoe8refe",
+        "title": "15 Rue Beauvoisine",
+        "description": "<p><br /> Adresse: 15 Rue Beauvoisine 76000 Rouen France<br /> \nTel: non indiquer</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Vendredi: 9h-19h30</li>\n<li>Samedi: 9h-14h30</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          1.095881,
+          49.443531
+        ],
+        "type": "Point"
+      },
+      "id": "47245f811ffd258338e0c0a2229c00e5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoe7tgzc",
+        "title": "60 Rue de Caumartin",
+        "description": "<p><br /> Adresse: 60 Rue de Caumartin 75009 Paris France<br /> \nTel: non indiquer</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Vendredi: 8h-20h</li>\n<li>Samedi: 8h30-13h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.328474,
+          48.8751
+        ],
+        "type": "Point"
+      },
+      "id": "58f39f3da32575bedaa338f44dbeb427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoe2qt02",
+        "title": "78 Route de Lyon",
+        "description": "<p><br /> Adresse: 78 Route de Lyon 67400 Illkirch-Graffenstaden France<br /> \nTel: non indiquer</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi: 13h-19h</li>\n<li>mardi Vendredi: 9h-19h</li>\n<li>Samedi: 9h-13h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          7.718491,
+          48.532146
+        ],
+        "type": "Point"
+      },
+      "id": "665b19ec6ff9c0a844a8612f3c5a6239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoe6m7pa",
+        "title": "113 Rue du Vieil Hôpital",
+        "description": "<p><br /> Adresse: 113 Rue du Vieil Hôpital 84200 Carpentras France<br /> \nTel: non indiquer</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Vendredi: 9h-19h</li>\n<li>Samedi: 9h-13h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          5.04812,
+          44.05291
+        ],
+        "type": "Point"
+      },
+      "id": "6d3c6579ec60f77eb96672baf03304e0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoe36ez3",
+        "title": "1 Rue d'Or",
+        "description": "<p><br /> Adresse: 1 Rue d'Or 67000 Strasbourg France<br /> \nTel: non indiquer</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li> Lundi - Vendredi: 9h - 20h</li>\n<li> Samedi: 9 h-14h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          7.749716,
+          48.578829
+        ],
+        "type": "Point"
+      },
+      "id": "a460acc0bad5cfd1dc6af4fbd15a3e27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoe1hej0",
+        "title": "5 Rue de la Paix",
+        "description": "<p><br /> Adresse: 5 Rue de la Paix 67160 Wissembourg France<br /> \nTel: non indiquer</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi: 14h-20h</li>\n<li>Mardi Jeudi Vendredi</li>\n<li>Mercredi Samedi: 9h-13h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          7.952012,
+          49.037327
+        ],
+        "type": "Point"
+      },
+      "id": "af6f72912c9de7587d93d5c60e070df0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoe4tv67",
+        "title": "Route de Florissant 55",
+        "description": "<p><br /> Adresse: Route de Florissant 55 1206 Genève Switzerland<br /> \nTel: non indiquer</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Vendredi: 7h-22h</li>\n<li>Samedi: 9h-18h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          6.161406,
+          46.193533
+        ],
+        "type": "Point"
+      },
+      "id": "bd8de2fac651d80c4a52aab7e52aae03"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoe5am68",
+        "title": "Guadeloupe",
+        "description": "<p><br /> Adresse: Guadeloupe<br /> \nTel: non indiquer</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi: 13h-20h</li>\n<li>Mardi Mercredi Vendredi: 9h-19h</li>\n<li>Jeudi: 9h-20h</li>\n<li>Samedi: 9h-14h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -61.669261,
+          16.153713
+        ],
+        "type": "Point"
+      },
+      "id": "c64f2c924b890a3695d5f3124819adb0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoe4ez86",
+        "title": "30 Rue Hincmar",
+        "description": "<p><br /> Adresse: 30 Rue Hincmar 51100 Reims France<br /> \nTel: non indiquer</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li> Lundi - Vendredi: 9h-20h</li>\n<li> Samedi: 9h-14h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          4.029819,
+          49.251361
+        ],
+        "type": "Point"
+      },
+      "id": "cba13de236e1962f2ed6692dc54ff48d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoe78cab",
+        "title": "9 Rue Vaudétard",
+        "description": "<p><br /> Adresse: 9 Rue Vaudetard 92130 Issy-les-Moulineaux France<br /> \nTel: <a href=\"+33141900964\" target=\"nofollow\">+33 (0) 141 900 964</a></p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Vendredi: 10h-20h30</li>\n<li>Samedi: 9h30-19h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.276728,
+          48.826908
+        ],
+        "type": "Point"
+      },
+      "id": "e8dca7f1d4ddd5c49f82f8475a33fc26"
+    }
+  ],
+  "type": "FeatureCollection"
+}

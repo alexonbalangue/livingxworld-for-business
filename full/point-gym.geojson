@@ -1,0 +1,24 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipj4vz6r0",
+        "title": "Point Gym",
+        "description": "<p><br /> Adresse: 211B Rue de la Croix Nivert, 75015 Paris<br /> \nTel: +33 (0) 145 337 109</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Vendredi: 9h - 22h</li>\n<li>Samedi: 9h - 16h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.289677,
+          48.836586
+        ],
+        "type": "Point"
+      },
+      "id": "2bdf19108d1edc2c206651c600ffdc02"
+    }
+  ],
+  "type": "FeatureCollection"
+}

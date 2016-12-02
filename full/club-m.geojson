@@ -1,0 +1,62 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipb7xkni1",
+        "title": "Club M",
+        "description": "GRAND EST 138 Rue de Bagnolet 75020 Paris<br>\nTel: +33 (0) 143 700 808<br><br>\nHoraire:\n<br>\n    Lundi - Vendredi : 8h30 - 21h30<br>\n    Samedi : 9h00 - 19h00<br>\n    Dimanche : 9h00 - 17h30",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.405498,
+          48.861247
+        ],
+        "type": "Point"
+      },
+      "id": "27585b3dfd2cad1ef71a9beb1de317a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipb7uzkv0",
+        "title": "Club M",
+        "description": "Adresse: RIVE GAUCHE 87 Bd Vincent Auriol 75013 Paris<br>\nTel: +33 (0) 145 707 736<br><br>\nHoraire:\n<br>\n    Lundi - Vendredi : 8h30 - 21h30<br>\n    Samedi : 9h00 - 19h00<br>\n    Dimanche : 9h00 - 14h30",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.366871,
+          48.834309
+        ],
+        "type": "Point"
+      },
+      "id": "7ec5622f42717393f90efb62b30414de"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipb7zclp2",
+        "title": "Club M",
+        "description": "Adresse: 60, rue Ordener 75018 Paris\n<br>Tel: +33 (0) 142 525 050\n<br><br>Horaire:\n<br>\n    Lundi - Jeudi : 7h30 - 22h00<br>\n    Vendredi : 7h30 - 21h30<br>\n    Samedi : 8h30 - 19h00<br>\n    Dimanche : 9h00 - 17h30",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.347453,
+          48.891928
+        ],
+        "type": "Point"
+      },
+      "id": "9e8fbe2c12ddbdd39949cd50524ea8a5"
+    }
+  ],
+  "type": "FeatureCollection"
+}

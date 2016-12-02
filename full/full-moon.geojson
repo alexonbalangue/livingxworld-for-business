@@ -1,0 +1,24 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-irydgy930",
+        "title": "103 Boulevard Bessières",
+        "description": "<p> </p>\n<p> aucun site n'est disponible </p>\n<p> </p>\n<p><br /> Adresse: 103 Boulevard Bessières 75017 Paris<br /> \nTel: aucun</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Samedi de 11h00 à 23h00</li>\n<li>Dimanche midi</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.3173,
+          48.895527
+        ],
+        "type": "Point"
+      },
+      "id": "fe4d42331b178660e7fb6d52e3fc2222"
+    }
+  ],
+  "type": "FeatureCollection"
+}

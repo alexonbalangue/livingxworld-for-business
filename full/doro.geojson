@@ -1,0 +1,24 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-irlatlkg0",
+        "title": "Doro",
+        "description": "<p><br /> Adresse: 48, rue Lecourbe 75015 Paris<br /> \nTel: +33 (0) 184 830 034</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Du Lundi au Samedi :10h00  à 13h30 et 14h30  à 19h00</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.307237,
+          48.844062
+        ],
+        "type": "Point"
+      },
+      "id": "2af43912da3413742c76bf170f30ea52"
+    }
+  ],
+  "type": "FeatureCollection"
+}

@@ -1,0 +1,43 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipin7pii1",
+        "title": "Elite Fitness",
+        "description": "<p><br /> Adresse: 4 rue Beffroy 92200 Neuilly-sur-Seine <br /> \nTel: +33 (0) 146 400 831</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>non indiquer</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.261441,
+          48.886615
+        ],
+        "type": "Point"
+      },
+      "id": "24cab602fc12892512c4b82d53957387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipin699y0",
+        "title": "Elite Fitness",
+        "description": "<p><br /> Adresse: 35 rue Marbeuf 75008 Paris<br /> \nTel: +33 (0) 145 633 300</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>non indiquer</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.305036,
+          48.869539
+        ],
+        "type": "Point"
+      },
+      "id": "6ea3b5845847de600613850ae7dc779a"
+    }
+  ],
+  "type": "FeatureCollection"
+}

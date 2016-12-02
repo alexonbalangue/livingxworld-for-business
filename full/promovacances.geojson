@@ -1,0 +1,993 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdavrxo1c",
+        "title": "Claye-Souilly",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial les Sentiers de Claye-Souilly 77410 Claye-Souilly<br /> \nTel: +33 (0) 892 232 234</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au vendredi de 10h à 21h</li>\n<li>samedi de 9h à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.6857,
+          48.9449
+        ],
+        "type": "Point"
+      },
+      "id": "0397f86e24c8b4595828bf858502dde8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdaszfw16",
+        "title": "Chauconin-Neufmontiers",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Les saisons de Meaux 3 Avenue Roland Moreno 77124 Chauconin - Neufmontiers<br /> \nTel: +33 (0) 892 232 929</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi au Samedi : 10h00 à 20h00</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.8394,
+          48.9762
+        ],
+        "type": "Point"
+      },
+      "id": "04d3affc82bb7a7d5970d5ec0c2ad7b5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdar1oa11",
+        "title": "Noisy-le-Grand",
+        "description": "<p></p>\n<p><br /> Adresse: Centre commercial Les Arcades 93160 Noisy-le-Grand<br /> \nTel: +33 (0) 892 230 584</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 10h à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.5581,
+          48.8439
+        ],
+        "type": "Point"
+      },
+      "id": "0957452e7a54c0dbf39be7dc5b61b037"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isda0zbw3",
+        "title": "2 Chemin de Gabardie",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Espace Gramont - 2 chemin de Gabardie 31200 Toulouse<br /> \nTel: +33 (0) 892 230 897</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 10h à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          1.482485,
+          43.630542
+        ],
+        "type": "Point"
+      },
+      "id": "0a361a6288aa413bdaa38fd47d0f3a4f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isda8vsne",
+        "title": "40 Place du Colombier",
+        "description": "<p></p>\n<p><br /> Adresse: Niveau 0, 40 Place du Colombier 35000 RENNES<br /> \nTel: +33 (0) 892 230 806</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -1.679583,
+          48.104731
+        ],
+        "type": "Point"
+      },
+      "id": "1711c1e20aeb0cf97c30b5e282f68e22"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdacz9ek",
+        "title": "75011",
+        "description": "<p><br> Adresse: 27 Boulevard de Voltaire 75011 Paris<br> \nTel: +33 (0) 892 233 833</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 10h à 19h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.378252,
+          48.859676
+        ],
+        "type": "Point"
+      },
+      "id": "18c20f26fb5d62c835c90c807d9f25c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isda8bo8d",
+        "title": "11 Avenue de Saint-Antoine",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Grand Littoral 11 Avenue Saint Antoine 13464 Marseille Cedex 16<br /> \nTel: +33 (0) 892 233 038</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          5.356809,
+          43.366238
+        ],
+        "type": "Point"
+      },
+      "id": "274ec62a2b17d1fc6436233bf992d33b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isda1oh94",
+        "title": "22 Rue Casimir Périer",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Espace Coty 22 rue Casimir Périer 76600  Le Havre<br /> \nTel: +33 (0) 892 230 393</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          0.110458,
+          49.496347
+        ],
+        "type": "Point"
+      },
+      "id": "2ad36744b60f6f6da82636a0748df5da"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdajmxxu",
+        "title": "63 Avenue de Fontainebleau",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Okabe - 63 av de Fontainebleau 94270 Le Kremlin bicêtre<br /> \nTel: +33 (0) 892 230 169</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 10h à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.361936,
+          48.811927
+        ],
+        "type": "Point"
+      },
+      "id": "32190b0bfcbe132ed62bf6aa4fc07b7b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isda3i1l6",
+        "title": "La Toison d'Or",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial la Toison d'Or 21000 Dijon<br /> \nTel: +33 (0) 892 230 588</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au vendredi de 10h à 20h</li>\n<li>samedi de 9h à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          5.053717,
+          47.356358
+        ],
+        "type": "Point"
+      },
+      "id": "32dfb3d22a2d94ce0178838375c7e6fe"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isd9wna90",
+        "title": "Plérin",
+        "description": "<p></p>\n<p><br /> Adresse: Centre commercial Baie d'Armor Zac du Plateau 22190 Plerin<br /> \nTel: +33 (0) 892 230 893</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samed: 10h00 - 19h00</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -2.7708,
+          48.5344
+        ],
+        "type": "Point"
+      },
+      "id": "353fd9bec3dd383cf9cf48c883ae1731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdawtcl1e",
+        "title": "Avenue de la Maison Neuve",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Maison Neuve Avenue de la Maison neuve 91227 Brétigny sur Orge<br /> \nTel: +33 (0) 892 230 589</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au Samedi de 9h30 à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.304605,
+          48.588015
+        ],
+        "type": "Point"
+      },
+      "id": "35cf362649a77995510f89a39ada1212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdam0ikx",
+        "title": "50 Avenue du Maréchal Foch",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Côté Seine - 50 Avenue du Maréchal Foch 95100 ARGENTEUIL<br /> \nTel: +33 (0) 892 230 894</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi au Samedi : 10h - 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.254147,
+          48.943992
+        ],
+        "type": "Point"
+      },
+      "id": "38c15bc84cc7d4562ca471b660153e2f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdan9i4z",
+        "title": "Thiais",
+        "description": "<p></p>\n<p><br /> Adresse: Centre commercial de Belle Epine 94320 Thiais<br /> \nTel: +33 (0) 892 230 583</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi - samedi de 10h à 20h</li>\n<li>mardi au vendredi de 10h à 21h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.3914,
+          48.7644
+        ],
+        "type": "Point"
+      },
+      "id": "3c6c796566afae6cc7184382a6aeab1f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdav7xe1b",
+        "title": "110 Avenue du Général de Gaulle",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Créteil Soleil - Niveau 2 110 avenue du Général de Gaulle 94000 Créteil<br /> \nTel: +33 (0) 892 230 457</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi et samedi de 10h à 20h</li>\n<li>mardi au vendredi de 10h à 21h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.499937,
+          48.824626
+        ],
+        "type": "Point"
+      },
+      "id": "3dc6026b3d0e0a1134550b9b2a205b34"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdakx7cv",
+        "title": "30 Rue des Buissons",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Aéroville - Zone Cargo 4 30 rue des Buissons 95714 Roissy CDG<br /> \nTel: +33 (0) 892 230 587</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au dimanche de 10h à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.524078,
+          48.991559
+        ],
+        "type": "Point"
+      },
+      "id": "4233c911740ccdf136399e3a6b3f5d14"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdaocxr10",
+        "title": "4 Place de l'Europe",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Bercy 2 4 Place De l'Europe 94220 Charenton-le-Pont<br /> \nTel: +33 (0) 892 234 526</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 10h à 20h30</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.394139,
+          48.825395
+        ],
+        "type": "Point"
+      },
+      "id": "44078ca75647c6d2ccaaf11b1046e043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdag9s2p",
+        "title": "4 Boulevard Gallieni",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Qwartz 4 bd Gallieni 92390 Villeneuve la Garenne<br /> \nTel: +33 (0) 892 233 043</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 à 20h30</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.325615,
+          48.925041
+        ],
+        "type": "Point"
+      },
+      "id": "494776effe36b71b47fac42d6ed32c15"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdahjh3r",
+        "title": "Place Colbert",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Espace St Quentin 5 place Colbert 78180 Montigny le Bretonneux<br /> \nTel: +33 (0) 892 233 002</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.044512,
+          48.783843
+        ],
+        "type": "Point"
+      },
+      "id": "52bc24d8642193675a3aa7d2a47a8613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdaj2z7t",
+        "title": "Aulnay-sous-Bois",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial O'PARINOR Le Haut de Galy 93600 Aulnay-sous-Bois<br /> \nTel: +33 (0) 892 234 461</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au vendredi de 10h à 20h30</li>\n<li>samedi de 10h à 21h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.494,
+          48.9381
+        ],
+        "type": "Point"
+      },
+      "id": "6793262aecef290c6529e0c88985d944"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdadm01l",
+        "title": "21 Boulevard de Sébastopol",
+        "description": "<p></p>\n<p><br /> Adresse: 21 Boulevard Sébastopol 75001 Paris<br /> \nTel: +33 (0) 892 233 036</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 10h à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.348785,
+          48.859522
+        ],
+        "type": "Point"
+      },
+      "id": "6b3d11fcf8ed8ac3b2f2b9efd4b0d2f3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdaupuu1a",
+        "title": "2 Boulevard de l'Europe",
+        "description": "<p><br /> Adresse: Centre Commercial Evry 2 Boulevard de l'Europe 91000 Evry<br /> \nTel: non indiquer </p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 10h à 20h </li>\n<li>vendredi de 10h à 21h (nocturne) </li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.421638,
+          48.631207
+        ],
+        "type": "Point"
+      },
+      "id": "7144d8f44e18472829a0dd68956f6df7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdac78qj",
+        "title": "57 Rue Victor Hugo",
+        "description": "<p></p>\n<p><br /> Adresse: 57 rue Victor Hugo 69002 Lyon<br /> \nTel: +33 (0) 892 231 020</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 à 19h00</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          4.828812,
+          45.752311
+        ],
+        "type": "Point"
+      },
+      "id": "74782ff6741558dfe8a1d3cac5f336e7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdauff519",
+        "title": "Flins-sur-Seine",
+        "description": "<p></p>\n<p><br /> Adresse: 67 Centre commercial Régional de Flins 78410 Flins-sur-Seine<br /> \nTel: +33 (0) 892 232 202</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          1.8731,
+          48.9652
+        ],
+        "type": "Point"
+      },
+      "id": "767710723e8c3238d4061a2ac2a57897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdalfvww",
+        "title": "69 Avenue Aristide Briand",
+        "description": "<p></p>\n<p><br /> Adresse: 69 Avenue Aristide Briand 94110 Arcueil<br /> \nTel: +33 (0) 892 234 533</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 10h30 à 19h30 (Fermeture de 14h à 15h)</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.325857,
+          48.805967
+        ],
+        "type": "Point"
+      },
+      "id": "769503e06018c24bad755f8c0df34ce0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isda2sqf5",
+        "title": "Place Henri Gadeau de Kerville",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial St Sever Rue Henri Gadeau de Kerville 76100 Rouen<br /> \nTel: aucun </p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          1.079256,
+          49.430577
+        ],
+        "type": "Point"
+      },
+      "id": "79ac7076b9ca5dd348b2c5b8fa776832"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdabr33i",
+        "title": "17 Rue du Docteur Bouchut",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial La Part-Dieu 17 rue du Docteur Bouchut 69003 Lyon<br /> \nTel: +33 (0) 892 230 282</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          4.856568,
+          45.759801
+        ],
+        "type": "Point"
+      },
+      "id": "79b9918cc7ea6b95ce0b6a989cbfd9d4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isda5br59",
+        "title": "114 Cours d'Alsace-Lorraine",
+        "description": "<p></p>\n<p><br /> Adresse: 114 cours d'alsace et lorraine 33000  Bordeaux<br /> \nTel: +33 (0) 892 230 870</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 a 19h30</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -0.574561,
+          44.837455
+        ],
+        "type": "Point"
+      },
+      "id": "7d22d530c6161ff10d347b8e29842746"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdab1cyh",
+        "title": "1 Rue des Docteurs Charcot",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Centre 2 1-7 rue des Docteurs Charcot 42100 Saint-Etienne<br /> \nTel: +33 (0) 892 232 548</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          4.392094,
+          45.423072
+        ],
+        "type": "Point"
+      },
+      "id": "8561034643a39adbc1f82da5f8095b27"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdatenh17",
+        "title": "Puteaux",
+        "description": "<p><br /> Adresse: Centre commercial les 4 temps 92800 Puteaux<br /> \nTel: +33 (0) 892 230 580</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 10h à 20h</li>\n<li>dimanche: 11h à 19h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.2389,
+          48.8834
+        ],
+        "type": "Point"
+      },
+      "id": "88e21d183085bbaaa839e969e7e38dc7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdawbm01d",
+        "title": "Rue de la Croix des Maheux",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial les 3 Fontaines - Rue de la Croix des Maheux 95000 CERGY<br /> \nTel: +33 (0) 892 230 895</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au vendredi de 10h à 20h</li>\n<li>Samedi de 9h à 20</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.085659,
+          49.037512
+        ],
+        "type": "Point"
+      },
+      "id": "8b599b145cc8940d66a40c45674c0a39"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isda6du5a",
+        "title": "Vitrolles",
+        "description": "<p><br /> Adresse: Centre Commercial Grand Vitrolles 13127 Vitrolles<br /> \nTel: +33 (0) 892 234 462</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          5.2486,
+          43.46
+        ],
+        "type": "Point"
+      },
+      "id": "9039e602a1c939333885c4928cf7afc7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdatvou18",
+        "title": "Issy-les-Moulineaux",
+        "description": "<p><br /> Adresse: Centre Commercial Les 3 Moulins - Niveau 1 92130 Issy-les-Moulineaux<br /> \nTel: +33 (0) 892 230 168</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 10h à 20h30</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.2692,
+          48.8231
+        ],
+        "type": "Point"
+      },
+      "id": "929ecae0c3fe83031abcd4abff2a8336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdagzlrq",
+        "title": "12 Rue de la Mare à Guillaume",
+        "description": "<p></p>\n<p><br /> Adresse: 12 rue Mare à Guillaume, Niveau 1 face à Jennyfer 94120 FONTENAY SOUS BOIS<br /> \nTel: +33 (0) 892 234 465</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi au Samedi : 10H - 20H</li>\n<li>vendredi 10H - 21H</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.486259,
+          48.855178
+        ],
+        "type": "Point"
+      },
+      "id": "93ef5bea0adeef4d74c2f6934361d6f8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdas5xd14",
+        "title": "Boulevard MacDonald",
+        "description": "<p><br /> Adresse: Centre Commercial Entrepôt MacDonald 141-221 Boulevard Macdonald 75019 Paris<br /> \nTel: +33 (0) 892 233 334</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h:30 a 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.391516,
+          48.897068
+        ],
+        "type": "Point"
+      },
+      "id": "a78b0af50f181132a5bc8f9426eef7a5"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdaaal4g",
+        "title": "1 Allée Cassard",
+        "description": "<p></p>\n<p><br /> Adresse: Cours des 50 Otages 1 allée Cassard 44000 Nantes<br /> \nTel: +33 (0) 892 233 039</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au vendredi de 09h30 à 19h</li>\n<li>samedi de 10h à 19h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -1.555757,
+          47.21417
+        ],
+        "type": "Point"
+      },
+      "id": "abb23328a5b3340121b1a7c81abee5e9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isda7op4c",
+        "title": "Boulevard du Littoral",
+        "description": "<p></p>\n<p><br /> Adresse: Niveau 1, Boulevard du Littoral 13002 MARSEILLE<br /> \nTel: +33 (0) 892 230 430</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au dimanche de 10h à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          7.095175,
+          43.571068
+        ],
+        "type": "Point"
+      },
+      "id": "abe7e16489b18ddc3d5d82419be376d9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdaic2ts",
+        "title": "Rosny-sous-Bois",
+        "description": "<p></p>\n<p><br /> Adresse: Centre commercial Rosny 2 Avenue du Général de Gaulle 93117 Rosny-sous-Bois<br /> \nTel: non indiquer</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi de 10h à 20h</li>\n<li>mardi au samedi de 10h à 21h</li>\n<li>dimanche: 10h à 20h</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.4853,
+          48.8731
+        ],
+        "type": "Point"
+      },
+      "id": "adfae6792e9fbe722b34f2c4f6d13e5d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdarrlg13",
+        "title": "Avenue Gutenberg",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Maurepas Pariwest avenue Gutenberg 78310 Maurepas<br /> \nTel: +33 (0) 892 230 585</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au Samedi de 9h30 à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          1.923714,
+          48.758847
+        ],
+        "type": "Point"
+      },
+      "id": "af700f7619e258e07b664e18e6032fe2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isda71y2b",
+        "title": "16 Avenue Thiers",
+        "description": "<p></p>\n<p><br /> Adresse: 16/18 Avenue Thiers Bâtiment Le Grand Central 06000 Nice<br /> \nTel: +33 (0) 892 233 035</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Mardi au Samedi: 10h00 à 13h30 et de 14h30 à 18h30</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          7.260109,
+          43.703348
+        ],
+        "type": "Point"
+      },
+      "id": "b3f414e680bd8ff4b59d4ace3aaefde8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdaxci21f",
+        "title": "Cesson",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Boissénart route departementale 306 77240 CESSON<br /> \nTel: +33 (0) 892 232 828</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 à 20h30</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.6011,
+          48.5658
+        ],
+        "type": "Point"
+      },
+      "id": "bfd70a2ac7c337bd943148c5986b3d9e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isd9zblc1",
+        "title": "Rennes",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Auchan 352 route nationale 59320  Haubourdin<br /> \nTel: +33 (0) 892 230 392</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 à 20h30</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -1.6808,
+          48.1142
+        ],
+        "type": "Point"
+      },
+      "id": "c339920418d6d815f18a23b4c2d69734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isda9kl2f",
+        "title": "Boulevard du Général de Gaulle",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Beaulieu Boulevard Général de Gaulle 44000 NANTES<br /> \nTel: +33 (0) 892 230 394</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 10h à 21h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -1.53878,
+          47.206271
+        ],
+        "type": "Point"
+      },
+      "id": "c39aa7ba1a12dd7b381d034eb30e9020"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdarf5i12",
+        "title": "235 Rue Étienne Marcel",
+        "description": "<p><br /> Adresse: entre commercial La Grande Montreuil 235 rue Etienne Marcel 93556 Montreuil<br /> \nTel: +33 (0) 892 230 581</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 10h à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.416382,
+          48.855704
+        ],
+        "type": "Point"
+      },
+      "id": "c7d7a2f0d5a545957bb66a0f1fa9a03d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdamk1wy",
+        "title": "La Vallée",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Bay 2 - Collegien 77616 Marne La Vallée<br /> \nTel: +33 (0) 892 230 458</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 à 20h30</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -0.8417,
+          45.8917
+        ],
+        "type": "Point"
+      },
+      "id": "d1afcf3ece2519f01745d39d7d14075d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isda0ai62",
+        "title": "Rue Nicolas Copernic",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Place d'Arc - 2 Rue Nicolas Copernic 45000 ORLEANS<br /> \nTel: +33 (0) 892 234 532</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi au Samedi : 10h - 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          1.905809,
+          47.907603
+        ],
+        "type": "Point"
+      },
+      "id": "da993eba61eed1e49d43cb76140b92c3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdaf96cn",
+        "title": "75009",
+        "description": "<p></p>\n<p><br /> Adresse: 43 rue de la Chaussée d’Antin 75009 Paris<br /> \nTel: +33 (0) 892 230 166</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 10h à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.33782,
+          48.876761
+        ],
+        "type": "Point"
+      },
+      "id": "dd8105d935a391027ebeeaed8ef7b6e8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdaftavo",
+        "title": "30 Boulevard de Bonne Nouvelle",
+        "description": "<p></p>\n<p><br /> Adresse: 30 Boulevard de Bonne Nouvelle 75010 Paris<br /> \nTel: +33 (0) 892 230 165</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.349848,
+          48.870621
+        ],
+        "type": "Point"
+      },
+      "id": "dd8d13b80e0c69b1081516207809a278"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdaemnym",
+        "title": "75013",
+        "description": "<p></p>\n<p><br /> Adresse: 9 Avenue d’Italie 75013 Paris<br /> \nTel: +33 (0) 892 232 235</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 10h à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.362367,
+          48.830976
+        ],
+        "type": "Point"
+      },
+      "id": "ea21b245dfc61ee25a2d1e09b9086e9f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isda4qxt8",
+        "title": "33000 Bordeaux Ct",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial Mériadeck - Niveau RDC 33000 Bordeaux<br /> \nTel: +33 (0) 892 230 896</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 10h à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -83.37017,
+          42.337663
+        ],
+        "type": "Point"
+      },
+      "id": "f628d17292a903ec375c46ae1e270d2b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isda43az7",
+        "title": "Place Henri Gadeau de Kerville",
+        "description": "<p></p>\n<p><br /> Adresse: Centre Commercial St Sever Rue Henri Gadeau de Kerville 76100 Rouen<br /> \nTel: +33 (0) 892 234 527</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>lundi au samedi de 9h30 à 20h</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          1.079256,
+          49.430577
+        ],
+        "type": "Point"
+      },
+      "id": "fa7b87179259dd2263582baf5c8784c2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-isdasj7d15",
+        "title": "51 Rue Louise Michel",
+        "description": "<p></p>\n<p><br /> Adresse: 51 rue Louise Michel 92300 Levallois-Perret<br /> \nTel: +33 (0) 892 234 531</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>mardi au samedi de 11h à 19h (Fermeture de 14h à 15h)</li>\n<li>dimanche: fermé</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.288687,
+          48.889332
+        ],
+        "type": "Point"
+      },
+      "id": "fe75e212c3debeae2336a5641fe35477"
+    }
+  ],
+  "type": "FeatureCollection"
+}

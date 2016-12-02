@@ -1,0 +1,24 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipikn3b80",
+        "title": "Club Aquaviva",
+        "description": "<p><br /> Adresse: 163 Avenue de Clichy, 75017 Paris<br /> \nTel: +33 (0) 140 251 388</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Vendredi: 8h30 - 21h15</li>\n<li>Samrdi: 9h30 - 13h et 15h00 - 19h00</li>\n<li>Dimanche: 9h30 - 13h00</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.317239,
+          48.89214
+        ],
+        "type": "Point"
+      },
+      "id": "f6e5caeb217d15d7ab9071517c195331"
+    }
+  ],
+  "type": "FeatureCollection"
+}

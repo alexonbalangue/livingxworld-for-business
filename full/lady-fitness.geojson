@@ -1,0 +1,157 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipe0nwgx7",
+        "title": "lady fitness",
+        "description": "<p><br /> Adresse: 183 rue André Philip 69003 LYON<br /> \nTel: +33 (0) 478 145 852</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          4.850521,
+          45.761559
+        ],
+        "type": "Point"
+      },
+      "id": "23039bf9ac1c8fb01270995f382aad7c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipe0fse31",
+        "title": "lady fitness",
+        "description": "<p><br /> Adresse: 247 rue de l’Ambassadeur, 78700 CONFLANS STE HONORINE<br /> \nTel: +33 (0) 134 909 436",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.0969,
+          49.0016
+        ],
+        "type": "Point"
+      },
+      "id": "51117e1cea117fe76368eba5da88a8a6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipe0ds4d0",
+        "title": "lady fitness",
+        "description": "<p><br> Adresse: 70 Quai Gaston Boulet, 76000 ROUEN<br> \nTel: +33 (0) 278 770 518</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          1.079224,
+          49.442564
+        ],
+        "type": "Point"
+      },
+      "id": "597d590f27970f0088afb06c17b09972"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipe0l37g4",
+        "title": "lady fitness",
+        "description": "Adresse: 45 Cours du Maréchal JUIN 33000 BORDEAUX – RDC NOVOTEL<br /> \nTel: +33 (0) 556 518 986</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          -0.583492,
+          44.835973
+        ],
+        "type": "Point"
+      },
+      "id": "6980d3d8417ec9c4e7702f140a998cda"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipe0n3ay6",
+        "title": "lady fitness",
+        "description": "<p><br /> Adresse:  1 rue du Chapeau Rouge 69009 LYON<br /> \nTel: +33 (0) 478 356 437</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          4.806992,
+          45.773501
+        ],
+        "type": "Point"
+      },
+      "id": "6cafd6cc01123d5c54adbe62f5d75379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipe0ixm02",
+        "title": "lady fitness",
+        "description": "<p><br /> Adresse: Rue Marcel Fischbach L-1547 Luxembourg<br /> \nTel: +35 (0) 226 431 004</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          6.1872,
+          49.7397
+        ],
+        "type": "Point"
+      },
+      "id": "74703a20187d2b52122a232c35f85015"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipe0k4fh3",
+        "title": "lady fitness",
+        "description": "<p><br /> Adresse: 19 Rue Gambetta, 42000 SAINT-ETIENNE<br /> \nTel: +33 (0) 477 416 003</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          4.388756,
+          45.433644
+        ],
+        "type": "Point"
+      },
+      "id": "ec84e98e1883364f2ec1d932745ab8ec"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipe0m35z5",
+        "title": "lady fitness",
+        "description": "<p><br /> Adresse: 22 rue Gabriel Péri 69100 VILLEURBANNE<br /> \nTel: +33 (0) 437 436 403</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          4.864304,
+          45.771201
+        ],
+        "type": "Point"
+      },
+      "id": "f67113759547456d4c1e51ba48adf07b"
+    }
+  ],
+  "type": "FeatureCollection"
+}

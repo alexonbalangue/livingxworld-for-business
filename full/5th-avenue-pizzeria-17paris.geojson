@@ -1,0 +1,24 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iry8ur8o0",
+        "title": "78 Rue Pouchet",
+        "description": "<p></p>\n<p><br /> Adresse: 78 rue pouchet 75017 Paris FRANCE<br /> \nTel: +33 (0) 146 279 415</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Jeudi: 11h00 - 15h00, 18h00 - 23h00</li>\n<li>Vendredi: 18h00 - 23h00</li>\n<li>Samedi: 11h00 - 15h00, 18h00 - 23h00</li>\n<li>Dimanche: 18h00 - 23h00</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.322593,
+          48.896583
+        ],
+        "type": "Point"
+      },
+      "id": "be820e484dd2fcddca0d230df4d01231"
+    }
+  ],
+  "type": "FeatureCollection"
+}

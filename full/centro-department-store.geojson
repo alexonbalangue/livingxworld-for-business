@@ -1,0 +1,233 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipzuv38r8",
+        "title": "Sorsogon City",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          124.0075,
+          12.9811
+        ],
+        "type": "Point"
+      },
+      "id": "074faf6eb98c67dbac045c4fe1693ac7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipzuw109b",
+        "title": "Virac",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          124.2167,
+          13.6333
+        ],
+        "type": "Point"
+      },
+      "id": "3833e8f428dedc0ce2bfcf8a11fd7a11"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipzut12v3",
+        "title": "Cotabato City",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          124.25,
+          7.2167
+        ],
+        "type": "Point"
+      },
+      "id": "4340cd95e5828388120e28ecb26546f0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipzushen1",
+        "title": "Calbayog City",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          124.5962,
+          12.0668
+        ],
+        "type": "Point"
+      },
+      "id": "436d58f829b994174666d25f3c1ae636"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipzuukl57",
+        "title": "Solano",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          121.2,
+          16.5333
+        ],
+        "type": "Point"
+      },
+      "id": "62b9e787651dd255ca18f6027500b2b2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipzutl735",
+        "title": "Lemery",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          120.8833,
+          13.9667
+        ],
+        "type": "Point"
+      },
+      "id": "6ab969cfb361ba84395b0c925a7a0bdf"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipzuta5v4",
+        "title": "Daet",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          122.9536,
+          14.1071
+        ],
+        "type": "Point"
+      },
+      "id": "ac10f59e7f29166d2d642bc05edb9708"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipzuvfk59",
+        "title": "Santa Cruz",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          121.4161,
+          14.2814
+        ],
+        "type": "Point"
+      },
+      "id": "bbd70fe1c9c6fccf41f103ce4b3b9176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipzus6a60",
+        "title": "Bangued",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          120.5833,
+          17.6167
+        ],
+        "type": "Point"
+      },
+      "id": "ce1dbec3a0051b081109d22e35cb0fb8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipzutvxp6",
+        "title": "Santiago City",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          121.5,
+          16.7333
+        ],
+        "type": "Point"
+      },
+      "id": "da16de67196906a675e13aa3ac68bf3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipzusqxl2",
+        "title": "Catbalogan City",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          124.8861,
+          11.7753
+        ],
+        "type": "Point"
+      },
+      "id": "ef7600be5db2274f6153d77b85043e4f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipzuvnzpa",
+        "title": "Tuguegarao City",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          121.75,
+          17.6167
+        ],
+        "type": "Point"
+      },
+      "id": "fad29cb94a490b4546dac49b3e9e30b8"
+    }
+  ],
+  "type": "FeatureCollection"
+}

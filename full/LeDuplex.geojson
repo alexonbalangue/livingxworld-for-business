@@ -1,0 +1,24 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipaa2j250",
+        "title": "Le Duplex",
+        "description": "Adresse: 2Bis Avenue Foch, 75116 Paris<br>\nTel: +33 (0) 145 004 500<br>\n\nHoraire:\n    Lundi - Dimanche: 23h00 - 6h00",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.291943,
+          48.87315
+        ],
+        "type": "Point"
+      },
+      "id": "0ed103ec959c0d7d529cc46ad14d0a3f"
+    }
+  ],
+  "type": "FeatureCollection"
+}

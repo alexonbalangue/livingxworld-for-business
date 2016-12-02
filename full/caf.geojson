@@ -1,0 +1,290 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoc4ukic",
+        "title": "Potain",
+        "description": "",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.397805,
+          48.877122
+        ],
+        "type": "Point"
+      },
+      "id": "11e83705e40587dd5685e17b1cc19799"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoc36pm9",
+        "title": "Toussarégaud",
+        "description": "Adresse: 21 avenue Claude Régaud 75013 Paris <br />Horaire<br /><br />Lundi - Vendredi: de 9h00 à 12h30 et de 13h30 à 17h30</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.372525,
+          48.821036
+        ],
+        "type": "Point"
+      },
+      "id": "2d7b85f4d7de4832f6adc1c52be64d9b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipobx4fn0",
+        "title": "Finlay",
+        "description": "Adresse: 50 rue du Docteur Finlay 75015 Paris <br />Horaire<br /><br />Lundi - Vendredi: 8h30 - 16h30 Mercredi: Fermé</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.291295,
+          48.851109
+        ],
+        "type": "Point"
+      },
+      "id": "3271e289cdcdf2405e77027f1de52e42"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipobz9te3",
+        "title": "Nationale",
+        "description": "Adresse: 101 rue Nationale 75013 Paris <br />Horaire<br /><br />Lundi - Vendredi: 8h30 - 16h30</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.365527,
+          48.828304
+        ],
+        "type": "Point"
+      },
+      "id": "3eb293d95e65c5cb9ad4248b6a4bc774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipobyoxh2",
+        "title": "Laumière",
+        "description": "Adresse: 67-69 avenue Jean Jaurès 75019 Paris <br />Horaire<br /><br />Lundi - Vendredi: 8h30 - 16h30</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.375977,
+          48.884456
+        ],
+        "type": "Point"
+      },
+      "id": "4884b10005ef398007e63b3d6a563f11"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoc1s3r7",
+        "title": "d'Annam",
+        "description": "Adresse: 4 rue d'Annam 75020 Paris <br />Horaire<br /><br />Lundi - Vendredi: de 9h00 à 12h30 et de 13h30 à 17h30</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.394025,
+          48.866112
+        ],
+        "type": "Point"
+      },
+      "id": "642490c24af9343a44d91186126bb0eb"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoc0k6l5",
+        "title": "Charenton",
+        "description": "Adresse: 295 rue de Charenton 75012 Paris <br />Horaire<br /><br />Lundi - Vendredi: de 9h00 à 12h30 et de 13h30 à 17h30</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.394167,
+          48.834286
+        ],
+        "type": "Point"
+      },
+      "id": "700bf4cfce80b8ab62cf9638bfcf9432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoc03jr4",
+        "title": "Belliard",
+        "description": "Adresse: 145 rue Belliard 75018 Paris <br />Horaire<br /><br />Lundi - Vendredi: de 9h00 à 12h30 et de 13h30 à 17h30</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.333503,
+          48.896079
+        ],
+        "type": "Point"
+      },
+      "id": "715d05ff8df48c0e004b8b009c7e4393"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoby0s21",
+        "title": "Chapelle",
+        "description": "Adresse: 47 rue de la Chapelle 75018 Paris <br />Horaire<br /><br />Lundi - Vendredi: 8h30 - 16h30</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.359579,
+          48.893614
+        ],
+        "type": "Point"
+      },
+      "id": "790e862f66e0324aac3e7dabf8196b3c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoc5qqrd",
+        "title": "Regnault",
+        "description": "<p>CAF de régnault<br /> Adresse: 26 rue Régnault 75013 Paris <br />Horaire<br /><br />Lundi - Vendredi: non indiquer</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.377068,
+          48.824797
+        ],
+        "type": "Point"
+      },
+      "id": "7bc5599a96dfeab775dbc8231fa9d52d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoc3uwoa",
+        "title": "Bargue",
+        "description": "Adresse: 9-11 rue Bargue 75015 Paris <br />Horaire<br /><br />Lundi - Vendredi: non indiquer</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.307716,
+          48.838889
+        ],
+        "type": "Point"
+      },
+      "id": "89dff81333297e02645d906a8750452f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoc10wy6",
+        "title": "Chevaleret",
+        "description": "Adresse: 1-3 rue Eugène Oudiné 75013 Paris <br />Horaire<br /><br />Lundi - Vendredi: de 9h00 à 12h30 et de 13h30 à 17h30</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.375541,
+          48.825784
+        ],
+        "type": "Point"
+      },
+      "id": "9c8bd03767ff19e01f16118c8c044ee8"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoc2j058",
+        "title": "Tanger",
+        "description": "Adresse: 28 rue de Tanger 75019 Paris <br />Horaire<br /><br />Lundi - Vendredi: de 9h00 à 12h30 et de 13h30 à 17h30</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.369294,
+          48.886628
+        ],
+        "type": "Point"
+      },
+      "id": "a16112deed6fe92e51e06686c366b579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoc4dg2b",
+        "title": "Boulanger",
+        "description": "Adresse: 86 rue René Boulanger 75010 Paris <br />Horaire<br /><br />Lundi - Vendredi: non indiquer</p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.356705,
+          48.869392
+        ],
+        "type": "Point"
+      },
+      "id": "a7743cf3f3914b4d4626de58f7ece72c"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-ipoc6q5re",
+        "title": "Saussure",
+        "description": "Adresse: 4 rue de la Crèche 75017 Paris <br />Horaire<br /><br />Lundi - Vendredi: de 9h00 à 12h00 et de 14h00 à 17h00 (Sur rendez-vous)</p>\n<p> </p>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.306496,
+          48.887352
+        ],
+        "type": "Point"
+      },
+      "id": "f50326c14ed08b15d8a48cbe6f254baa"
+    }
+  ],
+  "type": "FeatureCollection"
+}

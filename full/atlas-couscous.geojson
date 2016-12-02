@@ -1,0 +1,43 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-irye95jt0",
+        "title": "Rue Didot",
+        "description": "<p></p>\n<p><br /> Adresse: rue Didot 75014 Paris<br /> \nTel: +33 (0) 145 412 222</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Dimanche de 10h30 à 14h15 et 18h30 - 22h15</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.318954,
+          48.830322
+        ],
+        "type": "Point"
+      },
+      "id": "2327ce7982d2b95f83dc759067785cae"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-irye9ue11",
+        "title": "Rue Cardinet",
+        "description": "<p></p>\n<p><br /> Adresse: rue Cardinet 75017 Paris<br /> \nTel: +33 (0) 145 414 141</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Dimanche de 10h30 à 14h15 et 18h30 - 22h15</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.31241,
+          48.886284
+        ],
+        "type": "Point"
+      },
+      "id": "5507a55b4f2e2b74e5f6719e5f9fc9f1"
+    }
+  ],
+  "type": "FeatureCollection"
+}

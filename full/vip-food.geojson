@@ -1,0 +1,24 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "marker-iryarpdt0",
+        "title": "8 Avenue de la Porte de Saint-Ouen",
+        "description": "<p></p>\n<p><br /> Adresse: 8 Avenue de la Porte de St-Ouen 75018 Paris<br /> \nTel: +33 (0) 158 593 570</p>\n<p><strong>Horaire</strong></p>\n<ul>\n<li>Lundi - Dimanche: 10h00 à 00h00.</li>\n</ul>",
+        "marker-size": "medium",
+        "marker-color": "#1087bf",
+        "marker-symbol": ""
+      },
+      "geometry": {
+        "coordinates": [
+          2.32889,
+          48.89801
+        ],
+        "type": "Point"
+      },
+      "id": "c47106e6190c9ebd54a966977895332e"
+    }
+  ],
+  "type": "FeatureCollection"
+}

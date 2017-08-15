@@ -1,0 +1,21 @@
+﻿{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "place_name": "66 Boulevard Bessières, Paris, 75017, France",
+        "title": "Alexon Balangue",
+        "description": "Testing DEV custom<br />finaly soon PROD on LivingxWorld.com<br />Adopted easy using"
+      },
+      "geometry": {
+        "coordinates": [
+          2.321162,
+          48.897155
+        ],
+        "type": "Point"
+      },
+      "id": "address.12623520734031400"
+    }
+  ],
+  "type": "FeatureCollection"
+}

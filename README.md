@@ -8,7 +8,7 @@ Want share your name business on https://www.livingxworld.com, but what coder la
 
 Juste create one file and autorisate only (Business-name.geojson). �
 
-You're loosing just create the generator with http://geojson.io, share to here and will add 1 month business days on Livivngxworld.com
+You're loosing just create the generator with http://geojson.io or https://mapbox.com, share to here and will add 1 month business days on Livivngxworld.com
 
 
 

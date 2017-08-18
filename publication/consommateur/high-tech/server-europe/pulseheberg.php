@@ -5,7 +5,7 @@
 
  <p><strong>Description:</strong> --</p>
 
-Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
+[youtube source="dVRHosYwl3U" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -26,8 +26,9 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//pulseheberg.com" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
+		[fa name="map-marker" zoom="2x" /] 16 AVENUE DE L EUROPE 78140 VELIZY VILLACOUBLAY [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
+		SIRET: [a href="https://www.societe.com/etablissement/groupe-pulseheberg-79171579000022-1a.html"]791 715 790 00022[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
@@ -57,22 +58,60 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
 <p> </p>
-<p> --</p>
+<p> hébergement web</p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]education[ends tags="th" /] 
+				[begins tags="th" /]premier[ends tags="th" /] 
+				[begins tags="th" /]premium[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] €15/ans[ends tags="td" /] 
+				[begins tags="td" /] €3/mois[ends tags="td" /] 
+				[begins tags="td" /]€5/mois [ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> serveur privé</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]2[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /]à partir de €3/Mois [ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> serveur dédié</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]16[ends tags="th" /] 
+				[begins tags="th" /]32[ends tags="th" /] 
+				[begins tags="th" /]64[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /]€40/Mois [ends tags="td" /] 
+				[begins tags="td" /]€50/Mois [ends tags="td" /] 
+				[begins tags="td" /]€62/Mois [ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -93,7 +132,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] COMODO RSA Domain Validation Secure Server CA : oui (sécurisé peut mieux faire A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -109,7 +148,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] incomplet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -136,36 +175,25 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@type": "LocalBusiness",
 		"name": "pulseheberg",
 		"url": "https://pulseheberg.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
-		"logo": "https://business.livingxworld.com/images/.jpg",
-		"telephone": "+33100000000",
+		"logo": "https://business.livingxworld.com/images/pulseheberg.jpg",
 		"description": " ",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card, paypal",
-		"priceRange": "€€",
+		"priceRange": "€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
+			"streetAddress": "16 AVENUE DE L EUROPE",
+			"addressLocality": "VELIZY VILLACOUBLAY",
+			"postalCode": "78140",
 			"addressCountry": "france"
 		},
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"hasMap": "https://www.google.fr/maps/place/16+Avenue+de+l'Europe,+78140+V%C3%A9lizy-Villacoublay/@48.780303,2.2142981,17z/data=!3m1!4b1!4m5!3m4!1s0x47e67bd7a262bb61:0x2538f247786ed3f5!8m2!3d48.780303!4d2.2164868",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-08-20",
 			"inLanguage": "french",
             "name": "pulseheberg",
             "reviewBody": " ",

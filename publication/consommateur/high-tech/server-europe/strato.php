@@ -3,9 +3,9 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> STRATO est un site marchand qui vous accompagne sur internet : Noms de domaine, Hébergement, e-Commerce, Serveurs etc. Les packs STRATO sont adaptés à tous vos besoins !</p>
 
-Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
+[youtube source="hub5cGbxkuE" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,9 +25,10 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//strato.com" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//strato.fr" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] Berlin Charlottenburg HRB 79450 10587 Berlin, Allemagne[br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
+		SIRET: [a href=""][/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
@@ -42,13 +43,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="strato.com" /] 
+		[whois-domains url="strato.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="strato.com" /]
+		[ssllabs domains="strato.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="strato.com" /]
+		[api-myipms query="strato.fr" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -57,22 +58,70 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
 <p> </p>
-<p> --</p>
+<p> hébergement web</p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]basic[ends tags="th" /] 
+				[begins tags="th" /]intermédiaire[ends tags="th" /] 
+				[begins tags="th" /]avancé[ends tags="th" /] 
+				[begins tags="th" /]expert[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /]€2.16/Mois [ends tags="td" /] 
+				[begins tags="td" /]€4.68/Mois [ends tags="td" /] 
+				[begins tags="td" /] €8.28/Mois[ends tags="td" /] 
+				[begins tags="td" /]€11.88/Mois [ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> serveur privé</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]0[ends tags="th" /] 
+				[begins tags="th" /]1[ends tags="th" /] 
+				[begins tags="th" /]2[ends tags="th" /] 
+				[begins tags="th" /]3[ends tags="th" /] 
+				[begins tags="th" /]4[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /]€5.88/Mois [ends tags="td" /] 
+				[begins tags="td" /]€7.90/Mois [ends tags="td" /] 
+				[begins tags="td" /] €17.88/Mois[ends tags="td" /] 
+				[begins tags="td" /]€29.88/Mois [ends tags="td" /] 
+				[begins tags="td" /]€41.88/Mois [ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> serveur dédié</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]gamme bronze[ends tags="th" /] 
+				[begins tags="th" /]gamme argent[ends tags="th" /] 
+				[begins tags="th" /]gamme or[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /]€34.68/Mois [ends tags="td" /] 
+				[begins tags="td" /]€59.88/Mois [ends tags="td" /] 
+				[begins tags="td" /] €143.28/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -93,7 +142,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /]  	thawte SSL CA - G2 : oui (sécurisé peut mieux faire A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -109,7 +158,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -135,44 +184,42 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
 		"name": "strato",
-		"url": "https://strato.com",
+		"url": "https://strato.fr",
 		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
+			"https://strato.de",
+			"https://strato.nl",
+			"https://strato.es",
+			"https://strato.it",
+			"https://strato.fr",
+			"https://strato.fr.tr",
+			"https://strato-hosting.co.uk"
 		],
-		"logo": "https://business.livingxworld.com/images/.jpg",
-		"telephone": "+33100000000",
-		"description": " ",
+		"logo": "https://business.livingxworld.com/images/strato.jpg",
+		"description": "STRATO est un site marchand qui vous accompagne sur internet : Noms de domaine, Hébergement, e-Commerce, Serveurs etc. Les packs STRATO sont adaptés à tous vos besoins !",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card, paypal",
-		"priceRange": "€€",
+		"priceRange": "€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "france"
+			"streetAddress": "Berlin Charlottenburg HRB 79450",
+			"addressLocality": "Berlin",
+			"postalCode": "10587",
+			"addressCountry": "Allemagne"
 		},
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"hasMap": "https://www.google.fr/maps/search/Berlin+Charlottenburg+HRB++Berlin/@52.5067312,13.2954082,14z/data=!3m1!4b1",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-08-20",
 			"inLanguage": "french",
             "name": "strato",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "2",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

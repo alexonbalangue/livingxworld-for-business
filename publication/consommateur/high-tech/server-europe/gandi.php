@@ -3,9 +3,10 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> GANDI Domaine est le premier bureau d'enregistrement de nom de domaine français (registrar) agréé par l'ICANN pour l'achat de noms de domaine en .COM, .NET, .ORG, .BIZ, .INFO, .NAME, .BE, .FR, .EU., .UK, .CH, .LI, .TV, .CC, .NU, .US, .MOBI, .ASIA, .DE, .IT, .AT, .NL. Transférez ou achetez votre domaine sur Gandi.net et bénéficiez d'un blog et de 5 boites mail gratuites et de la gestion complète de votre nom de domaine.
+Gandi Hébergement vous propose une solution d'hébergement virtuel dédiée flexible sans engagement sur une technologie Xen.</p>
 
-Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
+[youtube source="oISkuHARvGQ" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,13 +26,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//gandi.com" target="_blank"]Site internet[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//gandi.net" target="_blank"]Site internet[/a] [br /]
 		[fa name="map-marker" zoom="2x" /] adresse [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
 	[ends tags="div" /]	
-	[begins tags="div" class="col-xs-12 col-md-8" /]
+	[begins tags="div" class="col-xs-12 col-md-8 text-center" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="high-tech" category="server-europe" entreprise="gandi" /]
+		siège social n'est pas indiqué
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -42,13 +43,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="gandi.com" /] 
+		[whois-domains url="gandi.net" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="gandi.com" /]
+		[ssllabs domains="gandi.net" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="gandi.com" /]
+		[api-myipms query="gandi.net" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -57,22 +58,64 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
 <p> </p>
-<p> --</p>
+<p> hébergement web</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]--[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /]à partir de €4.80/Mois  [ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> serveur cloud</p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
 				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /]à partir de €4.18/Mois [ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> certificat ssl</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]type[ends tags="th" /] 
+				[begins tags="th" /]standard[ends tags="th" /] 
+				[begins tags="th" /]Pro[ends tags="th" /] 
+				[begins tags="th" /]Business[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] simple [ends tags="td" /] 
+				[begins tags="td" /] €14.40/ans [ends tags="td" /] 
+				[begins tags="td" /] €40.80/ans [ends tags="td" /] 
+				[begins tags="td" /] €336/ans [ends tags="td" /] 
+			[ends tags="tr" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] wildcard [ends tags="td" /] 
+				[begins tags="td" /] €144/ans [ends tags="td" /] 
+				[begins tags="td" /] €318/ans [ends tags="td" /] 
+				[begins tags="td" /] €600/ans [ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -93,7 +136,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] COMODO RSA Extended Validation Secure Server CA: oui (sécurisé peut mieux faire A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -109,7 +152,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /]inexistant[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -135,37 +178,18 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
 		"name": "gandi",
-		"url": "https://gandi.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
-		"logo": "https://business.livingxworld.com/images/.jpg",
-		"telephone": "+33100000000",
-		"description": " ",
+		"url": "https://gandi.net",
+		"logo": "https://business.livingxworld.com/images/gandi.jpg",
+		"description": "GANDI Domaine est le premier bureau d'enregistrement de nom de domaine français (registrar) agréé par l'ICANN pour l'achat de noms de domaine en .COM, .NET, .ORG, .BIZ, .INFO, .NAME, .BE, .FR, .EU., .UK, .CH, .LI, .TV, .CC, .NU, .US, .MOBI, .ASIA, .DE, .IT, .AT, .NL. Transférez ou achetez votre domaine sur Gandi.net et bénéficiez d'un blog et de 5 boites mail gratuites et de la gestion complète de votre nom de domaine. Gandi Hébergement vous propose une solution d'hébergement virtuel dédiée flexible sans engagement sur une technologie Xen.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card, paypal",
 		"priceRange": "€€",
-		"address": {
-			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "france"
-		},
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-08-20",
 			"inLanguage": "french",
             "name": "gandi",
             "reviewBody": " ",

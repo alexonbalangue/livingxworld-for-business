@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/siteground.png" alt="siteground" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/amen.png" alt="amen" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> Nos services d'hébergement Web sont conçus pour une vitesse maximale, une sécurité inégalée, un support rapide et expert 24 heures sur 24, 7 jours sur 7. Confié à plus de 800 000 domaines!</p>
+ <p><strong>Description:</strong> Découvrez nos offres : hébergement Linux et windows, serveurs privés et dédiés, plateformes ecommerce - Amen,1er fournisseur français de noms de domaine</p>
 
-[youtube source="j37UUyqaGH0" /]
+[youtube source="LFIOj3onklQ" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,13 +25,14 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//siteground.com" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] Calle Prim 19, 28004 Madrid Spain [br /]
-		[fa name="phone" zoom="2x" /] aucun [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//amen.fr" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 12 RPT CHAMPS ELYSEES M DASSAULT - 75008 PARIS  [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+330811887766"]0811 88 77 66[/a] [br /]
+		SIREN: [a href="https://www.societe.com/etablissement/agence-des-medias-numeriques-42152779700011-0a.html"]421 527 797 000 11[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="high-tech" category="server-europe" entreprise="siteground" /]
+		[mapbox-custom parent="high-tech" category="server-europe" entreprise="amen" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -42,13 +43,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="siteground.com" /] 
+		[whois-domains url="amen.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="siteground.com" /]
+		[ssllabs domains="amen.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="siteground.com" /]
+		[api-myipms query="amen.fr" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -63,39 +64,35 @@
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /]startup[ends tags="th" /] 
-				[begins tags="th" /]growbig[ends tags="th" /] 
-				[begins tags="th" /]gogeek[ends tags="th" /] 
+				[begins tags="th" /]smart[ends tags="th" /] 
+				[begins tags="th" /]advanced[ends tags="th" /] 
+				[begins tags="th" /]entreprise[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /]€9.70/Mois [ends tags="td" /] 
-				[begins tags="td" /] €15.80/Mois[ends tags="td" /] 
-				[begins tags="td" /]€29.22/Mois [ends tags="td" /] 
+				[begins tags="td" /] €4.76/Mois[ends tags="td" /] 
+				[begins tags="td" /]€8.36/Mois [ends tags="td" /] 
+				[begins tags="td" /]€15.56/Mois [ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
 [ends tags="div" /]
 <p> </p>
-<p> serveur cloud</p>
+<p> serveur privé</p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /]entry[ends tags="th" /] 
-				[begins tags="th" /]business[ends tags="th" /] 
-				[begins tags="th" /]business super[ends tags="th" /] 
-				[begins tags="th" /]Super Power[ends tags="th" /] 
+				[begins tags="th" /]vps[ends tags="th" /] 
+				[begins tags="th" /]cloud vps[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /]€79.36/Mois [ends tags="td" /] 
-				[begins tags="td" /] €119.04/Mois[ends tags="td" /] 
-				[begins tags="td" /]€158.72/Mois [ends tags="td" /] 
-				[begins tags="td" /]€238.08/Mois [ends tags="td" /] 
+				[begins tags="td" /]€3/Mois[ends tags="td" /] 
+				[begins tags="td" /]€9/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -107,16 +104,12 @@
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /]entry[ends tags="th" /] 
-				[begins tags="th" /]power[ends tags="th" /] 
-				[begins tags="th" /]super power[ends tags="th" /] 
+				[begins tags="th" /]Dell T130[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /]€223.75/Mois [ends tags="td" /] 
-				[begins tags="td" /] €332.50/Mois[ends tags="td" /] 
-				[begins tags="td" /]€420/Mois [ends tags="td" /] 
+				[begins tags="td" /]à partir de €33.60/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -130,14 +123,14 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="high-tech" category="server/europeen" entreprise="siteground" showembed="yes" /]
+		[lxw-badge parent="high-tech" category="server/europeen" entreprise="amen" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /]  	RapidSSL SHA256 CA : oui (sécurisé peut mieux faire A+)[ends tags="dd" /] 
+				[begins tags="dd" /] thawte SSL CA - G2  : oui (sécurisé peut mieux faire A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -178,21 +171,21 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "siteground",
-		"url": "https://siteground.com",
-		"logo": "https://business.livingxworld.com/images/siteground.png",
-		"description": "Nos services d'hébergement Web sont conçus pour une vitesse maximale, une sécurité inégalée, un support rapide et expert 24 heures sur 24, 7 jours sur 7. Confié à plus de 800 000 domaines!",
+		"name": "1&1",
+		"url": "https://amen.fr",
+		"logo": "https://business.livingxworld.com/images/amen.png",
+		"telephone": "+330811887766",
+		"description": "Découvrez nos offres : hébergement Linux et windows, serveurs privés et dédiés, plateformes ecommerce - Amen,1er fournisseur français de noms de domaine",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card, paypal",
 		"priceRange": "€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "Calle Prim 19",
-			"addressLocality": "Madrid",
-			"postalCode": "28004",
-			"addressCountry": "espagne"
+			"streetAddress": "12 RPT CHAMPS ELYSEES M DASSAULT, PARIS ",
+			"postalCode": "75008",
+			"addressCountry": "france"
 		},
-		"hasMap": "https://www.google.fr/maps/place/Amtsgericht+Charlottenburg:+Handels-,+Partnerschafts-+und+Genossenschaftsregister/@52.5098656,13.3199557,14z/data=!4m5!3m4!1s0x47a850fe08dfadd5:0xe00e4b688f7a6b3e!8m2!3d52.5073747!4d13.3308147",
+		"hasMap": "https://www.google.fr/maps/place/12+Rond-Point+des+Champs-%C3%89lys%C3%A9es+Marcel-Dassault,+75008+Paris/@48.869783,2.3075436,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66fc5a8a647f1:0x597102890e4195d3!8m2!3d48.869783!4d2.3097323",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
@@ -200,7 +193,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "datePublished": "2014-06-12",
             "dateModified": "2017-08-20",
 			"inLanguage": "french",
-            "name": "siteground",
+            "name": "amen",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",

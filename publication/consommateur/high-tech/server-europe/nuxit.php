@@ -26,8 +26,9 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//nuxit.com" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] 400 Avenue Roumanille BP 309 06906 Sophia Antipolis Cedex [br /]
-		[fa name="phone" zoom="2x" /] [a href="+33486576000"]04 86 57 6000[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 130 AVENUE DU PRESIDENT WILSON 93100 MONTREUIL FRANCE[br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33486576000"]04 86 57 6000[/a] [br /]
+		SIRET: [a href="https://www.societe.com/societe/nuxit-451146757.html"] 451 146 757[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
@@ -57,22 +58,49 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
 <p> </p>
-<p> --</p>
+<p> hébergement web</p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]perso[ends tags="th" /] 
+				[begins tags="th" /]pro[ends tags="th" /] 
+				[begins tags="th" /]ILLIMITÉ[ends tags="th" /] 
+				[begins tags="th" /]performance[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /]€4.79/Mois [ends tags="td" /] 
+				[begins tags="td" /]€7.19/Mois  [ends tags="td" /] 
+				[begins tags="td" /]€11.99/Mois  [ends tags="td" /] 
+				[begins tags="td" /]€11.99/Mois  [ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> serveur dédié</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]2G[ends tags="th" /] 
+				[begins tags="th" /]4G[ends tags="th" /] 
+				[begins tags="th" /]8G[ends tags="th" /] 
+				[begins tags="th" /]16G[ends tags="th" /] 
+				[begins tags="th" /]24G[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /]€17.88/Mois [ends tags="td" /] 
+				[begins tags="td" /]€23.88/Mois  [ends tags="td" /] 
+				[begins tags="td" /]€35.88/Mois  [ends tags="td" /] 
+				[begins tags="td" /]€71.88/Mois  [ends tags="td" /] 
+				[begins tags="td" /]€119.88/Mois  [ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -93,7 +121,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] COMODO RSA Domain Validation Secure Server CA : A (sécurisé peut mieux faire A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -109,7 +137,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -141,26 +169,26 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"description": "Hébergeur NUXIT, votre hébergeur confiance depuis 2003. Hébergement de site internet, serveur dédié, achat de nom de domaine, création de site en ligne, infogérance, support exemplaire.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card, paypal",
-		"priceRange": "€€",
+		"priceRange": "€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "400 Avenue Roumanille BP 309 06906 Sophia Antipolis Cedex",
+			"streetAddress": "130 AVENUE DU PRESIDENT WILSON 93100 MONTREUIL",
 			"addressCountry": "france"
 		},
-		"hasMap": "https://www.google.fr/maps/place/NCI+-+Sophia+Antipolis/@43.6227887,7.073173,17z/data=!3m1!4b1!4m5!3m4!1s0x12cc2b3cc3235fcb:0xd20d612341608672!8m2!3d43.6227887!4d7.0753617",
+		"hasMap": "https://www.google.fr/maps/place/130+Avenue+du+Pr%C3%A9sident+Wilson,+93100+Montreuil/@48.8552187,2.4372557,17z/data=!3m1!4b1!4m5!3m4!1s0x47e672a0a7f3f149:0x7d4fb9619b6d2b21!8m2!3d48.8552187!4d2.4394444",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-08-20",
 			"inLanguage": "french",
             "name": "nuxit",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "2",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

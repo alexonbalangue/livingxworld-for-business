@@ -3,9 +3,9 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Firstheberg, votre spécialiste de l'hébergement mutualisé, serveurs dédiés et VPS depuis 2010. Découvrez notre offre complète à partir de 1,49€ HT / mois.</p>
 
-Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
+[youtube source="_npafMLJ-yk" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -26,8 +26,9 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//firstheberg.com" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
+		[fa name="map-marker" zoom="2x" /] Valencanal, Chemin du Noir Mouton 59300 VALENCIENNES [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
+		SIRET: [a href="https://www.societe.com/societe/techcrea-solutions-519909709.html"]519 909 709[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
@@ -57,22 +58,77 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
 <p> </p>
-<p> --</p>
+<p> hébergement web</p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]start[ends tags="th" /] 
+				[begins tags="th" /]mini[ends tags="th" /] 
+				[begins tags="th" /]pro[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] gratuit[ends tags="td" /] 
+				[begins tags="td" /] €1.79/Mois[ends tags="td" /] 
+				[begins tags="td" /] €5.99/Mois[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> serveur privé</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]ssd[ends tags="th" /] 
+				[begins tags="th" /]hdd[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] gratuit[ends tags="td" /] 
+				[begins tags="td" /] €2.39/Mois[ends tags="td" /] 
+				[begins tags="td" /] €2.39/Mois[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> serveur privé</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]ssd[ends tags="th" /] 
+				[begins tags="th" /]hdd[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] gratuit[ends tags="td" /] 
+				[begins tags="td" /] €2.39/Mois[ends tags="td" /] 
+				[begins tags="td" /] €2.39/Mois[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> serveur privé</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]intel atom[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] à partir de €9.99/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -93,7 +149,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /]COMODO RSA Domain Validation Secure Server CA : B (non sécurisé doit faire mieux A+) | à corriger Diffie-Hellman (DH)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -109,7 +165,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -136,36 +192,25 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@type": "LocalBusiness",
 		"name": "firstheberg",
 		"url": "https://firstheberg.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
-		"logo": "https://business.livingxworld.com/images/.png",
-		"telephone": "+33100000000",
-		"description": " ",
+		"logo": "https://business.livingxworld.com/images/firstheberg.png",
+		"description": "Firstheberg, votre spécialiste de l'hébergement mutualisé, serveurs dédiés et VPS depuis 2010. Découvrez notre offre complète à partir de 1,49€ HT / mois.",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "card, paypal",
-		"priceRange": "€€",
+		"paymentAccepted": "card, paypal, paysafecard",
+		"priceRange": "",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
+			"streetAddress": "Valencanal, Chemin du Noir Mouton",
+			"addressLocality": "VALENCIENNES",
+			"postalCode": "59300",
 			"addressCountry": "france"
 		},
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"hasMap": "https://www.google.fr/maps/place/Techcrea+Solutions/@50.370134,3.5196643,17z/data=!3m1!4b1!4m5!3m4!1s0x47c2eddb83e3c49d:0x4d5794c3c55f9128!8m2!3d50.370134!4d3.521853",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-08-20",
 			"inLanguage": "french",
             "name": "firstheberg",
             "reviewBody": " ",

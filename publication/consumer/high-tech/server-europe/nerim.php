@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/solution-web.png" alt="solution web" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/nerim.png" alt="nerim" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
 
- <p><strong>Description:</strong> Find out why Web Solution Canada is the reference for your Internet needs. Turnkey solutions, support 24 hours in French and much more.</p>
+ <p><strong>Description:</strong> Nerim | The Internet and Telecom Operator of Enterprises</p>
 
-[youtube source="vvehJ2rGMxk" /]
+Sorry the contractor presents no free video on the web.
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,13 +25,14 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//solution-web.ca" target="_blank"]Website[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] 1129 rue De Meulles, Saint-Bruno de Montarville, Qc (Canada) J3V 3A4 [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+18885770830"]1 888 577-0830[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//nerim.net" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 102 AVENUE DU PRESIDENT KENNEDY 75016 PARIS FRANCE [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33180400500"]01 80 400 500[/a] [br /]
+		SIRET: [a href="https://www.societe.com/societe/nerim-424564532.html"]424 564 532[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]map[/h3]
-		[mapbox-custom parent="high-tech" category="server-american" entreprise="solution-web" /]
+		[mapbox-custom parent="high-tech" category="server-europe" entreprise="nerim" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -42,13 +43,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="solution-web.ca" /] 
+		[whois-domains url="nerim.net" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="solution-web.ca" /]
+		[ssllabs domains="nerim.net" /]
 		[h3]Your data are:[/h3]
-		[api-myipms query="solution-web.ca" /]
+		[api-myipms query="nerim.net" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -57,22 +58,54 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>The Prices Proposed in Taxe (without promotion)</strong></span></h2>
 <p> </p>
-<p>shared hosting: </p>
+<p> shared hosting</p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /]particulier[ends tags="th" /] 
-				[begins tags="th" /]developpeur[ends tags="th" /] 
-				[begins tags="th" /]entreprise[ends tags="th" /] 
+				[begins tags="th" /]--[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /]$5.75/Mo [ends tags="td" /] 
-				[begins tags="td" /]$7.75/Mo [ends tags="td" /] 
-				[begins tags="td" /]$15.25/Mo [ends tags="td" /] 
+				[begins tags="td" /]à partir de €3.36/Mois [ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> private server</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]--[ends tags="th" /] 
+				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /][ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] à partir de €10.80[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> dedicated server</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]--[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /]à partir de 118.80€/Mois [ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -80,23 +113,24 @@
 <p> </p>
 <p> </p>
 <p> </p>
+
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note and advice with requirement</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="high-tech" category="server/americain" entreprise="solution-web" showembed="yes" /]
+		[lxw-badge parent="high-tech" category="server/europeen" entreprise="nerim" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Tester reviews (by Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /]  	COMODO RSA Domain Validation Secure Server CA : A- (Unsecured must do better A+) | to correct Forward Secrecy [ends tags="dd" /] 
+				[begins tags="dd" /] impossible de scanner[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
-		[h3]Independent control[/h3]
+		[h3]Contrôle indépendant[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Customer services[ends tags="dt" /] 
@@ -124,6 +158,7 @@
 	[ends tags="div" /]
  
  [br /] [br /]
+
 It is up to you to give your opinion: according to its customer service, its proposals, quality of the service and more.
 
 
@@ -132,28 +167,30 @@ It is up to you to give your opinion: according to its customer service, its pro
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "solution web",
-		"url": "https://solution-web.ca",
-		"logo": "https://business.livingxworld.com/images/solution-web.png",
-		"telephone": "+18885770830",
-		"description": "Find out why Web Solution Canada is the reference for your Internet needs. Turnkey solutions, support 24 hours in French and much more.",
-		"currenciesAccepted": "CAD",
-		"paymentAccepted": "cash",
-		"priceRange": "$",
+		"name": "nerim",
+		"url": "https://nerim.net",
+		"logo": "https://business.livingxworld.com/images/nerim.png",
+		"telephone": "+33180400500",
+		"description": "Nerim | The Internet and Telecom Operator of Enterprises",
+		"currenciesAccepted": "EUR",
+		"paymentAccepted": "card, paypal",
+		"priceRange": "€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "1129 rue De Meulles, Saint-Bruno de Montarville, Qc J3V 3A4",
-			"addressCountry": "Canada"
+			"streetAddress": "102 AVENUE DU PRESIDENT KENNEDY",
+			"addressLocality": "Paris",
+			"postalCode": "75016",
+			"addressCountry": "france"
 		},
-		"hasMap": "https://www.google.fr/maps/place/1129+Rue+de+Meulles,+Saint-Bruno-de-Montarville,+QC+J3V+3A4,+Canada/@45.5289638,-73.3608562,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc9014e61eff93b:0x4504a90804025882!8m2!3d45.5289638!4d-73.3586675",
+		"hasMap": "https://www.google.fr/maps/place/102+Avenue+du+Pr%C3%A9sident+Kennedy,+75016+Paris/@48.8534917,2.2794444,17z/data=!3m1!4b1!4m5!3m4!1s0x47e67001431180e3:0xa22b0ba5993198d7!8m2!3d48.8534917!4d2.2816331",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-18",
-			"inLanguage": "english",
-            "name": "solution web",
+            "dateModified": "2017-08-20",
+			"inLanguage": "french",
+            "name": "nerim",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",

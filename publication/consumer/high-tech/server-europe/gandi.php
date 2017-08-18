@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/solution-web.png" alt="solution web" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/gandi.jpg" alt="gandi" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
 
- <p><strong>Description:</strong> Find out why Web Solution Canada is the reference for your Internet needs. Turnkey solutions, support 24 hours in French and much more.</p>
+ <p><strong>Description:</strong> GANDI Domain is the first registered domain name registrar (registrar) authorized by ICANN to purchase domain names in .COM, .NET, .ORG, .BIZ, .INFO, .NAME,. BE, .FR, .EU., .UK, .CH, .LI, .TV, .CC, .NU, .US, .MOBI, .ASIA, .DE, .IT, .AT, .NL. Transfer or buy your domain on Gandi.net and benefit from a blog and 5 free mailboxes and the complete management of your domain name.</p>
 
-[youtube source="vvehJ2rGMxk" /]
+[youtube source="oISkuHARvGQ" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,13 +25,13 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//solution-web.ca" target="_blank"]Website[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] 1129 rue De Meulles, Saint-Bruno de Montarville, Qc (Canada) J3V 3A4 [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+18885770830"]1 888 577-0830[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//gandi.net" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] adresse [br /]
+		[fa name="phone" zoom="2x" /] aucun [br /]
 	[ends tags="div" /]	
-	[begins tags="div" class="col-xs-12 col-md-8" /]
+	[begins tags="div" class="col-xs-12 col-md-8 text-center" /]
 		[h3]map[/h3]
-		[mapbox-custom parent="high-tech" category="server-american" entreprise="solution-web" /]
+		siège social n'est pas indiqué
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -42,13 +42,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="solution-web.ca" /] 
+		[whois-domains url="gandi.net" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="solution-web.ca" /]
+		[ssllabs domains="gandi.net" /]
 		[h3]Your data are:[/h3]
-		[api-myipms query="solution-web.ca" /]
+		[api-myipms query="gandi.net" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -57,22 +57,64 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>The Prices Proposed in Taxe (without promotion)</strong></span></h2>
 <p> </p>
-<p>shared hosting: </p>
+<p> shared hosting</p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /]particulier[ends tags="th" /] 
-				[begins tags="th" /]developpeur[ends tags="th" /] 
-				[begins tags="th" /]entreprise[ends tags="th" /] 
+				[begins tags="th" /]--[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /]$5.75/Mo [ends tags="td" /] 
-				[begins tags="td" /]$7.75/Mo [ends tags="td" /] 
-				[begins tags="td" /]$15.25/Mo [ends tags="td" /] 
+				[begins tags="td" /]à partir de €4.80/Mois  [ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> cloud server</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /][ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /]à partir de €4.18/Mois [ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> certificat ssl</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]type[ends tags="th" /] 
+				[begins tags="th" /]standard[ends tags="th" /] 
+				[begins tags="th" /]Pro[ends tags="th" /] 
+				[begins tags="th" /]Business[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] simple [ends tags="td" /] 
+				[begins tags="td" /] €14.40/ans [ends tags="td" /] 
+				[begins tags="td" /] €40.80/ans [ends tags="td" /] 
+				[begins tags="td" /] €336/ans [ends tags="td" /] 
+			[ends tags="tr" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] wildcard [ends tags="td" /] 
+				[begins tags="td" /] €144/ans [ends tags="td" /] 
+				[begins tags="td" /] €318/ans [ends tags="td" /] 
+				[begins tags="td" /] €600/ans [ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -80,23 +122,24 @@
 <p> </p>
 <p> </p>
 <p> </p>
+
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note and advice with requirement</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="high-tech" category="server/americain" entreprise="solution-web" showembed="yes" /]
+		[lxw-badge parent="high-tech" category="server/europeen" entreprise="gandi" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Tester reviews (by Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /]  	COMODO RSA Domain Validation Secure Server CA : A- (Unsecured must do better A+) | to correct Forward Secrecy [ends tags="dd" /] 
+				[begins tags="dd" /] COMODO RSA Extended Validation Secure Server CA: yes (Secure can do better A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
-		[h3]Independent control[/h3]
+		[h3]Contrôle indépendant[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Customer services[ends tags="dt" /] 
@@ -108,7 +151,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /][fa name="check" /] complete[ends tags="dd" /] 
+				[begins tags="dd" /]inexistant[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -124,6 +167,7 @@
 	[ends tags="div" /]
  
  [br /] [br /]
+
 It is up to you to give your opinion: according to its customer service, its proposals, quality of the service and more.
 
 
@@ -132,28 +176,21 @@ It is up to you to give your opinion: according to its customer service, its pro
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "solution web",
-		"url": "https://solution-web.ca",
-		"logo": "https://business.livingxworld.com/images/solution-web.png",
-		"telephone": "+18885770830",
-		"description": "Find out why Web Solution Canada is the reference for your Internet needs. Turnkey solutions, support 24 hours in French and much more.",
-		"currenciesAccepted": "CAD",
-		"paymentAccepted": "cash",
-		"priceRange": "$",
-		"address": {
-			"@type": "PostalAddress",
-			"streetAddress": "1129 rue De Meulles, Saint-Bruno de Montarville, Qc J3V 3A4",
-			"addressCountry": "Canada"
-		},
-		"hasMap": "https://www.google.fr/maps/place/1129+Rue+de+Meulles,+Saint-Bruno-de-Montarville,+QC+J3V+3A4,+Canada/@45.5289638,-73.3608562,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc9014e61eff93b:0x4504a90804025882!8m2!3d45.5289638!4d-73.3586675",
+		"name": "gandi",
+		"url": "https://gandi.net",
+		"logo": "https://business.livingxworld.com/images/gandi.jpg",
+		"description": "GANDI Domaine est le premier bureau d'enregistrement de nom de domaine français (registrar) agréé par l'ICANN pour l'achat de noms de domaine en .COM, .NET, .ORG, .BIZ, .INFO, .NAME, .BE, .FR, .EU., .UK, .CH, .LI, .TV, .CC, .NU, .US, .MOBI, .ASIA, .DE, .IT, .AT, .NL. Transférez ou achetez votre domaine sur Gandi.net et bénéficiez d'un blog et de 5 boites mail gratuites et de la gestion complète de votre nom de domaine. Gandi Hébergement vous propose une solution d'hébergement virtuel dédiée flexible sans engagement sur une technologie Xen.",
+		"currenciesAccepted": "EUR",
+		"paymentAccepted": "card, paypal",
+		"priceRange": "€€",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-18",
-			"inLanguage": "english",
-            "name": "solution web",
+            "dateModified": "2017-08-20",
+			"inLanguage": "french",
+            "name": "gandi",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",

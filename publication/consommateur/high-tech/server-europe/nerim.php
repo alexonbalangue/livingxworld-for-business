@@ -3,7 +3,7 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Nerim | L'Opérateur Internet et Télécom des Entreprises</p>
 
 Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
@@ -25,9 +25,10 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//nerim.com" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] aucun [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//nerim.net" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 102 AVENUE DU PRESIDENT KENNEDY 75016 PARIS FRANCE [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33180400500"]01 80 400 500[/a] [br /]
+		SIRET: [a href="https://www.societe.com/societe/nerim-424564532.html"]424 564 532[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
@@ -42,13 +43,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="nerim.com" /] 
+		[whois-domains url="nerim.net" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="nerim.com" /]
+		[ssllabs domains="nerim.net" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="nerim.com" /]
+		[api-myipms query="nerim.net" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -57,22 +58,54 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
 <p> </p>
-<p> --</p>
+<p> hébergement web</p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]--[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /]à partir de €3.36/Mois [ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> serveur privé</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]--[ends tags="th" /] 
 				[begins tags="th" /][ends tags="th" /] 
 				[begins tags="th" /][ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] à partir de €10.80[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> serveur dédié</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]--[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /]à partir de 118.80€/Mois [ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -93,7 +126,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] impossible de scanner[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -109,7 +142,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -135,37 +168,27 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
 		"name": "nerim",
-		"url": "https://nerim.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
-		"logo": "https://business.livingxworld.com/images/.png",
-		"telephone": "+33100000000",
-		"description": " ",
+		"url": "https://nerim.net",
+		"logo": "https://business.livingxworld.com/images/nerim.png",
+		"telephone": "+33180400500",
+		"description": "Nerim | L'Opérateur Internet et Télécom des Entreprises",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card, paypal",
-		"priceRange": "€€",
+		"priceRange": "€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
+			"streetAddress": "102 AVENUE DU PRESIDENT KENNEDY",
+			"addressLocality": "Paris",
+			"postalCode": "75016",
 			"addressCountry": "france"
 		},
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"hasMap": "https://www.google.fr/maps/place/102+Avenue+du+Pr%C3%A9sident+Kennedy,+75016+Paris/@48.8534917,2.2794444,17z/data=!3m1!4b1!4m5!3m4!1s0x47e67001431180e3:0xa22b0ba5993198d7!8m2!3d48.8534917!4d2.2816331",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-08-20",
 			"inLanguage": "french",
             "name": "nerim",
             "reviewBody": " ",

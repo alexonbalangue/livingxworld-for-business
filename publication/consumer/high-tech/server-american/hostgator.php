@@ -120,7 +120,7 @@
 	[ends tags="table" /] 
 [ends tags="div" /]
 <p> </p>
-<p>serveur Cloud : </p>
+<p>cloud server : </p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 

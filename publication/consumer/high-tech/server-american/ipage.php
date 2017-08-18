@@ -57,7 +57,7 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>The Prices Proposed in Taxe (without promotion)</strong></span></h2>
 <p> </p>
-<p>Hébergement web: </p>
+<p>shared hosting: </p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
@@ -176,7 +176,7 @@ It is up to you to give your opinion: according to its customer service, its pro
 		"url": "https://ipage.com",
 		"logo": "https://business.livingxworld.com/images/ipage.png",
 		"telephone": "%201-877-472-4399",
-		"description": "Créez votre propre site Web et obtenez un nom de domaine GRATUIT avec les outils de création de sites Web simples et glisser-déposer d'iPage. Un hébergement web fiable et abordable depuis 1998!",
+		"description": "Créez votre propre site Web et obtenez un nom de domaine GRATUIT avec les outils de création de sites Web simples et glisser-déposer d'iPage. Un shared hosting fiable et abordable depuis 1998!",
 		"currenciesAccepted": "USD",
 		"paymentAccepted": "cash",
 		"priceRange": "$",

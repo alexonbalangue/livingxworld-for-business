@@ -3,9 +3,9 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Ikoula, hébergeur informatique depuis 1998 propose des solutions d’hébergement web, serveur dédié, VPS, nom de domaine, cloud, SSL, messagerie, backup et stockage.</p>
 
-Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
+[youtube source="tUHCKajI3Zc" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -26,8 +26,9 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//ikoula.com" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] aucun [br /]
+		[fa name="map-marker" zoom="2x" /] 175 RUE D AGUESSEAU 92100 BOULOGNE BILLANCOURT [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33184010250"]01 84 01 02 50[/a] [br /]
+		SIRET: [a href="https://www.societe.com/societe/ikoula-net-417680618.html"]417 680 618[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
@@ -57,22 +58,60 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
 <p> </p>
-<p> --</p>
+<p> hébergement web</p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]basic[ends tags="th" /] 
+				[begins tags="th" /]smart[ends tags="th" /] 
+				[begins tags="th" /]pro[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] €2.99/Mois[ends tags="td" /] 
+				[begins tags="td" /] €5.99/Mois[ends tags="td" /] 
+				[begins tags="td" /] €11.99/Mois[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> serveur privé</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]--[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] €19,99/Mois (+60€ frais d'installation)[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> serveur cloud</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]pico[ends tags="th" /] 
+				[begins tags="th" /]micro[ends tags="th" /] 
+				[begins tags="th" /]small[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] €3.59/Mois[ends tags="td" /] 
+				[begins tags="td" /] €7.19/Mois[ends tags="td" /] 
+				[begins tags="td" /] €11,99/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -93,7 +132,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] GeoTrust EV SSL CA - G4 : oui (sécurisé peut mieux faire A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -109,7 +148,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -137,42 +176,46 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"name": "ikoula",
 		"url": "https://ikoula.com",
 		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
+			"https://www.ikoula.com",
+			"https://express.ikoula.com",
+			"https://ies.ikoula.com",
+			"https://www.ex10.biz",
+			"https://www.ikeepincloud.com",
+			"https://www.ikoula-blog.com",
+			"https://www.monsiteestvert.fr",
+			"https://support.ikoula.com",
+			"https://extranet.ikoula.com",
+			"https://ping.ikoula.com",
+			"order.ikoula.com",
+			"https://https://ikoula.wiki"
 		],
-		"logo": "https://business.livingxworld.com/images/.png",
-		"telephone": "+33100000000",
-		"description": " ",
+		"logo": "https://business.livingxworld.com/images/ikoula.png",
+		"telephone": "+33184010250",
+		"description": "Ikoula, hébergeur informatique depuis 1998 propose des solutions d’hébergement web, serveur dédié, VPS, nom de domaine, cloud, SSL, messagerie, backup et stockage.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card, paypal",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
+			"streetAddress": "175 RUE D AGUESSEAU",
+			"addressLocality": "BOULOGNE BILLANCOURT",
+			"postalCode": "92100",
 			"addressCountry": "france"
 		},
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"hasMap": "https://www.google.fr/maps/place/175+Rue+d'Aguesseau,+92100+Boulogne-Billancourt/@48.8355964,2.2361296,17z/data=!3m1!4b1!4m5!3m4!1s0x47e67ae6e2b58291:0x513a7c926db7fbfb!8m2!3d48.8355964!4d2.2383183",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-08-20",
 			"inLanguage": "french",
             "name": "ikoula",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "2",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

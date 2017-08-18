@@ -25,9 +25,10 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//online.com" target="_blank"]Site internet[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//online.net" target="_blank"]Site internet[/a] [br /]
 		[fa name="map-marker" zoom="2x" /] 8 rue de la ville l'Evê que - 75008 PARIS [br /]
-		[fa name="phone" zoom="2x" /] [a href="+33184130000"]+33 (0) 184130000[/a] [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33184130000"]+33 (0) 184130000[/a] [br /]
+		SIRET: [a href=""][/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
@@ -42,13 +43,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="online.com" /] 
+		[whois-domains url="online.net" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="online.com" /]
+		[ssllabs domains="online.net" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="online.com" /]
+		[api-myipms query="online.net" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -57,22 +58,62 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
 <p> </p>
-<p> --</p>
+<p> hébergement web</p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]perso[ends tags="th" /] 
+				[begins tags="th" /]pro[ends tags="th" /] 
+				[begins tags="th" /]business[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /]€2.39/Mois [ends tags="td" /] 
+				[begins tags="td" /]€4.79/Mois [ends tags="td" /] 
+				[begins tags="td" /] €7.19/Mois[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> serveur dédié</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]perso[ends tags="th" /] 
+				[begins tags="th" /]start[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /]à partir de €10.79/Mois (+24€ frais d'installation) [ends tags="td" /] 
+				[begins tags="td" /]à partir de €29.99/Mois (+72€ frais d'installation) [ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> serveur cloud</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]vc1s[ends tags="th" /] 
+				[begins tags="th" /]VC1M [ends tags="th" /] 
+				[begins tags="th" /]VC1L  [ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /]à partir de €3.59/Mois  [ends tags="td" /] 
+				[begins tags="td" /]à partir de €7.19/Mois [ends tags="td" /] 
+				[begins tags="td" /]à partir de €11.99/Mois [ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -93,7 +134,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] RapidSSL SHA256 CA - G3 : oui (sécurisé peut mieux faire A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -109,7 +150,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -135,13 +176,18 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
 		"name": "online",
-		"url": "https://online.com",
+		"url": "https://online.net",
+		"sameAs": [
+			"http://www.iliad-datacenter.com/",
+			"http://www.free.fr/",
+			"http://mobile.free.fr/"
+		],
 		"logo": "https://business.livingxworld.com/images/online.png",
 		"telephone": "+33184130000",
 		"description": " ",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card, paypal",
-		"priceRange": "€€",
+		"priceRange": "€",
 		"address": {
 			"@type": "PostalAddress",
 			"streetAddress": "8 rue de la ville l'Evê que - 75008 PARIS",
@@ -153,14 +199,14 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-08-20",
 			"inLanguage": "french",
             "name": "online",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "2",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

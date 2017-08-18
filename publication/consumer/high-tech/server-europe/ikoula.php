@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/solution-web.png" alt="solution web" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/ikoula.png" alt="ikoula" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
 
- <p><strong>Description:</strong> Find out why Web Solution Canada is the reference for your Internet needs. Turnkey solutions, support 24 hours in French and much more.</p>
+ <p><strong>Description:</strong> Ikoula, web hosting since 1998 offers web hosting, dedicated server, VPS, domain name, cloud, SSL, messaging, backup and storage.</p>
 
-[youtube source="vvehJ2rGMxk" /]
+[youtube source="tUHCKajI3Zc" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,13 +25,14 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//solution-web.ca" target="_blank"]Website[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] 1129 rue De Meulles, Saint-Bruno de Montarville, Qc (Canada) J3V 3A4 [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+18885770830"]1 888 577-0830[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//ikoula.com" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 175 RUE D AGUESSEAU 92100 BOULOGNE BILLANCOURT [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33184010250"]01 84 01 02 50[/a] [br /]
+		SIRET: [a href="https://www.societe.com/societe/ikoula-net-417680618.html"]417 680 618[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]map[/h3]
-		[mapbox-custom parent="high-tech" category="server-american" entreprise="solution-web" /]
+		[mapbox-custom parent="high-tech" category="server-europe" entreprise="ikoula" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -42,13 +43,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="solution-web.ca" /] 
+		[whois-domains url="ikoula.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="solution-web.ca" /]
+		[ssllabs domains="ikoula.com" /]
 		[h3]Your data are:[/h3]
-		[api-myipms query="solution-web.ca" /]
+		[api-myipms query="ikoula.com" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -57,22 +58,60 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>The Prices Proposed in Taxe (without promotion)</strong></span></h2>
 <p> </p>
-<p>shared hosting: </p>
+<p> shared hosting</p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /]particulier[ends tags="th" /] 
-				[begins tags="th" /]developpeur[ends tags="th" /] 
-				[begins tags="th" /]entreprise[ends tags="th" /] 
+				[begins tags="th" /]basic[ends tags="th" /] 
+				[begins tags="th" /]smart[ends tags="th" /] 
+				[begins tags="th" /]pro[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /]$5.75/Mo [ends tags="td" /] 
-				[begins tags="td" /]$7.75/Mo [ends tags="td" /] 
-				[begins tags="td" /]$15.25/Mo [ends tags="td" /] 
+				[begins tags="td" /] €2.99/Mois[ends tags="td" /] 
+				[begins tags="td" /] €5.99/Mois[ends tags="td" /] 
+				[begins tags="td" /] €11.99/Mois[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> private server</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]--[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] €19,99/Mois (+60€ frais d'installation)[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p> cloud server</p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]pico[ends tags="th" /] 
+				[begins tags="th" /]micro[ends tags="th" /] 
+				[begins tags="th" /]small[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] €3.59/Mois[ends tags="td" /] 
+				[begins tags="td" /] €7.19/Mois[ends tags="td" /] 
+				[begins tags="td" /] €11,99/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -80,23 +119,24 @@
 <p> </p>
 <p> </p>
 <p> </p>
+
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note and advice with requirement</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="high-tech" category="server/americain" entreprise="solution-web" showembed="yes" /]
+		[lxw-badge parent="high-tech" category="server/europeen" entreprise="ikoula" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Tester reviews (by Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /]  	COMODO RSA Domain Validation Secure Server CA : A- (Unsecured must do better A+) | to correct Forward Secrecy [ends tags="dd" /] 
+				[begins tags="dd" /] GeoTrust EV SSL CA - G4 : yes (Secure can do better A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
-		[h3]Independent control[/h3]
+		[h3]Contrôle indépendant[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Customer services[ends tags="dt" /] 
@@ -124,6 +164,7 @@
 	[ends tags="div" /]
  
  [br /] [br /]
+
 It is up to you to give your opinion: according to its customer service, its proposals, quality of the service and more.
 
 
@@ -132,33 +173,49 @@ It is up to you to give your opinion: according to its customer service, its pro
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "solution web",
-		"url": "https://solution-web.ca",
-		"logo": "https://business.livingxworld.com/images/solution-web.png",
-		"telephone": "+18885770830",
-		"description": "Find out why Web Solution Canada is the reference for your Internet needs. Turnkey solutions, support 24 hours in French and much more.",
-		"currenciesAccepted": "CAD",
-		"paymentAccepted": "cash",
-		"priceRange": "$",
+		"name": "ikoula",
+		"url": "https://ikoula.com",
+		"sameAs": [
+			"https://www.ikoula.com",
+			"https://express.ikoula.com",
+			"https://ies.ikoula.com",
+			"https://www.ex10.biz",
+			"https://www.ikeepincloud.com",
+			"https://www.ikoula-blog.com",
+			"https://www.monsiteestvert.fr",
+			"https://support.ikoula.com",
+			"https://extranet.ikoula.com",
+			"https://ping.ikoula.com",
+			"order.ikoula.com",
+			"https://https://ikoula.wiki"
+		],
+		"logo": "https://business.livingxworld.com/images/ikoula.png",
+		"telephone": "+33184010250",
+		"description": "Ikoula, web hosting since 1998 offers web hosting, dedicated server, VPS, domain name, cloud, SSL, messaging, backup and storage.",
+		"currenciesAccepted": "EUR",
+		"paymentAccepted": "card, paypal",
+		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "1129 rue De Meulles, Saint-Bruno de Montarville, Qc J3V 3A4",
-			"addressCountry": "Canada"
+			"streetAddress": "175 RUE D AGUESSEAU",
+			"addressLocality": "BOULOGNE BILLANCOURT",
+			"postalCode": "92100",
+			"addressCountry": "france"
 		},
-		"hasMap": "https://www.google.fr/maps/place/1129+Rue+de+Meulles,+Saint-Bruno-de-Montarville,+QC+J3V+3A4,+Canada/@45.5289638,-73.3608562,17z/data=!3m1!4b1!4m5!3m4!1s0x4cc9014e61eff93b:0x4504a90804025882!8m2!3d45.5289638!4d-73.3586675",
+		"hasMap": "https://www.google.fr/maps/place/175+Rue+d'Aguesseau,+92100+Boulogne-Billancourt/@48.8355964,2.2361296,17z/data=!3m1!4b1!4m5!3m4!1s0x47e67ae6e2b58291:0x513a7c926db7fbfb!8m2!3d48.8355964!4d2.2383183",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-18",
-			"inLanguage": "english",
-            "name": "solution web",
+            "dateModified": "2017-08-20",
+			"inLanguage": "french",
+            "name": "ikoula",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "2",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

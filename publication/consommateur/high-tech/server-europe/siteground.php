@@ -157,7 +157,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 			"addressLocality": "Ville",
 			"addressRegion": "région",
 			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"addressCountry": "france"
 		},
 		"hasMap": "https://business.livingxworld.com/map/consumer/",
 		"review": {

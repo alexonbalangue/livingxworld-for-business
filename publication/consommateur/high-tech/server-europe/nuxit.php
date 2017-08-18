@@ -3,7 +3,7 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Hébergeur NUXIT, votre hébergeur confiance depuis 2003. Hébergement de site internet, serveur dédié, achat de nom de domaine, création de site en ligne, infogérance, support exemplaire.</p>
 
 Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
@@ -26,8 +26,8 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//nuxit.com" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] aucun [br /]
+		[fa name="map-marker" zoom="2x" /] 400 Avenue Roumanille BP 309 06906 Sophia Antipolis Cedex [br /]
+		[fa name="phone" zoom="2x" /] [a href="+33486576000"]04 86 57 6000[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
@@ -136,30 +136,18 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@type": "LocalBusiness",
 		"name": "nuxit",
 		"url": "https://nuxit.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
-		"logo": "https://business.livingxworld.com/images/.png",
-		"telephone": "+33100000000",
-		"description": " ",
+		"logo": "https://business.livingxworld.com/images/nuxit.png",
+		"telephone": "+33486576000",
+		"description": "Hébergeur NUXIT, votre hébergeur confiance depuis 2003. Hébergement de site internet, serveur dédié, achat de nom de domaine, création de site en ligne, infogérance, support exemplaire.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card, paypal",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "400 Avenue Roumanille BP 309 06906 Sophia Antipolis Cedex",
+			"addressCountry": "france"
 		},
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"hasMap": "https://www.google.fr/maps/place/NCI+-+Sophia+Antipolis/@43.6227887,7.073173,17z/data=!3m1!4b1!4m5!3m4!1s0x12cc2b3cc3235fcb:0xd20d612341608672!8m2!3d43.6227887!4d7.0753617",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",

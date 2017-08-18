@@ -3,7 +3,7 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> o2switch propose des solutions complètes d'hébergement web, haute qualité et innovantes.</p>
 
 Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
@@ -27,7 +27,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//o2switch.com" target="_blank"]Site internet[/a] [br /]
 		[fa name="map-marker" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] aucun [br /]
+		[fa name="phone" zoom="2x" /] [a href="+33444446040"]+33 (0) 4 44 44 60 40[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
@@ -136,18 +136,9 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@type": "LocalBusiness",
 		"name": "o2switch",
 		"url": "https://o2switch.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
-		"logo": "https://business.livingxworld.com/images/.png",
-		"telephone": "+33100000000",
-		"description": " ",
+		"logo": "https://business.livingxworld.com/images/o2switch.png",
+		"telephone": "+33444446040",
+		"description": "o2switch propose des solutions complètes d'hébergement web, haute qualité et innovantes.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card, paypal",
 		"priceRange": "€€",
@@ -157,7 +148,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 			"addressLocality": "Ville",
 			"addressRegion": "région",
 			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"addressCountry": "france"
 		},
 		"hasMap": "https://business.livingxworld.com/map/consumer/",
 		"review": {

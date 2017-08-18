@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/netissime.png" alt="netissime" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/netissime.jpg" alt="netissime" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> L&#039;hébergeur Netissime propose des solutions d&#039;hébergement web, nom de domaine, serveur dédié et Cloud, Cloud Computing, Référencement, VPS, Housing Datacenter</p>
 
-Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
+[youtube source="ySCgg7q-h9M" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -26,8 +26,8 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//netissime.com" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] aucun [br /]
+		[fa name="map-marker" zoom="2x" /] 45/47 rue Francis de Pressensé 69100 Villeurbanne - France [br /]
+		[fa name="phone" zoom="2x" /] [a href="+33437430037"]+33 (0)4 37 43 00 37[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
@@ -136,30 +136,20 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@type": "LocalBusiness",
 		"name": "netissime",
 		"url": "https://netissime.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
-		"logo": "https://business.livingxworld.com/images/.png",
-		"telephone": "+33100000000",
-		"description": " ",
+		"logo": "https://business.livingxworld.com/images/netissime.jpg",
+		"telephone": "+33437430037",
+		"description": "L&#039;hébergeur Netissime propose des solutions d&#039;hébergement web, nom de domaine, serveur dédié et Cloud, Cloud Computing, Référencement, VPS, Housing Datacenter",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card, paypal",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "45/47 rue Francis de Pressensé",
+			"addressLocality": "Villeurbanne",
+			"postalCode": "69100",
+			"addressCountry": "France"
 		},
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"hasMap": "https://www.google.fr/maps/place/47+Rue+Francis+de+Pressens%C3%A9,+69100+Villeurbanne/@45.7719029,4.8695443,17z/data=!3m1!4b1!4m5!3m4!1s0x47f4ea9d2dfbf039:0x87754f9bb9483d65!8m2!3d45.7719029!4d4.871733",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",

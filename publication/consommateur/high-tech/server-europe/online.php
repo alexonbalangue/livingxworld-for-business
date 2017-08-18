@@ -5,7 +5,7 @@
 
  <p><strong>Description:</strong> --</p>
 
-Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
+[youtube source="n4GJrFAU3OA" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -26,8 +26,8 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//online.com" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] aucun [br /]
+		[fa name="map-marker" zoom="2x" /] 8 rue de la ville l'Evê que - 75008 PARIS [br /]
+		[fa name="phone" zoom="2x" /] [a href="+33184130000"]+33 (0) 184130000[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
@@ -136,30 +136,18 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@type": "LocalBusiness",
 		"name": "online",
 		"url": "https://online.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
-		"logo": "https://business.livingxworld.com/images/.png",
-		"telephone": "+33100000000",
+		"logo": "https://business.livingxworld.com/images/online.png",
+		"telephone": "+33184130000",
 		"description": " ",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card, paypal",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "8 rue de la ville l'Evê que - 75008 PARIS",
+			"addressCountry": "france"
 		},
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"hasMap": "https://www.google.fr/maps/place/8+Rue+de+la+Ville-l'%C3%89v%C3%AAque,+75008+Paris/@48.8714473,2.3191211,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66fcc9b602b35:0x5829dd39d68093cf!8m2!3d48.8714473!4d2.3213098",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",

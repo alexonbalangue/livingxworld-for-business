@@ -1,4 +1,4 @@
-<p>[img src="https://business.livingxworld.com/images/strato.png" alt="strato" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/strato.jpg" alt="strato" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
@@ -145,7 +145,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 			"https://www.facebook.com/",
 			"https://www.facebook.com/"
 		],
-		"logo": "https://business.livingxworld.com/images/.png",
+		"logo": "https://business.livingxworld.com/images/.jpg",
 		"telephone": "+33100000000",
 		"description": " ",
 		"currenciesAccepted": "EUR",
@@ -157,7 +157,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 			"addressLocality": "Ville",
 			"addressRegion": "région",
 			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"addressCountry": "france"
 		},
 		"hasMap": "https://business.livingxworld.com/map/consumer/",
 		"review": {

@@ -98,26 +98,7 @@
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
 [ends tags="div" /]
-<p> serveur privé</p>
-<p> </p>
-[begins tags="div" class="table-responsive" /] 
-	[begins tags="table" class="table table-bordered" /] 
-		[begins tags="thead" /] 
-			[begins tags="tr" /] 
-				[begins tags="th" /]ssd[ends tags="th" /] 
-				[begins tags="th" /]hdd[ends tags="th" /] 
-			[ends tags="tr" /] 
-		[ends tags="thead" /] 
-		[begins tags="tbody" /] 
-			[begins tags="tr" /] 
-				[begins tags="td" /] gratuit[ends tags="td" /] 
-				[begins tags="td" /] €2.39/Mois[ends tags="td" /] 
-				[begins tags="td" /] €2.39/Mois[ends tags="td" /] 
-			[ends tags="tr" /] 
-		[ends tags="tbody" /] 
-	[ends tags="table" /] 
-[ends tags="div" /]
-<p> serveur privé</p>
+<p> serveur dédié</p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 

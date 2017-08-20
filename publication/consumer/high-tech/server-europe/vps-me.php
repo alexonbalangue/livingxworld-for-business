@@ -31,7 +31,7 @@ Sorry the contractor presents no free video on the web.
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]map[/h3]
-		[mapbox-custom parent="high-tech" category="server-american" entreprise="vps-me" /]
+		[mapbox-custom parent="high-tech" category="server-europe" entreprise="vps-me" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -81,7 +81,7 @@ Sorry the contractor presents no free video on the web.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="high-tech" category="server/americain" entreprise="vps-me" showembed="yes" /]
+		[lxw-badge parent="high-tech" category="server/europeen" entreprise="vps-me" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Tester reviews (by Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 

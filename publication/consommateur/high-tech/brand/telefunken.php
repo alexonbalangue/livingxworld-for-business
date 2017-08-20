@@ -1,4 +1,4 @@
-<p>[img src="https://business.livingxworld.com/images/consumer/.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/telefunken.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
@@ -125,7 +125,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -160,7 +160,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 			"https://www.facebook.com/",
 			"https://www.facebook.com/"
 		],
-		"logo": "https://business.livingxworld.com/images/consumer/.jpg",
+		"logo": "https://business.livingxworld.com/images/telefunken.png",
 		"telephone": "+33100000000",
 		"description": "description",
 		"currenciesAccepted": "EUR",
@@ -186,7 +186,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 					"addressCountry": "pays"
 				},
 				"name": "The Hi-Dive",	
-				"images": "https://business.livingxworld.com/images/consumer/.jpg",
+				"images": "https://business.livingxworld.com/images/.png",
 				"hasMap": "google map url"
 			},
 			{
@@ -200,7 +200,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 
 				},
 				"name": "The Hi-Dive"
-				"images": "https://business.livingxworld.com/images/consumer/.jpg",
+				"images": "https://business.livingxworld.com/images/.png",
 				"hasMap": "google map url"	
 			}
 		],

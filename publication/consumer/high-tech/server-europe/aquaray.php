@@ -188,7 +188,7 @@ It is up to you to give your opinion: according to its customer service, its pro
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
             "dateModified": "2017-08-20",
-			"inLanguage": "french",
+			"inLanguage": "english",
             "name": "aquaray",
             "reviewBody": " ",
             "reviewRating": {

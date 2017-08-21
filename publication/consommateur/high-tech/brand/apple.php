@@ -1,17 +1,17 @@
-<p>[img src="https://business.livingxworld.com/images/apple.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/apple.jpg" alt="apple" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
  <p><strong>Description:</strong> --</p>
 
-Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
+[youtube source="ufBLI6bB9sg" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
 		[h3]Ces logiciels et Apps[/h3]
 		<p>
-			Apple Store [a href="#" target="_blank"][fa name="apple" zoom="2x" /][/a]
+			Apple Store [a href="https://itunes.apple.com/fr/app/apple-store/id375380948?mt=8" target="_blank"][fa name="apple" zoom="2x" /][/a]
 			Windows Store [a href="#" target="_blank"][fa name="windows" zoom="2x" /][/a]
 			Google Play [a href="#" target="_blank"][fa name="android" zoom="2x" /][/a]
 		</p>
@@ -25,34 +25,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//apple.com" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 1 Infinite Loop, Cupertino, CA 95014, USA [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
-		[h3]Horaires[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Transport[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Autres[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="" category="" entreprise="" /]
+		[mapbox-custom parent="" category="" entreprise="apple" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -63,13 +42,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="apple.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="apple.com" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="apple.com" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -82,16 +61,22 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]Macbook[ends tags="th" /] 
+				[begins tags="th" /]iMac 21.5i pouces[ends tags="th" /] 
+				[begins tags="th" /]iPad Pro[ends tags="th" /] 
+				[begins tags="th" /]iPhone 7[ends tags="th" /] 
+				[begins tags="th" /]watch[ends tags="th" /] 
+				[begins tags="th" /]TV[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /]$1 299 [ends tags="td" /] 
+				[begins tags="td" /]$1 099 [ends tags="td" /] 
+				[begins tags="td" /] $799[ends tags="td" /] 
+				[begins tags="td" /]$649 [ends tags="td" /] 
+				[begins tags="td" /]$369 [ends tags="td" /] 
+				[begins tags="td" /] $149[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -102,14 +87,14 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="" category="" entreprise="" showembed="yes" /]
+		[lxw-badge parent="" category="" entreprise="apple" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] tester et approuver[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /]  	Symantec Class 3 EV SSL CA - G3 : A- (non sécurisé soit faire mieux A+)| à corriger sha2 et Forward Secrecy[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -149,30 +134,24 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
+		"name": "apple",
+		"url": "https://apple.com",
 		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
+			"https://www.icloud.com/"
 		],
 		"logo": "https://business.livingxworld.com/images/apple.jpg",
-		"telephone": "+33100000000",
+		"telephone": "+18008543680",
 		"description": "description",
-		"currenciesAccepted": "EUR",
+		"currenciesAccepted": "USD",
 		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"priceRange": "$$$",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "1 Infinite Loop",
+			"addressLocality": "Cupertino",
+			"addressRegion": "CA",
+			"postalCode": "95014",
+			"addressCountry": "USA"
 		},
 		"location": [
 			{
@@ -185,9 +164,14 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 					"postalCode": "code postal",
 					"addressCountry": "pays"
 				},
-				"name": "The Hi-Dive",	
-				"images": "https://business.livingxworld.com/images/.png",
+				"name": "apple - ",	
+				"images": "https://business.livingxworld.com/images/stores/.png",
 				"hasMap": "google map url"
+				"openingHours": [
+					"Mo-Sa 11:00-14:30",
+					"Mo-Th 17:00-21:30",
+					"Fr-Sa 17:00-22:00"
+				]	
 			},
 			{
 				"@type": "Place",
@@ -199,17 +183,17 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 					"addressCountry": "pays"
 
 				},
-				"name": "The Hi-Dive"
-				"images": "https://business.livingxworld.com/images/.png",
-				"hasMap": "google map url"	
+				"name": "apple - "
+				"images": "https://business.livingxworld.com/images/stores/.png",
+				"hasMap": "google map url",
+				"openingHours": [
+					"Mo-Sa 11:00-14:30",
+					"Mo-Th 17:00-21:30",
+					"Fr-Sa 17:00-22:00"
+				]	
 			}
 		],
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		],
+		"hasMap": "https://www.google.fr/maps/place/Infinite+Loop,+Cupertino,+CA+95014,+%C3%89tats-Unis/@37.3320003,-122.0329699,17z/data=!3m1!4b1!4m5!3m4!1s0x808fb5b6e7b4b9fb:0x697a4332574f50d9!8m2!3d37.3320003!4d-122.0307812",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
@@ -217,12 +201,12 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "datePublished": "2014-06-12",
             "dateModified": "2017-08-06",
 			"inLanguage": "french",
-            "name": "A masterpiece of literature",
-            "reviewBody": "mon avis",
+            "name": "apple",
+            "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "2",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/sonim.jpg" alt="Sonim Technologies" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/bebe-nounou.png" alt="bébé nounou" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> Sonimtech, les fabricants des téléphones les plus difficiles au monde</p>
+ <p><strong>Description:</strong> Toutes les annonces de garde d'enfant proches de vous : baby sitter, nourrice, assistante maternelle, garde partagee, au pair, puericulture.</p>
 
-[youtube source="SIeXNEGcNOE" /]
+Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,13 +25,14 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//sonimtech.com" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//bebe-nounou.com" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 142 RUE RAYMOND LAVIGNE 33110 LE BOUSCAT FRANCE [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
+		SIRET [a href="https://www.societe.com/societe/cariboo-networks-413831637.html"]413 831 637[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="" category="" entreprise="sonim-technologie" /]
+		[mapbox-custom parent="loisirs" category="service" entreprise="bebe-nounou" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -42,13 +43,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="sonimtech.com" /] 
+		[whois-domains url="bebe-nounou.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="sonimtech.com" /]
+		[ssllabs domains="bebe-nounou.com" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="sonimtech.com" /]
+		[api-myipms query="bebe-nounou.com" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -81,14 +82,14 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="" category="" entreprise="sonim-technologie" showembed="yes" /]
+		[lxw-badge parent="loisirs" category="service" entreprise="bebe-nounou" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] inexistant[ends tags="dd" /] 
+				[begins tags="dd" /] Gandi Standard SSL CA 2 : F (non sécurisé doit faire mieux A+) | à corriger DROWN, POODLE, Diffie-Hellman (DH),  TLS 1.2 et RC4 cipher[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -104,7 +105,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="ban" /] mention légale incomplet, CGV inexistant[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -120,6 +121,7 @@
 	[ends tags="div" /]
  
  [br /] [br /]
+
 A vous de donner votre opignon: selon ses services clientèles, ses proposition, qualité de la prestation et encore plus.
 
 
@@ -128,66 +130,34 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "sonim technologies",
-		"url": "https://sonimtech.com",
-		"logo": "https://business.livingxworld.com/images/sonim.jpg",
-		"telephone": "",
-		"description": "Sonimtech, les fabricants des téléphones les plus difficiles au monde",
-		"currenciesAccepted": "",
-		"paymentAccepted": "",
-		"priceRange": "",
+		"name": "bebe nounou",
+		"url": "https://bebe-nounou.com",
+		"logo": "https://business.livingxworld.com/images/bebe-nounou.png",
+		"description": "Toutes les annonces de garde d'enfant proches de vous : baby sitter, nourrice, assistante maternelle, garde partagee, au pair, puericulture.",
+		"currenciesAccepted": "EUR",
+		"paymentAccepted": "card",
+		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "",
-			"addressLocality": "",
-			"addressRegion": "",
-			"postalCode": "",
-			"addressCountry": ""
+			"streetAddress": "142 RUE RAYMOND LAVIGNE",
+			"addressLocality": "LE BOUSCAT",
+			"postalCode": "33110",
+			"addressCountry": "FRANCE"
 		},
-		"location": [
-			{
-				"@type": "Place",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-				},
-				"name": "The Hi-Dive",	
-				"images": "https://business.livingxworld.com/images/.png",
-				"hasMap": "google map url"
-			},
-			{
-				"@type": "Place",
-				"address": {
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-
-				},
-				"name": "The Hi-Dive"
-				"images": "https://business.livingxworld.com/images/.png",
-				"hasMap": "google map url"	
-			}
-		],
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"hasMap": "https://www.google.fr/maps/place/142+Rue+Raymond+Lavigne,+33110+Le+Bouscat/@44.864749,-0.617161,17z/data=!3m1!4b1!4m5!3m4!1s0xd54d7e96553ee73:0x72beeb56a95a5a76!8m2!3d44.864749!4d-0.6149723",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-25",
+            "dateModified": "2017-08-21",
 			"inLanguage": "french",
-            "name": "sonim technologies",
-            "reviewBody": "impossible de voir le site",
+            "name": "bebe nounou",
+            "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "0",
+				"ratingValue": "1",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

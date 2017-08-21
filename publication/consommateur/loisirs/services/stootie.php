@@ -1,19 +1,19 @@
-<p>[img src="https://business.livingxworld.com/images/sonim.jpg" alt="Sonim Technologies" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/stootie.jpg" alt="stootie" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> Sonimtech, les fabricants des téléphones les plus difficiles au monde</p>
+ <p><strong>Description:</strong> Stootie est le n°1 des services entre particuliers et professionnels. Trouvez de l&#x27;aide ou proposez vos services en bricolage, babysitting, cours particuliers...etc.</p>
 
-[youtube source="SIeXNEGcNOE" /]
+[youtube source="vH_fpljTilA" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
 		[h3]Ces logiciels et Apps[/h3]
 		<p>
-			Apple Store [a href="#" target="_blank"][fa name="apple" zoom="2x" /][/a]
+			Apple Store [a href="https://itunes.apple.com/fr/app/stootie-lapp-pour-se-rendre-service/id458662927?mt=8" target="_blank"][fa name="apple" zoom="2x" /][/a]
 			Windows Store [a href="#" target="_blank"][fa name="windows" zoom="2x" /][/a]
-			Google Play [a href="#" target="_blank"][fa name="android" zoom="2x" /][/a]
+			Google Play [a href="https://play.google.com/store/apps/details?id=com.stootie&referrer=utm_source%3Dwebapp%26utm_medium%3Dstootiedanslapoche" target="_blank"][fa name="android" zoom="2x" /][/a]
 		</p>
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -25,13 +25,15 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//sonimtech.com" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//stootie.com" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 128 RUE LA BOETIE 75008 PARIS  [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
+		SIREN [a href="https://www.societe.com/societe/stootie-533490041.html"]533 490 041[/a]
+		
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="" category="" entreprise="sonim-technologie" /]
+		[mapbox-custom parent="loisirs" category="service" entreprise="stootie" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -42,13 +44,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="sonimtech.com" /] 
+		[whois-domains url="stootie.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="sonimtech.com" /]
+		[ssllabs domains="stootie.com" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="sonimtech.com" /]
+		[api-myipms query="stootie.com" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -61,16 +63,14 @@
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]gratuit[ends tags="th" /] 
+				[begins tags="th" /]nouveaux[br /]system abonnement[ends tags="th" /]
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] utilisation (frais de commission)[ends tags="td" /] 
+				[begins tags="td" /] Disponible dès septembre 2017[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -81,14 +81,14 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="" category="" entreprise="sonim-technologie" showembed="yes" /]
+		[lxw-badge parent="loisirs" category="service" entreprise="stootie" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] tester et approuver (attente leurs amélioration en étant d'intermédiaire des demandeur et l'offre)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] inexistant[ends tags="dd" /] 
+				[begins tags="dd" /]  	Amazon : oui (sécurisé peut mieux faire A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -104,7 +104,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -120,6 +120,7 @@
 	[ends tags="div" /]
  
  [br /] [br /]
+
 A vous de donner votre opignon: selon ses services clientèles, ses proposition, qualité de la prestation et encore plus.
 
 
@@ -128,66 +129,34 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "sonim technologies",
-		"url": "https://sonimtech.com",
-		"logo": "https://business.livingxworld.com/images/sonim.jpg",
-		"telephone": "",
-		"description": "Sonimtech, les fabricants des téléphones les plus difficiles au monde",
-		"currenciesAccepted": "",
-		"paymentAccepted": "",
-		"priceRange": "",
+		"name": "stootie",
+		"url": "https://stootie.com",
+		"logo": "https://business.livingxworld.com/images/stootie.jpg",
+		"description": "Stootie est le n°1 des services entre particuliers et professionnels. Trouvez de l&#x27;aide ou proposez vos services en bricolage, babysitting, cours particuliers...etc.",
+		"currenciesAccepted": "EUR",
+		"paymentAccepted": "card, virement bancaire",
+		"priceRange": "€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "",
-			"addressLocality": "",
-			"addressRegion": "",
-			"postalCode": "",
-			"addressCountry": ""
+			"streetAddress": "128 RUE LA BOETIE",
+			"addressLocality": "PARIS",
+			"postalCode": "75008",
+			"addressCountry": "france"
 		},
-		"location": [
-			{
-				"@type": "Place",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-				},
-				"name": "The Hi-Dive",	
-				"images": "https://business.livingxworld.com/images/.png",
-				"hasMap": "google map url"
-			},
-			{
-				"@type": "Place",
-				"address": {
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-
-				},
-				"name": "The Hi-Dive"
-				"images": "https://business.livingxworld.com/images/.png",
-				"hasMap": "google map url"	
-			}
-		],
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"hasMap": "https://www.google.fr/maps/place/128+Rue+La+Bo%C3%A9tie,+75008+Paris/@48.8710306,2.3036507,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66fc3ed8c27df:0xf67296c693b35b70!8m2!3d48.8710306!4d2.3058394",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-25",
+            "dateModified": "2017-08-21",
 			"inLanguage": "french",
-            "name": "sonim technologies",
-            "reviewBody": "impossible de voir le site",
+            "name": "stootie",
+            "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "0",
+				"ratingValue": "3",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

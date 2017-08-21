@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/sonim.jpg" alt="Sonim Technologies" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/helpx.jpg" alt="helpx" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> Sonimtech, les fabricants des téléphones les plus difficiles au monde</p>
+ <p><strong>Description:</strong> Travail bénévole en échange d'hébergement gratuit et de nourriture dans les fermes, les auberges de randonneurs, les auberges, les écuries et même les voiliers</p>
 
-[youtube source="SIeXNEGcNOE" /]
+Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,13 +25,13 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//sonimtech.com" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//helpx.net" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] aucun [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="" category="" entreprise="sonim-technologie" /]
+		[mapbox-custom parent="loisirs" category="service" entreprise="helpx" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -42,53 +42,32 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="sonimtech.com" /] 
+		[whois-domains url="helpx.net" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="sonimtech.com" /]
+		[ssllabs domains="helpx.net" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="sonimtech.com" /]
+		[api-myipms query="helpx.net" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
-<p> </p>
-[begins tags="div" class="table-responsive" /] 
-	[begins tags="table" class="table table-bordered" /] 
-		[begins tags="thead" /] 
-			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-			[ends tags="tr" /] 
-		[ends tags="thead" /] 
-		[begins tags="tbody" /] 
-			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-			[ends tags="tr" /] 
-		[ends tags="tbody" /] 
-	[ends tags="table" /] 
-[ends tags="div" /]
-
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="" category="" entreprise="sonim-technologie" showembed="yes" /]
+		[lxw-badge parent="loisirs" category="service" entreprise="helpx" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] inexistant[ends tags="dd" /] 
+				[begins tags="dd" /] [fa name="ban" /] inexistant[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -104,7 +83,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="ban" /] inexistant[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -120,6 +99,7 @@
 	[ends tags="div" /]
  
  [br /] [br /]
+
 A vous de donner votre opignon: selon ses services clientèles, ses proposition, qualité de la prestation et encore plus.
 
 
@@ -128,62 +108,19 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "sonim technologies",
-		"url": "https://sonimtech.com",
-		"logo": "https://business.livingxworld.com/images/sonim.jpg",
-		"telephone": "",
-		"description": "Sonimtech, les fabricants des téléphones les plus difficiles au monde",
-		"currenciesAccepted": "",
-		"paymentAccepted": "",
-		"priceRange": "",
-		"address": {
-			"@type": "PostalAddress",
-			"streetAddress": "",
-			"addressLocality": "",
-			"addressRegion": "",
-			"postalCode": "",
-			"addressCountry": ""
-		},
-		"location": [
-			{
-				"@type": "Place",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-				},
-				"name": "The Hi-Dive",	
-				"images": "https://business.livingxworld.com/images/.png",
-				"hasMap": "google map url"
-			},
-			{
-				"@type": "Place",
-				"address": {
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-
-				},
-				"name": "The Hi-Dive"
-				"images": "https://business.livingxworld.com/images/.png",
-				"hasMap": "google map url"	
-			}
-		],
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"name": "helpx",
+		"url": "https://helpx.net",
+		"logo": "https://business.livingxworld.com/images/helpx.jpg",
+		"description": "Travail bénévole en échange d'hébergement gratuit et de nourriture dans les fermes, les auberges de randonneurs, les auberges, les écuries et même les voiliers",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-25",
+            "dateModified": "2017-08-21",
 			"inLanguage": "french",
-            "name": "sonim technologies",
-            "reviewBody": "impossible de voir le site",
+            "name": "helpx",
+            "reviewBody": "mon avis",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",

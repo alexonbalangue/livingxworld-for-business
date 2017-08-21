@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/kisskissbankbank.png" alt="kisskissbankbank" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> KissKissBankBank is the European leader in crowdfunding dedicated to international creativity and innovation.</p>
 
-Sorry the contractor presents no free video on the web.
+[youtube source="P2MacU39UxA" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -24,35 +24,15 @@ Sorry the contractor presents no free video on the web.
 
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
-		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//" target="_blank"]Website[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] nothing [br /]
-		[h3]Opening schedules[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Transport[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Others[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
+		[h3]Coordonné[/h3]
+		[fa name="external-link" zoom="2x" /] [a href="//kisskissbankbank.com" target="_blank"]Website[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 34 RUE DE PARADIS 75010 PARIS FRANCE [br /]
+		[fa name="phone" zoom="2x" /] aucun [br /]
+		SIREN: [a href="https://www.societe.com/societe/kisskissbankbank-co-512211004.html"]512 211 004[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
-		[h3]MAP[/h3]
-		[mapbox-custom parent="" category="" entreprise="" /]
+		[h3]map[/h3]
+		[mapbox-custom parent="loisirs" category="service" entreprise="kisskissbankbank" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -63,13 +43,13 @@ Sorry the contractor presents no free video on the web.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="kisskissbankbank.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
-		[h3]Your data are[/h3]
-		[api-myipms query="" /]
+		[ssllabs domains="kisskissbankbank.com" /]
+		[h3]Your data are:[/h3]
+		[api-myipms query="kisskissbankbank.com" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -78,42 +58,25 @@ Sorry the contractor presents no free video on the web.
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>The Prices Proposed in Taxe (without promotion)</strong></span></h2>
 <p> </p>
-[begins tags="div" class="table-responsive" /] 
-	[begins tags="table" class="table table-bordered" /] 
-		[begins tags="thead" /] 
-			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-			[ends tags="tr" /] 
-		[ends tags="thead" /] 
-		[begins tags="tbody" /] 
-			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-			[ends tags="tr" /] 
-		[ends tags="tbody" /] 
-	[ends tags="table" /] 
-[ends tags="div" /]
+...
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note and advice with requirement</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="" category="" entreprise="" showembed="yes" /]
+		[lxw-badge parent="loisirs" category="service" entreprise="kisskissbankbank" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Tester reviews (by Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dd" /] impossible to scan[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
-		[h3]Independent control[/h3]
+		[h3]Contrôle indépendant[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Customer services[ends tags="dt" /] 
@@ -125,7 +88,7 @@ Sorry the contractor presents no free video on the web.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complete[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -141,6 +104,7 @@ Sorry the contractor presents no free video on the web.
 	[ends tags="div" /]
  
  [br /] [br /]
+
 It is up to you to give your opinion: according to its customer service, its proposals, quality of the service and more.
 
 
@@ -149,76 +113,27 @@ It is up to you to give your opinion: according to its customer service, its pro
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
-		"logo": "https://business.livingxworld.com/images/.jpg",
-		"telephone": "+33100000000",
-		"description": "description",
-		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"name": "kisskissbankbank",
+		"url": "https://kisskissbankbank.com",
+		"logo": "https://business.livingxworld.com/images/kisskissbankbank.png",
+		"description": "KissKissBankBank is the European leader in crowdfunding dedicated to international creativity and innovation.",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "34 RUE DE PARADIS",
+			"addressLocality": "PARIS",
+			"postalCode": "75010",
+			"addressCountry": "FRANCE"
 		},
-		"location": [
-			{
-				"@type": "Place",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-				},
-				"name": "The Hi-Dive",	
-				"images": "https://business.livingxworld.com/images/.jpg",
-				"hasMap": "google map url"
-			},
-			{
-				"@type": "Place",
-				"address": {
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-
-				},
-				"name": "The Hi-Dive"
-				"images": "https://business.livingxworld.com/images/.jpg",
-				"hasMap": "google map url"	
-			}
-		],
 		"hasMap": "https://business.livingxworld.com/map/consumer/",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		],
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
-			"inLanguage": "english",
-            "name": "A masterpiece of literature",
-            "reviewBody": "mon avis",
+            "dateModified": "2017-08-21",
+			"inLanguage": "french",
+            "name": "kisskissbankbank",
+            "reviewBody": "",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",

@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Business.LivingxWorld.com - MAPbox (geojson)</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.min.js'></script>
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.js'></script>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.39.1/mapbox-gl.css' rel='stylesheet' />
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+		.mapboxgl-popup {
+  max-width: 200px;
+}
+
+.mapboxgl-popup-content {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.marker {
+  background-image: url('data:image/svg+xml;utf8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/Pgo8IS0tIEdlbmVyYXRvcjogQWRvYmUgSWxsdXN0cmF0b3IgMTkuMC4wLCBTVkcgRXhwb3J0IFBsdWctSW4gLiBTVkcgVmVyc2lvbjogNi4wMCBCdWlsZCAwKSAgLS0+CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0iQ2FwYV8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDIyNC4wNCAyMjQuMDQiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDIyNC4wNCAyMjQuMDQ7IiB4bWw6c3BhY2U9InByZXNlcnZlIiB3aWR0aD0iNjRweCIgaGVpZ2h0PSI2NHB4Ij4KPHBhdGggZD0iTTExMi4wMiwwQzY0Ljg3NywwLDI2LjUyNCwzOC4zNTQsMjYuNTI0LDg1LjQ5NmMwLDMyLjIwNywxNy45MDcsNjAuMzAxLDQ0LjI4MSw3NC44NzZsMzcuNTg5LDYxLjE5OSAgYzAuOTYzLDEuNTY5LDIuNDYsMi40NjksNC4xMDYsMi40NjljMS42NTksMCwzLjE3MS0wLjkxMiw0LjE0Ni0yLjUwMWwzOC4xMzEtNjIuMDU0YzI1LjUyMy0xNC44MDcsNDIuNzM5LTQyLjQxNyw0Mi43MzktNzMuOTg5ICBDMTk3LjUxNiwzOC4zNTQsMTU5LjE2MywwLDExMi4wMiwweiBNMTI0LjY4NywxMzguNzI5aC0yNHYtNjZoMjRWMTM4LjcyOXogTTExMi45MzMsNjIuNTg3Yy03Ljg1MSwwLTE0LjIxNS02LjM2NC0xNC4yMTUtMTQuMjE1ICBjMC03Ljg1MSw2LjM2NC0xNC4yMTUsMTQuMjE1LTE0LjIxNXMxNC4yMTUsNi4zNjUsMTQuMjE1LDE0LjIxNUMxMjcuMTQ4LDU2LjIyMywxMjAuNzg0LDYyLjU4NywxMTIuOTMzLDYyLjU4N3oiIGZpbGw9IiMwMDZERjAiLz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPGc+CjwvZz4KPC9zdmc+Cg==');
+  background-size: cover;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+
+    </style>
+</head>
+<body>
+
+<div id='map'></div>
+<script>
+mapboxgl.accessToken = 'pk.eyJ1IjoiYWxleG9uYiIsImEiOiJjajUyb2ttZDkwZDg3MzJvOWh3MmVpOW5yIn0.WTf92RTOswrjqVuNIdZMgw';
+
+var map = new mapboxgl.Map({
+    style: 'mapbox://styles/alexonb/cj62e35ex1rfk2rpp1rqffvsp',
+	center: [6.211543, 43.927598],
+    zoom: 2.0,
+    pitch: 20, 
+    container: 'map'
+});
+
+
+map.addControl(new mapboxgl.GeolocateControl({
+    positionOptions: {
+        enableHighAccuracy: true
+    },
+    trackUserLocation: true
+}));
+
+
+map.on('load', function() {
+    map.addLayer({
+        'id': '3d-buildings',
+        'source': 'composite',
+        'source-layer': 'building',
+        'filter': ['==', 'extrude', 'true'],
+        'type': 'fill-extrusion',
+        'minzoom': 15,
+        'paint': {
+            'fill-extrusion-color': '#aaa',
+            'fill-extrusion-height': {
+                'type': 'identity',
+                'property': 'height'
+            },
+            'fill-extrusion-base': {
+                'type': 'identity',
+                'property': 'min_height'
+            },
+            'fill-extrusion-opacity': .6
+        }
+    });    
+	map.addSource("marker", {
+        "type": "geojson",
+        "data": {
+            "type": "FeatureCollection",
+            "features": []
+        }
+	});
+    map.addLayer({
+        "id": "marker",
+        "type": "symbol",
+        "source": "marker",
+        "layout": {
+            "icon-image": "marker",
+            "icon-allow-overlap": true,
+
+            "icon-offset": [0, -12]
+        }
+    });	
+});
+
+    $.ajax({
+        url: 'https://business.livingxworld.com/map/alexonbalangue.geojson',
+        dataType: 'JSON',
+        success: function (geojson) {
+            geojson.features.forEach(function(marker) {
+		  var el = document.createElement('div');
+		  el.className = 'marker';
+
+			new mapboxgl.Marker(el, { offset: [-50 / 2, -50 / 2] })
+		  .setLngLat(marker.geometry.coordinates)
+		  .setPopup(new mapboxgl.Popup({ offset: 25 })
+		  .setHTML('<h3>' + marker.properties.title + '</h3><p>' + marker.properties.description + '</p>'))
+		  .addTo(map);
+		});
+		
+        }
+		
+    });
+
+
+
+</script>
+</body>
+</html>

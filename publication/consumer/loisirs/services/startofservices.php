@@ -1,9 +1,9 @@
-<p>[img src="https://business.livingxworld.com/images/.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/startofservice.jpg" alt="startofservice" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Find and hire the best professionals nearby. StarOfService helps you find the right person for the service you need.</p>
 
 Sorry the contractor presents no free video on the web.
 
@@ -24,35 +24,15 @@ Sorry the contractor presents no free video on the web.
 
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
-		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//" target="_blank"]Website[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] nothing [br /]
-		[h3]Opening schedules[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Transport[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Others[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
+		[h3]Coordonné[/h3]
+		[fa name="external-link" zoom="2x" /] [a href="//startofservice.com" target="_blank"]Website[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 58 RUE LAMBRECHTS 92400 COURBEVOIE FRANCE [br /]
+		[fa name="phone" zoom="2x" /] aucun [br /]
+		SIREN [a href="https://www.societe.com/societe/starofservice-751713215.html"]751 713 215 [/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
-		[h3]MAP[/h3]
-		[mapbox-custom parent="" category="" entreprise="" /]
+		[h3]map[/h3]
+		[mapbox-custom parent="loisirs" category="service" entreprise="startofservice" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -63,13 +43,13 @@ Sorry the contractor presents no free video on the web.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="startofservice.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
-		[h3]Your data are[/h3]
-		[api-myipms query="" /]
+		[ssllabs domains="startofservice.com" /]
+		[h3]Your data are:[/h3]
+		[api-myipms query="startofservice.com" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -78,46 +58,29 @@ Sorry the contractor presents no free video on the web.
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>The Prices Proposed in Taxe (without promotion)</strong></span></h2>
 <p> </p>
-[begins tags="div" class="table-responsive" /] 
-	[begins tags="table" class="table table-bordered" /] 
-		[begins tags="thead" /] 
-			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-			[ends tags="tr" /] 
-		[ends tags="thead" /] 
-		[begins tags="tbody" /] 
-			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-			[ends tags="tr" /] 
-		[ends tags="tbody" /] 
-	[ends tags="table" /] 
-[ends tags="div" /]
+Non-fixed rates
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note and advice with requirement</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="" category="" entreprise="" showembed="yes" /]
+		[lxw-badge parent="loisirs" category="service" entreprise="" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Tester reviews (by Administrateur)[ends tags="dt" /] 
-				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dd" /] même pas commencé à tester je suis déjà contacter (des demande à 4h du matin ce n'est pas normal - secteur informatique) environ 5 à 10 demande par jour, je trouve iréaliste.[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dd" /] Amazon : yes (Secure can do better A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
-		[h3]Independent control[/h3]
+		[h3]Contrôle indépendant[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Customer services[ends tags="dt" /] 
-				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dd" /]Commercial Abuse[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Team atmosphere[ends tags="dt" /] 
@@ -125,7 +88,7 @@ Sorry the contractor presents no free video on the web.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complete[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -141,6 +104,7 @@ Sorry the contractor presents no free video on the web.
 	[ends tags="div" /]
  
  [br /] [br /]
+
 It is up to you to give your opinion: according to its customer service, its proposals, quality of the service and more.
 
 
@@ -149,80 +113,34 @@ It is up to you to give your opinion: according to its customer service, its pro
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
-		"logo": "https://business.livingxworld.com/images/.jpg",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "startofservice",
+		"url": "https://startofservice.com",
+		"logo": "https://business.livingxworld.com/images/startofservice.jpg",
+		"description": "Find and hire the best professionals nearby. StarOfService helps you find the right person for the service you need.",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"paymentAccepted": "",
+		"priceRange": "€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "58 RUE LAMBRECHTS",
+			"addressLocality": "COURBEVOIE",
+			"postalCode": "92400",
+			"addressCountry": "FRANCE"
 		},
-		"location": [
-			{
-				"@type": "Place",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-				},
-				"name": "The Hi-Dive",	
-				"images": "https://business.livingxworld.com/images/.jpg",
-				"hasMap": "google map url"
-			},
-			{
-				"@type": "Place",
-				"address": {
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-
-				},
-				"name": "The Hi-Dive"
-				"images": "https://business.livingxworld.com/images/.jpg",
-				"hasMap": "google map url"	
-			}
-		],
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		],
+		"hasMap": "https://www.google.fr/maps/place/58+Rue+Lambrechts,+92400+Courbevoie/@48.8991789,2.2589857,17z/data=!3m1!4b1!4m5!3m4!1s0x47e6659e3170f8e1:0xca31ebb3fda64499!8m2!3d48.8991789!4d2.2611744",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
-			"inLanguage": "english",
-            "name": "A masterpiece of literature",
-            "reviewBody": "mon avis",
+            "dateModified": "2017-08-21",
+			"inLanguage": "french",
+            "name": "startofservice",
+            "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "2",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

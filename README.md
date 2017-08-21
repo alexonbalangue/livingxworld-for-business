@@ -14,11 +14,17 @@ Map custom testor with mapbox: https://alexonbalangue.github.io/livingxworld-for
 [folder]: images/* some website from compagny business is not secure so will host on https://business.livingxworld.com/images/*
 
 
+[branch-new-business] [folder]: pending/* want give your contribution, add your business or edit your files https://github.com/alexonbalangue/livingxworld-for-business/tree/news-business/pending
+
+
+
+
 Juste create one file and autorisate only (Business-name.geojson). 
 
 You're loosing just create the generator with http://geojson.io or https://mapbox.com, share to here and will add 1 month business days on Livivngxworld.com
 
 
+ps: free, no needed to register on Livingxworld.com to add your business, juste use github to share with me free without paying and custom free released fees 100% shortcode works to open source.
 
 So thanks, best regards!!!
 

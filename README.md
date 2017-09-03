@@ -18,4 +18,4 @@ are you loosing, just create the generator with  https://mapbox.com, share to he
 
 ps: not needed to register on Livingxworld.com to add your business, juste use github to share with me free without paying and custom release.
 
-thanks, best regards!!! Your data total 22k URL // 419MB SQL // 997.4Mb Host used
+thanks, best regards!!! Our data total 22k URL // 419MB SQL // 997.4Mb Host used

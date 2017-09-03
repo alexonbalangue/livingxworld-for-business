@@ -1,15 +1,15 @@
-<p>[img src="https://business.livingxworld.com/images/consumer/.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/clubmed.png" alt="clubmed" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Find the destination of your dreams for your next holiday from around 80 Resorts Club Med in Europe, Asia, America or the Caribbean.</p>
 
-Sorry the contractor presents no free video on the web.
+[youtube source="fpDEeTSpppc" /]
 
-[begin tags="div" class="row text-center" /]
-	[begin tags="div" class="col-md-12" /]
-		[h3]These software and Apps[/h3]
+[begins tags="div" class="row text-center" /]
+	[begins tags="div" class="col-md-12" /]
+		[h3]Ces logiciels et Apps[/h3]
 		<p>
 			Apple Store [a href="#" target="_blank"][fa name="apple" zoom="2x" /][/a]
 			Windows Store [a href="#" target="_blank"][fa name="windows" zoom="2x" /][/a]
@@ -22,37 +22,17 @@ Sorry the contractor presents no free video on the web.
 <p> </p>
 
 
-[begin tags="div" class="row" /]
-	[begin tags="div" class="col-xs-12 col-md-4" /]
+[begins tags="div" class="row" /]
+	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//" target="_blank"]Website[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//clubmed.fr" target="_blank"]Website[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 11 RUE DE CAMBRAI 75019 PARIS FRANCE [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
-		[h3]Opening schedules[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Transport[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Others[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
+		SIREN [a href="https://www.societe.com/societe/club-med-572185684.html"]572 185 684[/a] [br /]
 	[ends tags="div" /]	
-	[begin tags="div" class="col-xs-12 col-md-8" /]
-		[h3]La carte[/h3]
-		[mapbox-custom parent="" category="" entreprise="" /]
+	[begins tags="div" class="col-xs-12 col-md-8" /]
+		[h3]map[/h3]
+		[mapbox-custom parent="transport" category="voyage" entreprise="clubmed" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -60,63 +40,48 @@ Sorry the contractor presents no free video on the web.
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Automatic scanner</strong></span></h2>
 <p> </p>
-[begin tags="div" class="row text-center" /]
-	[begin tags="div" class="col-xs-12 col-md-12" /]
-		[h3]owner site[/h3]
-		[whois-domains url="" /] 
+[begins tags="div" class="row text-center" /]
+	[begins tags="div" class="col-xs-12 col-md-12" /]
+		[h3]Priotitaire du site[/h3]
+		[whois-domains url="clubmed.fr" /] 
 	[ends tags="div" /]	
-	[begin tags="div" class="col-xs-12 col-md-12" /]
+	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="clubmed.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="clubmed.fr" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
 <p>  </p>
 
 
+
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>The Prices Proposed in Taxe (without promotion)</strong></span></h2>
 <p> </p>
-[begins tags="div" class="table-responsive" /] 
-	[begins tags="table" class="table table-bordered" /] 
-		[begins tags="thead" /] 
-			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-			[ends tags="tr" /] 
-		[ends tags="thead" /] 
-		[begins tags="tbody" /] 
-			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-			[ends tags="tr" /] 
-		[ends tags="tbody" /] 
-	[ends tags="table" /] 
-[ends tags="div" /]
+<p> Tarifs variante</p>
+<p> </p>
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note and advice with requirement</strong></span></h2>
 <p> </p>
-[begin tags="div" class="row text-center" /]
-	[begin tags="div" class="col-xs-12 col-md-6" /]
+[begins tags="div" class="row text-center" /]
+	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="" category="" entreprise="" showembed="yes" /]
+		[lxw-badge parent="transport" category="voyage" entreprise="clubmed" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Tester reviews (by Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dd" /] impossible to scan[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
-	[begin tags="div" class="col-xs-12 col-md-6" /]
-		[h3]Independent control[/h3]
+	[begins tags="div" class="col-xs-12 col-md-6" /]
+		[h3]Contrôle indépendant[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Customer service[ends tags="dt" /] 
+				[begins tags="dt" /]Customer services[ends tags="dt" /] 
 				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
@@ -125,14 +90,14 @@ Sorry the contractor presents no free video on the web.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
 <p> </p>
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Tell A Friends</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Tell a Friends</strong></span></h2>
 <p> </p> 
 	[begins tags="div" class="row" /] 
 		[begins tags="div" class="col-md-12 center-block text-center" /]
@@ -149,76 +114,25 @@ It is up to you to give your opinion: according to its customer service, its pro
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
-		"logo": "https://business.livingxworld.com/images/consumer/.jpg",
+		"name": "clubmed",
+		"url": "https://clubmed.fr",
+		"logo": "https://business.livingxworld.com/images/clubmed.png",
 		"telephone": "+33100000000",
-		"description": "description",
-		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"description": "Find the destination of your dreams for your next holiday from around 80 Resorts Club Med in Europe, Asia, America or the Caribbean.",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "11 RUE DE CAMBRAI 75019 PARIS FRANCE"
 		},
-		"location": [
-			{
-				"@type": "Place",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-				},
-				"name": "The Hi-Dive",	
-				"images": "https://business.livingxworld.com/images/consumer/.jpg",
-				"hasMap": "google map url"
-			},
-			{
-				"@type": "Place",
-				"address": {
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-
-				},
-				"name": "The Hi-Dive"
-				"images": "https://business.livingxworld.com/images/consumer/.jpg",
-				"hasMap": "google map url"	
-			}
-		],
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		],
+		"hasMap": "https://www.google.fr/maps/place/11+Rue+de+Cambrai,+75019+Paris/data=!4m2!3m1!1s0x47e66c2d59eb7391:0xc0eae72bfe7c89df?sa=X&ved=0ahUKEwiLioTzlYjWAhXL8RQKHYvlDeoQ8gEILDAA",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-08-25",
 			"inLanguage": "english",
-            "name": "A masterpiece of literature",
-            "reviewBody": "mon avis",
+            "name": "clubmed",
+            "reviewBody": "",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",

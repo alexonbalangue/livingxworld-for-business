@@ -1,0 +1,6 @@
+voyage:
+
+-clubmed
+-promovacances
+-tui (ancienne nouvelle-frontiere)
+-look-voyages

@@ -1,19 +1,19 @@
-<p>[img src="https://business.livingxworld.com/images/consumer/.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/g7.png" alt="g7" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> G7 is the No. 1 in Europe and the leader of the taxi in Paris and Ile-de-France. Book by phone at 3607 or on the internet one of 8000 taxis.</p>
 
-Sorry the contractor presents no free video on the web.
+[youtube source="SxNeJt4oxCY" /]
 
-[begin tags="div" class="row text-center" /]
-	[begin tags="div" class="col-md-12" /]
+[begins tags="div" class="row text-center" /]
+	[begins tags="div" class="col-md-12" /]
 		[h3]These software and Apps[/h3]
 		<p>
-			Apple Store [a href="#" target="_blank"][fa name="apple" zoom="2x" /][/a]
+			Apple Store [a href="https://itunes.apple.com/fr/app/taxis-g7-prioritaire/id402196027?mt=8" target="_blank"][fa name="apple" zoom="2x" /][/a]
 			Windows Store [a href="#" target="_blank"][fa name="windows" zoom="2x" /][/a]
-			Google Play [a href="#" target="_blank"][fa name="android" zoom="2x" /][/a]
+			Google Play [a href="https://play.google.com/store/apps/details?id=fr.taxisg7.grandpublic&hl=fr" target="_blank"][fa name="android" zoom="2x" /][/a]
 		</p>
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -22,37 +22,27 @@ Sorry the contractor presents no free video on the web.
 <p> </p>
 
 
-[begin tags="div" class="row" /]
-	[begin tags="div" class="col-xs-12 col-md-4" /]
+[begins tags="div" class="row" /]
+	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]coordinated[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//" target="_blank"]Website[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] aucun [br /]
-		[h3]Opening schedules[/h3] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//g7.fr" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 22 RUE HENRI BARBUSSE 92110 CLICHY FRANCE [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:3607"]3607[/a] [br /]
+		SIREN: [a href="https://www.societe.com/societe/g7-324379866.html"]324 379 866[/a] [br /]
+		[h3]Horaires[/h3] [br /]
 		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
+			<li>24h sur 7 days</li>
 		</ul>
 		[h3]Transport[/h3] [br /]
 		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Others[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
+			<li>Véhicule</li>
+			<li>Van</li>
+			<li>mini bus</li>
 		</ul>
 	[ends tags="div" /]	
-	[begin tags="div" class="col-xs-12 col-md-8" /]
+	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="" category="" entreprise="" /]
+		[mapbox-custom parent="transport" category="taxi-vtc" entreprise="taxi-g7" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -60,16 +50,16 @@ Sorry the contractor presents no free video on the web.
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Automatic scanner</strong></span></h2>
 <p> </p>
-[begin tags="div" class="row text-center" /]
-	[begin tags="div" class="col-xs-12 col-md-12" /]
+[begins tags="div" class="row text-center" /]
+	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="g7.fr" /] 
 	[ends tags="div" /]	
-	[begin tags="div" class="col-xs-12 col-md-12" /]
+	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
-		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[ssllabs domains="g7.fr" /]
+		[h3]Your data are:[/h3]
+		[api-myipms query="g7.fr" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -82,16 +72,14 @@ Sorry the contractor presents no free video on the web.
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]immédiate[ends tags="th" /] 
+				[begins tags="th" /]à l'avance[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /]start from 4€/traject [ends tags="td" /] 
+				[begins tags="td" /]start from 7€/traject [ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -99,24 +87,24 @@ Sorry the contractor presents no free video on the web.
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note and advice with requirement</strong></span></h2>
 <p> </p>
-[begin tags="div" class="row text-center" /]
-	[begin tags="div" class="col-xs-12 col-md-6" /]
+[begins tags="div" class="row text-center" /]
+	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="" category="" entreprise="" showembed="yes" /]
+		[lxw-badge parent="transport" category="taxi-vtc" entreprise="taxi-g7" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Tester reviews (by Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dd" /] RapidSSL SHA256 CA : yes (Secure can do better A+) | to correct sha2[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
-	[begin tags="div" class="col-xs-12 col-md-6" /]
+	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Independent control[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Customer service[ends tags="dt" /] 
+				[begins tags="dt" /]Customer services[ends tags="dt" /] 
 				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
@@ -125,14 +113,14 @@ Sorry the contractor presents no free video on the web.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complete[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
 <p> </p>
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Tell A Friends</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Tell a Friends</strong></span></h2>
 <p> </p> 
 	[begins tags="div" class="row" /] 
 		[begins tags="div" class="col-md-12 center-block text-center" /]
@@ -149,80 +137,35 @@ It is up to you to give your opinion: according to its customer service, its pro
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
-		"logo": "https://business.livingxworld.com/images/consumer/.jpg",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "g7",
+		"url": "https://g7.fr",
+		"logo": "https://business.livingxworld.com/images/g7.png",
+		"telephone": "3607",
+		"description": "G7 is the No. 1 in Europe and the leader of the taxi in Paris and Ile-de-France. Book by phone at 3607 or on the internet one of 8000 taxis.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"priceRange": "€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "22 RUE HENRI BARBUSSE",
+			"addressLocality": "CLICHY",
+			"postalCode": "92110",
+			"addressCountry": "FRANCE"
 		},
-		"location": [
-			{
-				"@type": "Place",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-				},
-				"name": "The Hi-Dive",	
-				"images": "https://business.livingxworld.com/images/consumer/.jpg",
-				"hasMap": "google map url"
-			},
-			{
-				"@type": "Place",
-				"address": {
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-
-				},
-				"name": "The Hi-Dive"
-				"images": "https://business.livingxworld.com/images/consumer/.jpg",
-				"hasMap": "google map url"	
-			}
-		],
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		],
+		"hasMap": "https://www.google.fr/maps/place/22+Rue+Henri+Barbusse,+92110+Clichy/@48.8987977,2.3016362,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66f0ac65a2e21:0xc42c3616c5ce687a!8m2!3d48.8987977!4d2.3038249",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-08-25",
 			"inLanguage": "english",
-            "name": "A masterpiece of literature",
-            "reviewBody": "mon avis",
+            "name": "g7",
+            "reviewBody": "",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "2",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

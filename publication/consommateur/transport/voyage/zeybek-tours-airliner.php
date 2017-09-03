@@ -1,4 +1,4 @@
-<p>[img src="https://business.livingxworld.com/images/consumer/.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/consumer/nologo-found.png" alt="airliner" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
@@ -25,91 +25,38 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] aucun [br /]
+		[fa name="external-link" zoom="2x" /] [a href="#" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 14 RUE DE CRUSSOL 75011 PARIS [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33143383434"]+33 (0) 143 383 434[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Transport[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Autres[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
+			<li>lundi - Samedi: de 10h00 à 18h00</li>
+			<li>dimanche: fermé</li>
 		</ul>
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="" category="" entreprise="" /]
+		[mapbox-custom parent="transport" category="voyage" entreprise="airliner" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
 <p> </p>
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Scanner automatique</strong></span></h2>
-<p> </p>
-[begins tags="div" class="row text-center" /]
-	[begins tags="div" class="col-xs-12 col-md-12" /]
-		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
-	[ends tags="div" /]	
-	[begins tags="div" class="col-xs-12 col-md-12" /]
-		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
-		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
-		
-	[ends tags="div" /]	
-[ends tags="div" /]	
-<p>  </p>
 
-
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
-<p> </p>
-[begins tags="div" class="table-responsive" /] 
-	[begins tags="table" class="table table-bordered" /] 
-		[begins tags="thead" /] 
-			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-			[ends tags="tr" /] 
-		[ends tags="thead" /] 
-		[begins tags="tbody" /] 
-			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-			[ends tags="tr" /] 
-		[ends tags="tbody" /] 
-	[ends tags="table" /] 
-[ends tags="div" /]
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="" category="" entreprise="" showembed="yes" /]
+		[lxw-badge parent="transport" category="voyage" entreprise="zeybek-tours-airliner" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] inexistant[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -125,7 +72,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /]inexistant[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -149,80 +96,29 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
-		"logo": "https://business.livingxworld.com/images/consumer/.jpg",
-		"telephone": "+33100000000",
-		"description": "description",
-		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"name": "airliner",
+		"telephone": "+33143383434",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "14 RUE DE CRUSSOL",
+			"addressLocality": "PARIS",
+			"postalCode": "75011",
+			"addressCountry": "france"
 		},
-		"location": [
-			{
-				"@type": "Place",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-				},
-				"name": "The Hi-Dive",	
-				"images": "https://business.livingxworld.com/images/consumer/.jpg",
-				"hasMap": "google map url"
-			},
-			{
-				"@type": "Place",
-				"address": {
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-
-				},
-				"name": "The Hi-Dive"
-				"images": "https://business.livingxworld.com/images/consumer/.jpg",
-				"hasMap": "google map url"	
-			}
-		],
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		],
+		"hasMap": "https://www.google.fr/maps/place/14+Rue+de+Crussol,+75011+Paris/@48.8641015,2.3659628,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66dfd7aa80815:0x86b209966e48a01d!8m2!3d48.8641015!4d2.3681515",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-08-25",
 			"inLanguage": "french",
-            "name": "A masterpiece of literature",
-            "reviewBody": "mon avis",
+            "name": "airliner",
+            "reviewBody": "",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "0",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

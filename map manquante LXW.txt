@@ -4,3 +4,23 @@ voyage:
 -promovacances
 -tui (ancienne nouvelle-frontiere)
 -look-voyages
+
+brand:
+-apple
+
+opérateur:
+-bouygues-telecom
+-free
+-orange
+-sfr
+
+
+
+
+
+
+
+
+
+
+

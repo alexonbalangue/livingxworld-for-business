@@ -13,6 +13,7 @@ opérateur:
 -free
 -orange
 -sfr
+-pldthome
 
 
 

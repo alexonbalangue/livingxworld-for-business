@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/tooway.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/vialis.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
  <p><strong>Description:</strong> --</p>
 
-[youtube source="IAfYu-JckyY" /]
+[youtube source="ZH-XYxfkFnU" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,15 +25,15 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//tooway.fr" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] 70 RUE BALARD 75015 PARIS FRANCE [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//vialis.tm.fr" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 10 RUE DES BONNES GENS CS 70187 68000 COLMAR FRANCE [br /]
 		[fa name="phone" zoom="2x" /] [a href="tel:+"][/a] [br /]
-		SIREN [a href="https://www.societe.com/societe/eutelsat-s-a-422551176.html"]422 551 176[/a] [br /]
+		SIREN [a href="https://www.societe.com/societe/vialis-451279848.html"]451 279 848[/a] [br /]
 		
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="high-tech" category="operateur" entreprise="tooway" /]
+		[mapbox-custom parent="high-tech" category="operateur" entreprise="vialis" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -44,13 +44,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="tooway.fr" /] 
+		[whois-domains url="vialis.tm.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="tooway.fr" /]
+		[ssllabs domains="vialis.tm.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="tooway.fr" /]
+		[api-myipms query="vialis.tm.fr" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -83,14 +83,14 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="high-tech" category="operateur" entreprise="tooway" showembed="yes" /]
+		[lxw-badge parent="high-tech" category="operateur" entreprise="vialis" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] inexistant[ends tags="dd" /] 
+				[begins tags="dd" /]  	Trust Provider B.V. DV SSL CA - G2 : C (non sécurisé doit faire mieux A+) | à corriger TLS1.2 et Forward Secrecy[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -131,19 +131,19 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "tooway",
-		"url": "https://tooway.fr",
-		"logo": "https://business.livingxworld.com/images/tooway.jpg",
-		"telephone": "+33100000000",
+		"name": "vialis",
+		"url": "https://vialis.tm.fr",
+		"logo": "https://business.livingxworld.com/images/vialis.jpg",
+		
 		"description": "description",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "70 RUE BALARD 75015 PARIS FRANCE"
+			"streetAddress": "10 RUE DES BONNES GENS CS 70187 68000 COLMAR FRANCE"
 		},
-		"hasMap": "https://www.google.fr/maps/place/70+Rue+Balard,+75015+Paris/@48.8399467,2.2754733,17z/data=!3m1!4b1!4m5!3m4!1s0x47e6700a58821b0d:0x273c2058e558a99f!8m2!3d48.8399467!4d2.277662",
+		"hasMap": "https://www.google.fr/maps/place/Vialis/@48.081562,7.3672983,17z/data=!3m1!4b1!4m5!3m4!1s0x479165fd149cdd31:0x9e39df93f8bd3693!8m2!3d48.081562!4d7.369487?dcr=0",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
@@ -151,7 +151,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "datePublished": "2014-06-12",
             "dateModified": "2017-08-06",
 			"inLanguage": "french",
-            "name": "tooway",
+            "name": "vialis",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",

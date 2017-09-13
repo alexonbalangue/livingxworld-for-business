@@ -1,12 +1,21 @@
 
-[begins tags='div' class='col-xs-12 col-md-6 text-center' /] 
-[begins tags='i' class='sprites sprites-alexonbalangue' /] [ends tags='i' /] [br /]
-[h5]M. Alexon Balangue [/h5]
-[a href="#"]Add your company[/a] [a href="https://github.com/alexonbalangue/livingxworld-for-business/tree/master/publication"]Publication[/a] [a href="https://github.com/alexonbalangue/livingxworld-for-business/tree/master/map"]map GeoJson[/a] [a href="https://alexonbalangue.github.io/livingxworld-for-business/exemple-map.html"]Example map[/a] [a href="https://github.com/alexonbalangue/livingxworld-for-business/tree/news-business/pending"]Publication is pending[/a]
+[begins tags='div' class='container' /] 
+[begins tags='div' class='col col-12 col-md-4' /] 
+[fa name="home" zoom="2x" /] 66 BD BESSIERES 75017 PARIS, FRANCE [br /] 
+[fa name="map-marker" zoom="2x" /] 48.8971479 (Latitude); 2.320889299999976 (Longitude)[br /] 
+[fa name="envelope" zoom="2x" /] [a href="https://cv.alexonbalangue.me/Alexon-Balangue.vcf" rel="nofollow"]moi.sites@alexonbalangue.me[/a] (outlook vcard)[br /] 
+[fa name="mobile" zoom="2x" /] [a href="tel:+33699119497" rel="nofollow"]+33 (0) 699 119 497[/a][br /] 
+[fa name="fax" zoom="2x" /] [a href="tel:+339972250207" rel="nofolow"]+33 (0) 972 250 207[/a][br /] 
+[fa name="warning" zoom="2x" /] aucun accueil du public ne se fait au siège social.
+
+
 [ends tags='div' /] 
-[begins tags='div' class='col-xs-12 col-md-6' /] 
-	[h5] Projet v3 [/h5]
-This is all the difference with one of the direct competitors, which you may know, for a single choice but will be present for all types of companies (self-employed, self-employed, small businesses, proximity) to make themselves known, to make known, to give rating with a demanding opinion, to be B2B and B2C customers without the most neutral advantage, improve our world, our life, our social, our security, our change of method of recruitment, a youth more accept (let's not forget the seniors), our works on the march! To evolve our society now is to act.
+
+[begins tags='div' class='col col-12 col-md-8' /] 
+	[h5] Plateforme [/h5]
+[mapbox-custom entreprise="alexonbalangue" /]
+[begins tags="i" class="sprites sprites-alloVoisins"][ends tags="i" /] [begins tags="i" class="sprites sprites-frizbiz"][ends tags="i" /] [begins tags="i" class="sprites sprites-jemepropose"][ends tags="i" /] [begins tags="i" class="sprites sprites-leboncoin"][ends tags="i" /] [begins tags="i" class="sprites sprites-smiile"][ends tags="i" /] [begins tags="i" class="sprites sprites-stootie"][ends tags="i" /] et encore plus ailleurs.
+[ends tags='div' /] 
 [ends tags='div' /] 
 
 
@@ -30,8 +39,10 @@ This is all the difference with one of the direct competitors, which you may kno
 			"https://informatique.e-pro.fr/paris/alexon-balangue_f5813823",
 			"https://www.dailymotion.com/alexonbalangue",
 			"https://twitter.com/alexonbalangue",
+			"https://alexonbalangue.tumblr.com",
 			"https://plus.google.com/111674852597914713564",
 			"https://fr.pinterest.com/alexonbalangue/",
+			"https://www.amazon.fr/gp/pdp/profile/ref=sv_ys_3",
 			"https://people.safecreative.org/alexon-balangue/u1409101240312",
 			"https://annuaire.laposte.fr/programmeur-informatique/alexon-balangue-83095761900018/",
 			"http://www.sefaireaider.com/informatique-hi-fi/webmaster/ile-de-france/paris/75017-paris-17/prestation-1625016.html",

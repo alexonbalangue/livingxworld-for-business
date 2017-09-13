@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/tooway.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/mycanal.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
  <p><strong>Description:</strong> --</p>
 
-[youtube source="IAfYu-JckyY" /]
+[youtube source="yJE5B65V8bY" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,15 +25,15 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//tooway.fr" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] 70 RUE BALARD 75015 PARIS FRANCE [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+"][/a] [br /]
-		SIREN [a href="https://www.societe.com/societe/eutelsat-s-a-422551176.html"]422 551 176[/a] [br /]
-		
+		[fa name="external-link" zoom="2x" /] [a href="//mycanal.fr" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 1 PLACE DU SPECTACLE 92130 ISSY LES MOULINEAUX FRANCE [br /]
+		[fa name="phone" zoom="2x" /]  [br /]
+		SIREN [a href="https://www.societe.com/societe/societe-d-edition-de-canal-plus-329211734.html"]329 211 734[/a] [br /]
+		[h3]Horaires[/h3] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="high-tech" category="operateur" entreprise="tooway" /]
+		[mapbox-custom parent="high-tech" category="operateur" entreprise="mycanal" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -44,13 +44,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="tooway.fr" /] 
+		[whois-domains url="mycanal.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="tooway.fr" /]
+		[ssllabs domains="mycanal.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="tooway.fr" /]
+		[api-myipms query="mycanal.fr" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -83,14 +83,14 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="high-tech" category="operateur" entreprise="tooway" showembed="yes" /]
+		[lxw-badge parent="high-tech" category="operateur" entreprise="mycanal" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] inexistant[ends tags="dd" /] 
+				[begins tags="dd" /] impossible de scanner[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -131,9 +131,9 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "tooway",
-		"url": "https://tooway.fr",
-		"logo": "https://business.livingxworld.com/images/tooway.jpg",
+		"name": "mycanal",
+		"url": "https://mycanal.fr",
+		"logo": "https://business.livingxworld.com/images/mycanal.jpg",
 		"telephone": "+33100000000",
 		"description": "description",
 		"currenciesAccepted": "EUR",
@@ -141,9 +141,9 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "70 RUE BALARD 75015 PARIS FRANCE"
+			"streetAddress": "1 PLACE DU SPECTACLE 92130 ISSY LES MOULINEAUX FRANCE"
 		},
-		"hasMap": "https://www.google.fr/maps/place/70+Rue+Balard,+75015+Paris/@48.8399467,2.2754733,17z/data=!3m1!4b1!4m5!3m4!1s0x47e6700a58821b0d:0x273c2058e558a99f!8m2!3d48.8399467!4d2.277662",
+		"hasMap": "https://www.google.fr/maps/place/1+Place+du+Spectacle,+92130+Issy-les-Moulineaux/@48.8279229,2.2612189,17z/data=!3m1!4b1!4m5!3m4!1s0x47e67a9000d7e0b9:0x68177f8e86f95f2!8m2!3d48.8279229!4d2.2634076",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
@@ -151,7 +151,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "datePublished": "2014-06-12",
             "dateModified": "2017-08-06",
 			"inLanguage": "french",
-            "name": "tooway",
+            "name": "mycanal",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",

@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/tooway.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/coriolis-telecom.png" alt="coriolis" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Faîtes des économies ! Forfaits avec ou sans téléphone portable ou forfaits mobiles bloqués. Maîtrisez votre budget avec Coriolis Telecom.</p>
 
-[youtube source="IAfYu-JckyY" /]
+[youtube source="_W0Xg9s2wJg" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,15 +25,14 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//tooway.fr" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] 70 RUE BALARD 75015 PARIS FRANCE [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+"][/a] [br /]
-		SIREN [a href="https://www.societe.com/societe/eutelsat-s-a-422551176.html"]422 551 176[/a] [br /]
-		
+		[fa name="external-link" zoom="2x" /] [a href="//coriolis.com" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 2 RUE BENOIT MALON 92150 SURESNES FRANCE [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:+33969329477"]0 969 32 94 77[/a] [br /]
+		SIREN [a href="https://www.societe.com/societe/coriolis-telecom-sas-419735741.html"]419 735 741[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="high-tech" category="operateur" entreprise="tooway" /]
+		[mapbox-custom parent="high-tech" category="operateur" entreprise="coriolis" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -44,13 +43,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="tooway.fr" /] 
+		[whois-domains url="coriolis.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="tooway.fr" /]
+		[ssllabs domains="coriolis.com" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="tooway.fr" /]
+		[api-myipms query="coriolis.com" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -59,20 +58,39 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
 <p> </p>
+<p>Forfait mobile </p>
+<p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]2h/50Mo[ends tags="th" /] 
+				[begins tags="th" /]illimité/10Go[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] 3.50€/Mois[ends tags="td" /] 
+				[begins tags="td" /]15.50€/Mois [ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p>Box adsl </p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]mini[ends tags="th" /] 
+				[begins tags="th" /]maxi[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] 18.80€/Mois[ends tags="td" /] 
+				[begins tags="td" /]21.80€/Mois [ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -83,7 +101,7 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="high-tech" category="operateur" entreprise="tooway" showembed="yes" /]
+		[lxw-badge parent="high-tech" category="operateur" entreprise="coriolis" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
@@ -131,19 +149,19 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "tooway",
-		"url": "https://tooway.fr",
-		"logo": "https://business.livingxworld.com/images/tooway.jpg",
-		"telephone": "+33100000000",
-		"description": "description",
+		"name": "coriolis",
+		"url": "https://coriolis.com",
+		"logo": "https://business.livingxworld.com/images/coriolis-telecom.png",
+		"telephone": "+33969329477",
+		"description": "Faîtes des économies ! Forfaits avec ou sans téléphone portable ou forfaits mobiles bloqués. Maîtrisez votre budget avec Coriolis Telecom.",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"paymentAccepted": "card",
+		"priceRange": "€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "70 RUE BALARD 75015 PARIS FRANCE"
+			"streetAddress": "2 RUE BENOIT MALON 92150 SURESNES FRANCE"
 		},
-		"hasMap": "https://www.google.fr/maps/place/70+Rue+Balard,+75015+Paris/@48.8399467,2.2754733,17z/data=!3m1!4b1!4m5!3m4!1s0x47e6700a58821b0d:0x273c2058e558a99f!8m2!3d48.8399467!4d2.277662",
+		"hasMap": "https://www.google.fr/maps/place/2+Rue+Beno%C3%AEt+Malon,+92150+Suresnes/@48.8728452,2.2310352,17z/data=!3m1!4b1!4m5!3m4!1s0x47e664d89fe24273:0xe6bfb125b96e694b!8m2!3d48.8728452!4d2.2332239",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
@@ -151,7 +169,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "datePublished": "2014-06-12",
             "dateModified": "2017-08-06",
 			"inLanguage": "french",
-            "name": "tooway",
+            "name": "coriolis",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",

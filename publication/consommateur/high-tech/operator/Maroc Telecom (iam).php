@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/tooway.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/maroc-telecom.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
  <p><strong>Description:</strong> --</p>
 
-[youtube source="IAfYu-JckyY" /]
+[youtube source="jq_XjeLg3AQ" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,15 +25,14 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//tooway.fr" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] 70 RUE BALARD 75015 PARIS FRANCE [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//iam.ma" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] adresse [br /]
 		[fa name="phone" zoom="2x" /] [a href="tel:+"][/a] [br /]
-		SIREN [a href="https://www.societe.com/societe/eutelsat-s-a-422551176.html"]422 551 176[/a] [br /]
-		
+		SIREN [a href=""][/a] [br /]
+		[h3]Horaires[/h3] [br /]
 	[ends tags="div" /]	
-	[begins tags="div" class="col-xs-12 col-md-8" /]
-		[h3]La carte[/h3]
-		[mapbox-custom parent="high-tech" category="operateur" entreprise="tooway" /]
+	[begins tags="div" class="col-xs-12 col-md-8 text-center" /]
+		siège social non indiquer
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -44,13 +43,13 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="tooway.fr" /] 
+		[whois-domains url="iam.ma" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="tooway.fr" /]
+		[ssllabs domains="iam.ma" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="tooway.fr" /]
+		[api-myipms query="iam.ma" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -83,14 +82,14 @@
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="high-tech" category="operateur" entreprise="tooway" showembed="yes" /]
+		[lxw-badge parent="high-tech" category="operateur" entreprise="iam" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] inexistant[ends tags="dd" /] 
+				[begins tags="dd" /] Starfield Secure Certificate Authority - G2; F (non sécurisé doit faire mieux A+) | poodle, RC4, Forward Secrecy et imcomplet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -131,9 +130,9 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "tooway",
-		"url": "https://tooway.fr",
-		"logo": "https://business.livingxworld.com/images/tooway.jpg",
+		"name": "iam",
+		"url": "https://iam.ma",
+		"logo": "https://business.livingxworld.com/images/iam.png",
 		"telephone": "+33100000000",
 		"description": "description",
 		"currenciesAccepted": "EUR",
@@ -141,9 +140,13 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "70 RUE BALARD 75015 PARIS FRANCE"
+			"streetAddress": "adresse",
+			"addressLocality": "Ville",
+			"addressRegion": "région",
+			"postalCode": "code postal",
+			"addressCountry": "pays"
 		},
-		"hasMap": "https://www.google.fr/maps/place/70+Rue+Balard,+75015+Paris/@48.8399467,2.2754733,17z/data=!3m1!4b1!4m5!3m4!1s0x47e6700a58821b0d:0x273c2058e558a99f!8m2!3d48.8399467!4d2.277662",
+		"hasMap": "https://business.livingxworld.com/map/consumer/",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
@@ -151,7 +154,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "datePublished": "2014-06-12",
             "dateModified": "2017-08-06",
 			"inLanguage": "french",
-            "name": "tooway",
+            "name": "iam",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",

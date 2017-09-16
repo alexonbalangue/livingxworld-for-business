@@ -1,9 +1,9 @@
-<p>[img src="https://business.livingxworld.com/images/syma.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/syma.jpg" alt="syma" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> D&eacute;couvrez nos cartes SIM, recharges et services mobiles pour la France et l'international.</p>
 
 [youtube source="t6bguoPSSW4" /]
 
@@ -57,22 +57,65 @@
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Particulier</strong></span></h2>
+
+
+<p>Forfait </p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]2h [fa name="mobile" /]/illimité [fa name="comments"]/200Mo [fa name="internet-explorer" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/illimité [fa name="comments"]/20Go [fa name="internet-explorer" /][ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] 1.90€/Mois[ends tags="td" /] 
+				[begins tags="td" /] 19.99€/Mois[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Professionnel</strong></span></h2>
+
+<p> </p>
+<p> Box internet</p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]freebox révolution[ends tags="th" /] 
+				[begins tags="th" /]freebox 4k mini[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] 39.99€/Mois[ends tags="td" /] 
+				[begins tags="td" /] 29.99€/Mois[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p>Forfait </p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]2h [fa name="mobile" /]/illimité [fa name="comments"]/50Mo [fa name="internet-explorer" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/illimité [fa name="comments"]/100Go [fa name="internet-explorer" /][ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] 2€/Mois[ends tags="td" /] 
+				[begins tags="td" /] 19.99€/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -135,7 +178,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"url": "https://symamobile.com",
 		"logo": "https://business.livingxworld.com/images/syma.jpg",
 		
-		"description": "description",
+		"description": "D&eacute;couvrez nos cartes SIM, recharges et services mobiles pour la France et l'international.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card",
 		"priceRange": "€",
@@ -149,7 +192,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-09-17",
 			"inLanguage": "french",
             "name": "syma",
             "reviewBody": " ",

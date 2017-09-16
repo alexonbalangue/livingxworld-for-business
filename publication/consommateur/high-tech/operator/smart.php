@@ -1,9 +1,9 @@
-<p>[img src="https://business.livingxworld.com/images/smart-ph.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/smart-ph.png" alt="smart" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Smart Communications, Inc. est le principal fournisseur de services sans fil aux Philippines. Live the Smart Life avec appel, texte, 3G et amp; Les données LTE, et plus de services numériques et amp; innovations.</p>
 
 [youtube source="0lnaFmjCQSM" /]
 
@@ -26,9 +26,6 @@
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//smart.com.ph" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+"][/a] [br /]
-		SIREN [a href=""][/a] [br /]
 		
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
@@ -57,26 +54,28 @@
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Particulier</strong></span></h2>
+
+<p> </p>
+<p>Forfait </p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]20min [fa name="mobile" /]/illimité [fa name="comments"]/3Go [fa name="internet-explorer" /][ends tags="th" /] 
+				[begins tags="th" /]90min[fa name="mobile" /]/illimité [fa name="comments"]/36Go [fa name="internet-explorer" /][ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] P399/Mois[ends tags="td" /] 
+				[begins tags="td" /] P2 999/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
 [ends tags="div" /]
+
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
 <p> </p>
@@ -90,7 +89,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] Symantec Class 3 EV SSL CA - G3 : A- (non sécurisé doit faire mieux A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -106,7 +105,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -135,25 +134,15 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"url": "https://smart.com.ph",
 		"logo": "https://business.livingxworld.com/images/smart.png",
 		
-		"description": "description",
-		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
-		"address": {
-			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
-		},
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"description": "Smart Communications, Inc. est le principal fournisseur de services sans fil aux Philippines. Live the Smart Life avec appel, texte, 3G et amp; Les données LTE, et plus de services numériques et amp; innovations.",
+		"currenciesAccepted": "PHP",
+		"paymentAccepted": "card",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-09-17",
 			"inLanguage": "french",
             "name": "smart",
             "reviewBody": " ",

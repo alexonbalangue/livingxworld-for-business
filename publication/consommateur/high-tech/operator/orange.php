@@ -1,9 +1,9 @@
-<p>[img src="https://business.livingxworld.com/images/orange.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/orange.jpg" alt="orange" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Orange vous présente ses offres de téléphones portables, de forfaits mobiles et internet. Retrouvez aussi la messagerie, l'actualité, le sport, la video sur le portail Orange</p>
 
 [youtube source="f_UFIwor_qs" /]
 
@@ -29,7 +29,7 @@
 		[fa name="map-marker" zoom="2x" /] 78 RUE OLIVIER DE SERRES 75015 PARIS France [br /]
 		[fa name="phone" zoom="2x" /] [a href="tel:+"][/a] [br /]
 		SIREN [a href="https://www.societe.com/societe/orange-portails-497551804.html"]497 551 804[/a] [br /]
-		[h3]Horaires[/h3] [br /]
+		
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
@@ -57,22 +57,85 @@
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Particulier</strong></span></h2>
+
+<p> </p>
+<p> Box internet</p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]Zen fibre[ends tags="th" /] 
+				[begins tags="th" /]play fibre[ends tags="th" /] 
+				[begins tags="th" /]jet fibre[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] 19.99€/Mois (+3/Mois)[ends tags="td" /] 
+				[begins tags="td" /] 25.99€/Mois (+3/Mois)[ends tags="td" /] 
+				[begins tags="td" /] 33.99€/Mois (+3/Mois)[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p>Forfait </p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]2h [fa name="mobile" /]/illimité [fa name="comments"]/50Mo [fa name="internet-explorer" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/illimité [fa name="comments"]/30Go [fa name="internet-explorer" /][ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] 4.99€/Mois[ends tags="td" /] 
+				[begins tags="td" /] 19.99€/Mois[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Professionnel</strong></span></h2>
+
+<p> </p>
+<p> Box internet</p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]équilibre (200mb)[ends tags="th" /] 
+				[begins tags="th" /]équilibre (1Gb)[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] 54€/Mois[ends tags="td" /] 
+				[begins tags="td" /] 78€/Mois[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p>Forfait </p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/illimité [fa name="comments"]/0.06€/Mo [fa name="internet-explorer" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/illimité [fa name="comments"]/100Go [fa name="internet-explorer" /][ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] 11.99€/Mois[ends tags="td" /] 
+				[begins tags="td" /] 29.99€/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -134,10 +197,9 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"name": "orange",
 		"url": "https://orange.fr",
 		"logo": "https://business.livingxworld.com/images/orange.jpg",
-		"telephone": "+33100000000",
-		"description": "description",
+		"description": "Orange vous présente ses offres de téléphones portables, de forfaits mobiles et internet. Retrouvez aussi la messagerie, l'actualité, le sport, la video sur le portail Orange",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
+		"paymentAccepted": "card",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
@@ -149,14 +211,14 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-09-17",
 			"inLanguage": "french",
             "name": "orange",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "2",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

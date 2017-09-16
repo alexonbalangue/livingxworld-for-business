@@ -3,7 +3,7 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Lebara France offre des offres nationales et économiques à bas prix appels internationaux au Maghreb, en Afrique, en Europe et; Asie. Commander Sim, compléter en ligne et amp; Profitez des meilleurs taux d'appel!</p>
 
 [youtube source="NOni8JoMg9Q" /]
 
@@ -26,9 +26,7 @@
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//lebara.com" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+"][/a] [br /]
-		SIREN [a href=""][/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 25 Copthall Avenue, London, EC2R 7BP [br /]
 		[h3]Horaires[/h3] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
@@ -57,26 +55,13 @@
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
+
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Particulier</strong></span></h2>
+
 <p> </p>
-[begins tags="div" class="table-responsive" /] 
-	[begins tags="table" class="table table-bordered" /] 
-		[begins tags="thead" /] 
-			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-			[ends tags="tr" /] 
-		[ends tags="thead" /] 
-		[begins tags="tbody" /] 
-			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-			[ends tags="tr" /] 
-		[ends tags="tbody" /] 
-	[ends tags="table" /] 
-[ends tags="div" /]
+<p> tarifs variante.</p>
+<p> </p>
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
 <p> </p>
@@ -90,7 +75,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] inexistant[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -106,7 +91,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -134,26 +119,21 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"name": "lebara",
 		"url": "https://lebara.com",
 		"logo": "https://business.livingxworld.com/images/lebara.png",
-		"telephone": "+33100000000",
-		"description": "description",
+		"description": "Lebara France offre des offres nationales et économiques à bas prix appels internationaux au Maghreb, en Afrique, en Europe et; Asie. Commander Sim, compléter en ligne et amp; Profitez des meilleurs taux d'appel!",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "25 Copthall Avenue, London, EC2R 7BP"
 		},
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"hasMap": "https://www.google.fr/maps/place/25+Copthall+Ave,+London+EC2R+7BP,+Royaume-Uni/@51.5168258,-0.0902469,17z/data=!3m1!4b1!4m5!3m4!1s0x48761cab62f57517:0x9d202577728746e1!8m2!3d51.5168258!4d-0.0880582",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-09-17",
 			"inLanguage": "french",
             "name": "lebara",
             "reviewBody": " ",

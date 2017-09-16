@@ -3,7 +3,7 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Informations sur Vodafone Group Plc pour les médias et les investisseurs, y compris des informations sur la Fondation Vodafone et les activités durables.</p>
 
 [youtube source="VbPaHtqX-k0" /]
 
@@ -26,9 +26,6 @@
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//vodafone.com" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+"][/a] [br /]
-		SIREN [a href=""][/a] [br /]
 		
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
@@ -57,26 +54,46 @@
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Particulier</strong></span></h2>
+
+<p> </p>
+<p> Box internet</p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]broadband 17[ends tags="th" /] 
+				[begins tags="th" /]fibre 18[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] 25£/Mois[ends tags="td" /] 
+				[begins tags="td" /] 25£/Mois[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p>Forfait </p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]250min [fa name="mobile" /]/illimité [fa name="comments"]/250Mo [fa name="internet-explorer" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/illimité [fa name="comments"]/1Go [fa name="internet-explorer" /][ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] 17£/Mois[ends tags="td" /] 
+				[begins tags="td" /] 23£/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
 [ends tags="div" /]
+
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
 <p> </p>
@@ -90,7 +107,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] inexistant[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -106,7 +123,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -133,27 +150,45 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@type": "LocalBusiness",
 		"name": "vodafone",
 		"url": "https://vodafone.com",
+		"sameAs": [
+			"https://vodafone.co.uk",
+			"https://vodafone.ie",
+			"https://vodafone.co.nz",
+			"https://vodafone.com.mt",
+			"https://vodafone.in",
+			"https://vodafone.com.gh",
+			"https://vodafone.it",
+			"https://vodafone.com.fj",
+			"https://vodafone.com.au",
+			"https://vodafone.com.eg",
+			"https://vodafone.ua",
+			"https://vodafone.cz",
+			"https://vodafone.is",
+			"https://vodacom.co.za",
+			"https://vodacom.nl",
+			"https://vodacom.de",
+			"https://vodacom.ro",
+			"https://vodacom.gr",
+			"https://vodacom.es",
+			"https://vodacom.al",
+			"https://vodacom.hu",
+			"https://vodacom.pt",
+			"https://vodafone.zm"
+		],
 		"logo": "https://business.livingxworld.com/images/vodafone.png",
 		
-		"description": "description",
-		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"description": "Informations sur Vodafone Group Plc pour les médias et les investisseurs, y compris des informations sur la Fondation Vodafone et les activités durables.",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "Newbury, Berkshire, RG14 2FN, United Kingdom"
 		},
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"hasMap": "https://www.google.fr/maps?q=Newbury,+Berkshire,+RG14+2FN,+United+Kingdom&oe=utf-8&client=firefox-b-ab&gfe_rd=cr&dcr=0&um=1&ie=UTF-8&sa=X&ved=0ahUKEwjUt8-Zv6TWAhXGbxQKHVsIAHAQ_AUICigB",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-09-17",
 			"inLanguage": "french",
             "name": "vodafone",
             "reviewBody": " ",

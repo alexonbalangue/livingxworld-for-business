@@ -3,7 +3,7 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Découvrez nos offres La Poste Mobile, des forfaits à bas prix, des cartes prépayées avec ou sans téléphones portables pas chers !</p>
 
 [youtube source="2JKJjJb0K1c" /]
 
@@ -26,14 +26,14 @@
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//lapostemobile.fr" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
+		[fa name="map-marker" zoom="2x" /] 855 AVENUE ROGER SALENGRO 92370 CHAVILLE FRANCE [br /]
 		[fa name="phone" zoom="2x" /] [a href="tel:+"][/a] [br /]
-		SIREN [a href=""][/a] [br /]
+		SIREN [a href="https://www.societe.com/societe/la-poste-telecom-525254736.html"]525 254 736[/a] [br /]
 		[h3]Horaires[/h3] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="high-tech" category="operateur" entreprise="la-poste-mobile" /]
+		[mapbox-custom parent="high-tech" category="operateur" entreprise="la-poste" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -57,26 +57,46 @@
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
+
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Particulier</strong></span></h2>
+
+<p> </p>
+<p> Box internet</p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]box tv plus[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] 31.99€/Mois (+5€/Mois)[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p>Forfait </p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]2h [fa name="mobile" /]/illimité [fa name="comments"]/100Mo [fa name="internet-explorer" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/illimité [fa name="comments"]/60Go [fa name="internet-explorer" /][ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] 3.99€/Mois[ends tags="td" /] 
+				[begins tags="td" /] 18.99€/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
 [ends tags="div" /]
+
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
 <p> </p>
@@ -90,7 +110,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /]  	thawte SHA256 SSL CA : C (non sécurisé doit faire mieux A+) | à corriger poodle, Diffie-Hellman (DH), RC4 et Forward Secrecy[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -106,7 +126,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -134,26 +154,21 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"name": "la poste mobile",
 		"url": "https://lapostemobile.fr",
 		"logo": "https://business.livingxworld.com/images/la-poste-mobile.png",
-		"telephone": "+33100000000",
-		"description": "description",
+		"description": "Découvrez nos offres La Poste Mobile, des forfaits à bas prix, des cartes prépayées avec ou sans téléphones portables pas chers !",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"paymentAccepted": "card",
+		"priceRange": "€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "855 AVENUE ROGER SALENGRO 92370 CHAVILLE FRANCE"
 		},
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"hasMap": "https://www.google.fr/maps/place/855+Avenue+Roger+Salengro,+92370+Chaville/data=!4m2!3m1!1s0x47e67b8485b4dea5:0x478a9cbd65b6722a?sa=X&ved=0ahUKEwjLmZ6LrqXWAhUlCcAKHQ9oA9IQ8gEIJjAA",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-09-17",
 			"inLanguage": "french",
             "name": "la poste mobile",
             "reviewBody": " ",

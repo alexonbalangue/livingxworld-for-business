@@ -1,9 +1,9 @@
-<p>[img src="https://business.livingxworld.com/images/free.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/free.png" alt="free" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Free, l'inventeur des box triple play</p>
 
 [youtube source="6GRNjMKzJVI" /]
 
@@ -27,7 +27,7 @@
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//free.fr" target="_blank"]Site internet[/a] [br /]
 		[fa name="map-marker" zoom="2x" /] 8 RUE DE LA VILLE L EVEQUE 75008 PARIS FRANCE [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+"][/a] [br /]
+		[fa name="phone" zoom="2x" /] [a href="tel:1014"]1014[/a] [br /]
 		SIREN [a href="https://www.societe.com/societe/free-421938861.html"]421 938 861[/a] [br /]
 		
 	[ends tags="div" /]	
@@ -59,20 +59,38 @@
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
 <p> </p>
+<p> Box internet</p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]freebox révolution[ends tags="th" /] 
+				[begins tags="th" /]freebox 4k mini[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] 39.99€/Mois[ends tags="td" /] 
+				[begins tags="td" /] 29.99€/Mois[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p>Forfait </p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]2h [fa name="mobile" /]/illimité [fa name="comments"]/50Mo [fa name="internet-explorer" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/illimité [fa name="comments"]/100Go [fa name="internet-explorer" /][ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] 2€/Mois[ends tags="td" /] 
+				[begins tags="td" /] 19.99€/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -134,8 +152,8 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"name": "free",
 		"url": "https://free.fr",
 		"logo": "https://business.livingxworld.com/images/free.png",
-		"telephone": "+33100000000",
-		"description": "description",
+		"telephone": "1014",
+		"description": "Free, l'inventeur des box triple play",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",
 		"priceRange": "€€",
@@ -149,14 +167,14 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-09-17",
 			"inLanguage": "french",
             "name": "free",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "2",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

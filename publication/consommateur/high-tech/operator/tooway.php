@@ -1,9 +1,9 @@
-<p>[img src="https://business.livingxworld.com/images/tooway.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/tooway.jpg" alt="tooway" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Tooway l&#039;internet par Satellite, un accès internet haut débit partout en France. TV satellite, Internet &amp; Téléphone.</p>
 
 [youtube source="IAfYu-JckyY" /]
 
@@ -57,26 +57,30 @@
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) </strong></span></h2>
+
 <p> </p>
+<p> Box internet</p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]easy 15Go/Mois[ends tags="th" /] 
+				[begins tags="th" /]famille 2Go/Mois[ends tags="th" /] 
+				[begins tags="th" /]business (200Go)[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] non indiqué[ends tags="td" /] 
+				[begins tags="td" /] 19.99€/Mois[ends tags="td" /] 
+				[begins tags="td" /] non indiqué[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
 [ends tags="div" /]
+<p> </p>
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
 <p> </p>
@@ -134,10 +138,9 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"name": "tooway",
 		"url": "https://tooway.fr",
 		"logo": "https://business.livingxworld.com/images/tooway.jpg",
-		"telephone": "+33100000000",
-		"description": "description",
+		"description": "Tooway l&#039;internet par Satellite, un accès internet haut débit partout en France. TV satellite, Internet &amp; Téléphone.",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
+		"paymentAccepted": "card",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
@@ -149,7 +152,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-09-17",
 			"inLanguage": "french",
             "name": "tooway",
             "reviewBody": " ",

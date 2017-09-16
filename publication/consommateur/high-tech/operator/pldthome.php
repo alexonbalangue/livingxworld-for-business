@@ -1,9 +1,9 @@
-<p>[img src="https://business.livingxworld.com/images/pldt-home.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/pldt-home.jpg" alt="pldt home" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Présentation de HOME, le fournisseur de services numériques de confiance qui utilise une puissante fibre à large bande pour connecter tous vos appareils pour une diffusion continue et simultanée. Permettant de partager des moments qui rapprochent votre famille. Des fabricants de PLDT Home Fibr, Home DSL, Home Telpad et Home Ultera.</p>
 
 [youtube source="U69a2_23mLU" /]
 
@@ -54,26 +54,28 @@
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Particulier</strong></span></h2>
+
 <p> </p>
+<p> Box internet (avec engagement)</p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]5mb[ends tags="th" /] 
+				[begins tags="th" /]50mb[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] P119/Mois[ends tags="td" /] 
+				[begins tags="td" /] P2 899/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
 [ends tags="div" /]
+<p> </p>
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
 <p> </p>
@@ -87,7 +89,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] inexistant.[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -132,7 +134,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"url": "https://pldthome.com",
 		"logo": "https://business.livingxworld.com/images/pldthome.jpg",
 		
-		"description": "description",
+		"description": "Présentation de HOME, le fournisseur de services numériques de confiance qui utilise une puissante fibre à large bande pour connecter tous vos appareils pour une diffusion continue et simultanée. Permettant de partager des moments qui rapprochent votre famille. Des fabricants de PLDT Home Fibr, Home DSL, Home Telpad et Home Ultera.",
 		"currenciesAccepted": "PHP",
 		"paymentAccepted": "card",
 		"review": {
@@ -140,7 +142,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-09-17",
 			"inLanguage": "french",
             "name": "pldthome",
             "reviewBody": " ",

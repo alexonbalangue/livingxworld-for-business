@@ -1,9 +1,9 @@
-<p>[img src="https://business.livingxworld.com/images/sun-cellular.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/sun-cellular.png" alt="sun cellular" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Sun offre une vaste gamme d'innovations en matière de services pour la téléphonie mobile, depuis les services de messagerie vocale, de messagerie et d'itinérance internationale, aux services haut débit sans fil et à valeur ajoutée pour les consommateurs et les entreprises.</p>
 
 [youtube source="IFMiWnkc-38" /]
 
@@ -28,12 +28,12 @@
 		[fa name="external-link" zoom="2x" /] [a href="//suncellular.com.ph" target="_blank"]Site internet[/a] [br /]
 		[fa name="map-marker" zoom="2x" /] adresse [br /]
 		[fa name="phone" zoom="2x" /] [a href="tel:+"][/a] [br /]
-		SIREN [a href=""][/a] [br /]
+		
 		
 	[ends tags="div" /]	
-	[begins tags="div" class="col-xs-12 col-md-8" /]
+	[begins tags="div" class="col-xs-12 col-md-8 text-center" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="high-tech" category="operateur" entreprise="sun-cellular" /]
+		siège social non indiqué.
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -57,26 +57,34 @@
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Particulier</strong></span></h2>
+
+<p>Forfait </p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/250 [fa name="comments"]/100Mo [fa name="internet-explorer" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/750 [fa name="comments"]/10h [fa name="internet-explorer" /][ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] P350/Mois[ends tags="td" /] 
+				[begins tags="td" /] P999/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
 [ends tags="div" /]
+
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Professionnel</strong></span></h2>
+
+<p> </p>
+<p>tarifs variante </p>
+<p> </p>
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
 <p> </p>
@@ -90,7 +98,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] Symantec Class 3 Secure Server CA - G4 : C (non sécurisé doit faire mieux A+) | à corriger 64-bit block cipher (3DES / DES / RC2 / IDEA) et Forward Secrecy[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -106,7 +114,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -135,25 +143,14 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"url": "https://suncellular.com.ph",
 		"logo": "https://business.livingxworld.com/images/sun-cellular.png",
 		
-		"description": "description",
-		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
-		"address": {
-			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
-		},
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
+		"description": "Sun offre une vaste gamme d'innovations en matière de services pour la téléphonie mobile, depuis les services de messagerie vocale, de messagerie et d'itinérance internationale, aux services haut débit sans fil et à valeur ajoutée pour les consommateurs et les entreprises.",
+		"currenciesAccepted": "PHP",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-09-17",
 			"inLanguage": "french",
             "name": "sun cellular",
             "reviewBody": " ",

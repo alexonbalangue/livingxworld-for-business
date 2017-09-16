@@ -1,9 +1,9 @@
-<p>[img src="https://business.livingxworld.com/images/bein-sport.svg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/bein-sport.svg" alt="bein sport" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Le meilleur du sports en direct tv et en live streaming. Vidéos et images de la Ligue 1 et de la Ligue des Champions en exclusivité sur beIN SPORTS</p>
 
 [youtube source="UpE1Rx9U1kM" /]
 
@@ -63,16 +63,12 @@
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]offre[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] 15€/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -135,9 +131,9 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"url": "https://beinsports.com",
 		"logo": "https://business.livingxworld.com/images/bein-sport.svg",
 		
-		"description": "description",
+		"description": "Le meilleur du sports en direct tv et en live streaming. Vidéos et images de la Ligue 1 et de la Ligue des Champions en exclusivité sur beIN SPORTS",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
+		"paymentAccepted": "card",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
@@ -149,14 +145,14 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-09-17",
 			"inLanguage": "french",
             "name": "bein sport",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "2",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

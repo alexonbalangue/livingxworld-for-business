@@ -1,9 +1,9 @@
-<p>[img src="https://business.livingxworld.com/images/globe.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/globe.jpg" alt="globe" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Explorez les nombreuses façons dont vous pouvez vivre sans soucis. Faites votre choix parmi une variété de combinaisons d'appels, de texte, de surf et d'application. Apprendre encore plus!</p>
 
 [youtube source="muaiFPz6VSQ" /]
 
@@ -26,14 +26,10 @@
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//globe.com.ph" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
-		[fa name="phone" zoom="2x" /] [a href="tel:+"][/a] [br /]
-		SIREN [a href=""][/a] [br /]
-		
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="high-tech" category="operateur" entreprise="globe" /]
+		Siège social non indiqué
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -57,26 +53,58 @@
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
+
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Particulier</strong></span></h2>
+
+<p> </p>
+<p> Box internet</p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]300Go ([fa name="long-arrow-up" /] 5mb)[ends tags="th" /] 
+				[begins tags="th" /]400Go ([fa name="long-arrow-up" /] 10mb)[ends tags="th" /] 
+				[begins tags="th" /]500Go ([fa name="long-arrow-up" /] 50mb)[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] 1 299/Mois[ends tags="td" /] 
+				[begins tags="td" /] 1 599/Mois[ends tags="td" /] 
+				[begins tags="td" /] 1 899/Mois[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+<p> </p>
+<p>Forfait </p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]illimité[ends tags="th" /] 
+				[begins tags="th" /]illimité[ends tags="th" /] 
+				[begins tags="th" /]illimité[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] P1 500/2Jours[ends tags="td" /] 
+				[begins tags="td" /] P2 250/4 jours[ends tags="td" /] 
+				[begins tags="td" /] P4 250/6 jours[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
 [ends tags="div" /]
+
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Professionnel</strong></span></h2>
+
+<p> </p>
+<p> tarifs variante</p>
+<p> </p>
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
 <p> </p>
@@ -90,7 +118,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] Entrust Certification Authority - L1K : B (non sécurisé doit faire mieux A+) | à corriger Diffie-Hellman (DH)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -106,7 +134,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -135,10 +163,8 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"url": "https://globe.com.ph",
 		"logo": "https://business.livingxworld.com/images/globe.jpg",
 		
-		"description": "description",
-		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"description": "Explorez les nombreuses façons dont vous pouvez vivre sans soucis. Faites votre choix parmi une variété de combinaisons d'appels, de texte, de surf et d'application. Apprendre encore plus!",
+		"currenciesAccepted": "PHP",
 		"address": {
 			"@type": "PostalAddress",
 			"streetAddress": "adresse",
@@ -153,7 +179,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-09-17",
 			"inLanguage": "french",
             "name": "globe",
             "reviewBody": " ",

@@ -8,12 +8,15 @@ voyage:
 brand:
 -apple
 
-opérateur:
+opérateur store:
 -bouygues-telecom
 -free
 -orange
 -sfr
 -pldthome
+-smart PH
+-Globe PH
+-coriolis
 
 
 

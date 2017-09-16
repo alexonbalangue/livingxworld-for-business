@@ -1,9 +1,9 @@
-<p>[img src="https://business.livingxworld.com/images/nrj-mobile.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/nrj-mobile.jpg" alt="nrj mobile" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Découvrez tous nos forfaits mobile pas cher, abonnement avec ou sans engagement appel,sms,mms, 4G illimité. Les meilleurs téléphones pas cher, portables, smartphones.</p>
 
 [youtube source="omM76VLFrio" /]
 
@@ -29,7 +29,7 @@
 		[fa name="map-marker" zoom="2x" /] 12 RUE GAILLON 75002 PARIS FRANCE [br /]
 		[fa name="phone" zoom="2x" /] [a href="tel:+"][/a] [br /]
 		SIREN [a href="https://www.societe.com/societe/euro-information-telecom-421713892.html"]421 713 892[/a] [br /]
-		[h3]Horaires[/h3] [br /]
+		
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
@@ -57,22 +57,47 @@
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
+
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Particulier</strong></span></h2>
+
+<p> </p>
+<p>Forfait </p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/illimité [fa name="comments"]/100Mo [fa name="internet-explorer" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/illimité [fa name="comments"]/50Go [fa name="internet-explorer" /][ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] 9.99€/Mois[ends tags="td" /] 
+				[begins tags="td" /] 19.99€/Mois[ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
+
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Professionnel</strong></span></h2>
+
+<p>Forfait </p>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]2h [fa name="mobile" /]/illimité [fa name="comments"]/500Mo [fa name="internet-explorer" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/illimité [fa name="comments"]/10Go [fa name="internet-explorer" /][ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /] 9.99€/Mois[ends tags="td" /] 
+				[begins tags="td" /] 15.99€/Mois[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -134,10 +159,9 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"name": "nrj mobile",
 		"url": "https://nrjmobile.fr",
 		"logo": "https://business.livingxworld.com/images/nrj-mobile.jpg",
-		"telephone": "+33100000000",
-		"description": "description",
+		"description": "Découvrez tous nos forfaits mobile pas cher, abonnement avec ou sans engagement appel,sms,mms, 4G illimité. Les meilleurs téléphones pas cher, portables, smartphones.",
 		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
+		"paymentAccepted": "card",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
@@ -149,7 +173,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-09-17",
 			"inLanguage": "french",
             "name": "nrj mobile",
             "reviewBody": " ",

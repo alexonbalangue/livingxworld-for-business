@@ -54,22 +54,28 @@
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Particulier</strong></span></h2>
+
+
+<p>les pass/30jours </p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/illimité [fa name="comments"]/10Go [fa name="internet-explorer" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/illimité [fa name="comments"]/12Go [fa name="internet-explorer" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/illimité [fa name="comments"]/20Go [fa name="internet-explorer" /][ends tags="th" /] 
+				[begins tags="th" /]illimité [fa name="mobile" /]/illimité [fa name="comments"]/25Go [fa name="internet-explorer" /][ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] 14.99€[ends tags="td" /] 
+				[begins tags="td" /] 19.99€[ends tags="td" /] 
+				[begins tags="td" /] 24.99€[ends tags="td" /] 
+				[begins tags="td" /] 29.99€[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -87,7 +93,7 @@
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] inexistant[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -130,17 +136,23 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@type": "LocalBusiness",
 		"name": "lyca mobile",
 		"url": "https://lycamobile.fr",
+		"sameAs": [
+			"https://www.lycatv.tv/",
+			"https://www.lycatel.com/",
+			"https://www.lycatalk.com/",
+			"https://www.gnanam-foundation.org/"
+		],
 		"logo": "https://business.livingxworld.com/images/lyca-mobile.png",
 		"description": "Appels internationaux, appels nationaux et Internet mobile &#224; bas prix. Offres r&#233;guli&#232;res de Lyca mobile - Obtenez votre carte SIM d&#232;s maintenant chez Lycamobile",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card",
-		"priceRange": "€",
+		"priceRange": "€€",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
+            "dateModified": "2017-09-17",
 			"inLanguage": "french",
             "name": "lyca mobile",
             "reviewBody": " ",

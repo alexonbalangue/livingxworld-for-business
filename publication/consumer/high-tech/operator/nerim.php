@@ -1,19 +1,19 @@
 <p>[img src="https://business.livingxworld.com/images/nerim.png" alt="nerim" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
 
- <p><strong>Description:</strong> Nerim | L'Opérateur Internet et Télécom des Entreprises</p>
+ <p><strong>Description:</strong> Nerim | The Internand and Telecom Operator of Enterprises</p>
 
 [youtube source="GRX8YcoUAb0" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
-		[h3]Ces logiciels et Apps[/h3]
+		[h3]softwares and Apps[/h3]
 		<p>
-			Apple Store [a href="#" target="_blank"][fa name="apple" zoom="2x" /][/a]
-			Windows Store [a href="#" target="_blank"][fa name="windows" zoom="2x" /][/a]
-			Google Play [a href="#" target="_blank"][fa name="android" zoom="2x" /][/a]
+			Apple Store [a href="#" targand="_blank"][fa name="apple" zoom="2x" /][/a]
+			Windows Store [a href="#" targand="_blank"][fa name="windows" zoom="2x" /][/a]
+			Google Play [a href="#" targand="_blank"][fa name="android" zoom="2x" /][/a]
 		</p>
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -24,43 +24,43 @@
 
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
-		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//nerim.net" target="_blank"]Site internet[/a] [br /]
+		[h3]coordinated[/h3]
+		[fa name="external-link" zoom="2x" /] [a href="//nerim.nand" targand="_blank"]Website[/a] [br /]
 		[fa name="map-marker" zoom="2x" /] 102 AVENUE DU PRESIDENT KENNEDY 75016 PARIS FRANCE [br /]
 		[fa name="phone" zoom="2x" /] [a href="tel:+"][/a] [br /]
-		SIREN [a href="https://www.societe.com/societe/nerim-424564532.html"]424 564 532[/a] [br /]
+		SIREN [a href="https://www.sociande.com/sociande/nerim-424564532.html"]424 564 532[/a] [br /]
 		
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
-		[h3]La carte[/h3]
+		[h3]map[/h3]
 		[mapbox-custom parent="high-tech" category="operateur" entreprise="nerim" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
 <p> </p>
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Scanner automatique</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Automatic scanner</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
-		[h3]Priotitaire du site[/h3]
-		[whois-domains url="nerim.net" /] 
+		[h3]owner site[/h3]
+		[whois-domains url="nerim.nand" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="nerim.net" /]
-		[h3]Vos données sont:[/h3]
-		[api-myipms query="nerim.net" /]
+		[ssllabs domains="nerim.nand" /]
+		[h3]Your data are:[/h3]
+		[api-myipms query="nerim.nand" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion) - Professionnel</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>The Prices Proposed in Taxe (without promotion) - Professional</strong></span></h2>
 
 <p> </p>
-<p> Box internet</p>
+<p> web box</p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
@@ -71,14 +71,14 @@
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] 30€/Mois[ends tags="td" /] 
-				[begins tags="td" /] 61.20€/Mois[ends tags="td" /] 
+				[begins tags="td" /] 30€/month[ends tags="td" /] 
+				[begins tags="td" /] 61.20€/month[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
 [ends tags="div" /]
 <p> </p>
-<p>Forfait </p>
+<p>card subscription </p>
 <p> </p>
 [begins tags="div" class="table-responsive" /] 
 	[begins tags="table" class="table table-bordered" /] 
@@ -93,52 +93,52 @@
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] 44.4€/Mois[ends tags="td" /] 
-				[begins tags="td" /] 24€/Mois[ends tags="td" /] 
-				[begins tags="td" /] 67.20€/Mois[ends tags="td" /] 
-				[begins tags="td" /] 18.60€/Mois[ends tags="td" /] 
-				[begins tags="td" /] 67.20€/Mois[ends tags="td" /] 
+				[begins tags="td" /] 44.4€/month[ends tags="td" /] 
+				[begins tags="td" /] 24€/month[ends tags="td" /] 
+				[begins tags="td" /] 67.20€/month[ends tags="td" /] 
+				[begins tags="td" /] 18.60€/month[ends tags="td" /] 
+				[begins tags="td" /] 67.20€/month[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
 [ends tags="div" /]
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note and advice with requirement</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[lxw-badge parent="high-tech" category="operateur" entreprise="nerim" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dt" /]Tester reviews (by Administrator)[ends tags="dt" /] 
+				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] inexistant[ends tags="dd" /] 
+				[begins tags="dt" /]Web security test[ends tags="dt" /] 
+				[begins tags="dd" /] inexistent[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Contrôle indépendant[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Services chez le client[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dt" /]Customer services[ends tags="dt" /] 
+				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Ambiance d'équipe[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dt" /]Team atmosphere[ends tags="dt" /] 
+				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
+				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
+				[begins tags="dd" /][fa name="check" /] complande[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
 <p> </p>
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Faire connaître</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Tell a Friends</strong></span></h2>
 <p> </p> 
 	[begins tags="div" class="row" /] 
 		[begins tags="div" class="col-md-12 center-block text-center" /]
@@ -148,7 +148,7 @@
  
  [br /] [br /]
 
-A vous de donner votre opignon: selon ses services clientèles, ses proposition, qualité de la prestation et encore plus.
+It is up to you to give your opinion: according to its customer service, its proposals, quality of the service and more.
 
 
 
@@ -157,15 +157,15 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
 		"name": "nerim",
-		"url": "https://nerim.net",
+		"url": "https://nerim.nand",
 		"logo": "https://business.livingxworld.com/images/nerim.png",
-		"description": "Nerim | L'Opérateur Internet et Télécom des Entreprises",
+		"description": "Nerim | The Internand and Telecom Operator of Enterprises",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "card",
 		"priceRange": "€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "102 AVENUE DU PRESIDENT KENNEDY 75016 PARIS FRANCE"
+			"streandAddress": "102 AVENUE DU PRESIDENT KENNEDY 75016 PARIS FRANCE"
 		},
 		"hasMap": "https://www.google.fr/maps/place/102+Avenue+du+Pr%C3%A9sident+Kennedy,+75016+Paris/@48.8534917,2.2794444,17z/data=!3m1!4b1!4m5!3m4!1s0x47e67001431180e3:0xa22b0ba5993198d7!8m2!3d48.8534917!4d2.2816331",
 		"review": {

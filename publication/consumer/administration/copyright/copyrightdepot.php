@@ -1,15 +1,15 @@
 <p>[img src="https://business.livingxworld.com/images/consumer/copyrightdepot.png" alt="copyright depot" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
 
  <p><strong>Description:</strong> --</p>
 
-Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
+Sorry the contractor presents no free video on the web.
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
-		[h3]Ces logiciels et Apps[/h3]
+		[h3]These software and Apps[/h3]
 		<p>
 			Apple Store [a href="#" target="_blank"][fa name="apple" zoom="2x" /][/a]
 			Windows Store [a href="#" target="_blank"][fa name="windows" zoom="2x" /][/a]
@@ -24,30 +24,30 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
-		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//copyrightdepot.com" target="_blank"]Site internet[/a] [br /]
+		[h3]coordinated[/h3]
+		[fa name="external-link" zoom="2x" /] [a href="//copyrightdepot.com" target="_blank"]Website[/a] [br /]
 		[fa name="map-marker" zoom="2x" /] adresse [br /]
 		[fa name="phone" zoom="2x" /] [a href="tel:+"]aucun[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8 text-center" /]
-		[h3]La carte[/h3]
+		[h3]map[/h3]
 		site non fonctionnel, impossible de découvrir le site.
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
 <p> </p>
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Scanner automatique</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Automatic scanner</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
-		[h3]Priotitaire du site[/h3]
+		[h3]owner site[/h3]
 		[whois-domains url="copyrightdepot.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
 		[ssllabs domains="copyrightdepot.com" /]
-		[h3]Vos données sont:[/h3]
+		[h3]Your data are:[/h3]
 		[api-myipms query="copyrightdepot.com" /]
 		
 	[ends tags="div" /]	
@@ -55,39 +55,21 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 <p>  </p>
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
-<p> </p>
-[begins tags="div" class="table-responsive" /] 
-	[begins tags="table" class="table table-bordered" /] 
-		[begins tags="thead" /] 
-			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-			[ends tags="tr" /] 
-		[ends tags="thead" /] 
-		[begins tags="tbody" /] 
-			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-			[ends tags="tr" /] 
-		[ends tags="tbody" /] 
-	[ends tags="table" /] 
-[ends tags="div" /]
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
+
+
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note and advice with requirement</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="" category="" entreprise="copyrightdepot" showembed="yes" /]
+		[lxw-badge parent="administration" category="copyright" entreprise="copyrightdepot" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dt" /]Tester reviews (by Administrator)[ends tags="dt" /] 
+				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
+				[begins tags="dt" /]Web security test[ends tags="dt" /] 
 				[begins tags="dd" /] USERTrust RSA Domain Validation Secure Server CA : A (sécurisé peut mieux A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
@@ -95,15 +77,15 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 		[h3]Contrôle indépendant[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Services chez le client[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dt" /]Customer services[ends tags="dt" /] 
+				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Ambiance d'équipe[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dt" /]Team atmosphere[ends tags="dt" /] 
+				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
+				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
 				[begins tags="dd" /]impossible de voir[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
@@ -111,7 +93,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [ends tags="div" /]	
 
 <p> </p>
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Faire connaître</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Tell a Friends</strong></span></h2>
 <p> </p> 
 	[begins tags="div" class="row" /] 
 		[begins tags="div" class="col-md-12 center-block text-center" /]
@@ -120,7 +102,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[ends tags="div" /]
  
  [br /] [br /]
-A vous de donner votre opignon: selon ses services clientèles, ses proposition, qualité de la prestation et encore plus.
+It is up to you to give your opinion: according to its customer service, its proposals, quality of the service and more.
 
 
 

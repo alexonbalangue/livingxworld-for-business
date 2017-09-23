@@ -56,32 +56,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Les Tarifs Proposés en TTC (sans promotion)</strong></span></h2>
-<p> </p>
-[begins tags="div" class="table-responsive" /] 
-	[begins tags="table" class="table table-bordered" /] 
-		[begins tags="thead" /] 
-			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-			[ends tags="tr" /] 
-		[ends tags="thead" /] 
-		[begins tags="tbody" /] 
-			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-			[ends tags="tr" /] 
-		[ends tags="tbody" /] 
-	[ends tags="table" /] 
-[ends tags="div" /]
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="" category="" entreprise="cleo-sgdl" showembed="yes" /]
+		[lxw-badge parent="administration" category="copyright" entreprise="cleo-sgdl" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 

@@ -104,7 +104,7 @@ Sorry the contractor presents no free video on the web.
 		[h3]Badge[/h3]
 		[lxw-badge parent="" category="" entreprise="" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Tester reviews (by Administrateur)[ends tags="dt" /] 
+				[begins tags="dt" /]Tester reviews (by Administrator)[ends tags="dt" /] 
 				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 

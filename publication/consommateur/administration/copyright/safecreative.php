@@ -1,4 +1,4 @@
-<p>[img src="https://business.livingxworld.com/images/consumer/safecreative.jpg" alt="safe creative" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/safecreative.jpg" alt="safe creative" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
@@ -112,7 +112,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@type": "LocalBusiness",
 		"name": "safe creative",
 		"url": "https://safecreative.org",
-		"logo": "https://business.livingxworld.com/images/consumer/safecreative.jpg",
+		"logo": "https://business.livingxworld.com/images/safecreative.jpg",
 		"description": "SafeCreative est un registre numérique des droits d'auteur. Créé par SafeCreative.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",

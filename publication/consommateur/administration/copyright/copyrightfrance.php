@@ -1,4 +1,4 @@
-<p>[img src="https://business.livingxworld.com/images/consumer/copyrightfrance.jpg" alt="copyright france" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/copyrightfrance.jpg" alt="copyright france" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
@@ -113,7 +113,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@type": "LocalBusiness",
 		"name": "copyright france",
 		"url": "https://copyrightfrance.com",
-		"logo": "https://business.livingxworld.com/images/consumer/copyrightfrance.jpg",
+		"logo": "https://business.livingxworld.com/images/copyrightfrance.jpg",
 		"description": "COPYRIGHT - DROITS D'AUTEUR : Déposez et protégez à vie + 70 ans toutes vos créations et sites Internet + protection COPYRIGHT international par Autorité de certification à partir de 8 &euros; + Assistance litiges gratuite, dépôts copyright gratuits illimités pour webmasters. Protection Droit d'Auteur",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",

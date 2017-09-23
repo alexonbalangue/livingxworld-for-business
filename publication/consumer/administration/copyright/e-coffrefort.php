@@ -1,4 +1,4 @@
-<p>[img src="https://business.livingxworld.com/images/consumer/e-coffrefort.jpg" alt="e-coffrefort" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/e-coffrefort.jpg" alt="e-coffrefort" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
@@ -113,7 +113,7 @@ It is up to you to give your opinion: according to its customer service, its pro
 		"@type": "LocalBusiness",
 		"name": "e-coffrefort",
 		"url": "https://e-coffrefort.fr",
-		"logo": "https://business.livingxworld.com/images/consumer/e-coffrefort.jpg",
+		"logo": "https://business.livingxworld.com/images/e-coffrefort.jpg",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",
 		"priceRange": "€€",

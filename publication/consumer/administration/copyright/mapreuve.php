@@ -1,4 +1,4 @@
-<p>[img src="https://business.livingxworld.com/images/consumer/mapreuve.png" alt="ma preuve" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/mapreuve.png" alt="ma preuve" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
@@ -113,7 +113,7 @@ It is up to you to give your opinion: according to its customer service, its pro
 		"@type": "LocalBusiness",
 		"name": "ma preuve",
 		"url": "https://mapreuve.com",
-		"logo": "https://business.livingxworld.com/images/consumer/mapreuve.png",
+		"logo": "https://business.livingxworld.com/images/mapreuve.png",
 		"description": "Protect all your important creations and documents with MaPreuve. Obtain legal evidence opposable to all. Defend yourself from plagiarism and copy!",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",

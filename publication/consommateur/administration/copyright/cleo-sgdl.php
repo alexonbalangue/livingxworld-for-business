@@ -1,4 +1,4 @@
-<p>[img src="https://business.livingxworld.com/images/consumer/cleo-sgdl.png" alt="cleo sgdl" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/cleo-sgdl.png" alt="cleo sgdl" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
@@ -111,7 +111,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@type": "LocalBusiness",
 		"name": "cleo sgdl",
 		"url": "https://cleo-sgdl.com",
-		"logo": "https://business.livingxworld.com/images/consumer/cleo-sgdl.png",
+		"logo": "https://business.livingxworld.com/images/cleo-sgdl.png",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",
 		"priceRange": "€€",

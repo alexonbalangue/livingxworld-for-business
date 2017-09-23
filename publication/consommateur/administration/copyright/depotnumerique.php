@@ -1,4 +1,4 @@
-<p>[img src="https://business.livingxworld.com/images/consumer/depotnumerique.png" alt="depot numerique" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/depotnumerique.png" alt="depot numerique" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
@@ -113,7 +113,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@type": "LocalBusiness",
 		"name": "depot numerique",
 		"url": "https://depotnumerique.com",
-		"logo": "https://business.livingxworld.com/images/consumer/depotnumerique.png",
+		"logo": "https://business.livingxworld.com/images/depotnumerique.png",
 		"description": "Dépôt de copyright et protection de droit d'auteur par internet à partir de 9,50 € horodaté par Huissier de justice, pour une protection pendant 30 ans et 160 pays.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",

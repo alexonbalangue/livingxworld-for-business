@@ -1,4 +1,4 @@
-<p>[img src="https://business.livingxworld.com/images/consumer/copyrightfrance.jpg" alt="copyright france" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/copyrightfrance.jpg" alt="copyright france" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
@@ -113,7 +113,7 @@ It is up to you to give your opinion: according to its customer service, its pro
 		"@type": "LocalBusiness",
 		"name": "copyright france",
 		"url": "https://copyrightfrance.com",
-		"logo": "https://business.livingxworld.com/images/consumer/copyrightfrance.jpg",
+		"logo": "https://business.livingxworld.com/images/copyrightfrance.jpg",
 		"description": "COPYRIGHT - COPYRIGHT: Deposit and protect for life + 70 all your creations and websites + protection COPYRIGHT international by Certification Authority from 8 & euros; + Free litigation assistance, unlimited free copyright deposits for webmasters. Protection Copyright",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",

@@ -1,4 +1,4 @@
-<p>[img src="https://business.livingxworld.com/images/consumer/copyright01.gif" alt="copyright01" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/copyright01.gif" alt="copyright01" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
@@ -112,7 +112,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@type": "LocalBusiness",
 		"name": "copyright01",
 		"url": "https://copyright01.com",
-		"logo": "https://business.livingxworld.com/images/consumer/copyright01.gif",
+		"logo": "https://business.livingxworld.com/images/copyright01.gif",
 		"description": "Organisme N°1 de dépôt de copyright pour sites internet. Protégez votre site web contre la copie en quelques minutes!",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",

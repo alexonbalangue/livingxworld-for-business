@@ -1,4 +1,4 @@
-<p>[img src="https://business.livingxworld.com/images/consumer/mapreuve.png" alt="ma preuve" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/mapreuve.png" alt="ma preuve" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
@@ -113,7 +113,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@type": "LocalBusiness",
 		"name": "ma preuve",
 		"url": "https://mapreuve.com",
-		"logo": "https://business.livingxworld.com/images/consumer/mapreuve.png",
+		"logo": "https://business.livingxworld.com/images/mapreuve.png",
 		"description": "Protégez toutes vos créations et documents importants avec MaPreuve. Obtenez des preuves juridiques opposables à tous. Défendez-vous du plagiat et la copie !",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",

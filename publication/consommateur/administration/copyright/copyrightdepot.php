@@ -1,4 +1,4 @@
-<p>[img src="https://business.livingxworld.com/images/consumer/copyrightdepot.png" alt="copyright depot" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/copyrightdepot.png" alt="copyright depot" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
@@ -112,7 +112,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		"@type": "LocalBusiness",
 		"name": "copyright depot",
 		"url": "https://copyrightdepot.com",
-		"logo": "https://business.livingxworld.com/images/consumer/copyrightdepot.png",
+		"logo": "https://business.livingxworld.com/images/copyrightdepot.png",
 		"description": "description",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",

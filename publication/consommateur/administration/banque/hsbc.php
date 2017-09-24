@@ -52,7 +52,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="" category="" entreprise="" /]
+		[mapbox-custom parent="administration" category="bank" entreprise="" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -102,7 +102,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="" category="" entreprise="" showembed="yes" /]
+		[lxw-badge parent="administration" category="bank" entreprise="" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 

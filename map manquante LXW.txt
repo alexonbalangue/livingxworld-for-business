@@ -18,6 +18,8 @@ opérateur store:
 -Globe PH
 -coriolis
 
+hospital:
+-aphp
 
 
 

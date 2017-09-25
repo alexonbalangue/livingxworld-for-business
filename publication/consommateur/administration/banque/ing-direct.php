@@ -1,4 +1,4 @@
-<p>[img src="https://business.livingxworld.com/images/consumer/.jpg" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/ing-direct.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
@@ -52,7 +52,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="" category="" entreprise="" /]
+		[mapbox-custom parent="administration" category="bank" entreprise="" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -102,7 +102,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="" category="" entreprise="" showembed="yes" /]
+		[lxw-badge parent="administration" category="bank" entreprise="" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
@@ -160,7 +160,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 			"https://www.facebook.com/",
 			"https://www.facebook.com/"
 		],
-		"logo": "https://business.livingxworld.com/images/consumer/.jpg",
+		"logo": "https://business.livingxworld.com/images/ing-direct.png",
 		"telephone": "+33100000000",
 		"description": "description",
 		"currenciesAccepted": "EUR",
@@ -186,7 +186,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 					"addressCountry": "pays"
 				},
 				"name": "The Hi-Dive",	
-				"images": "https://business.livingxworld.com/images/consumer/.jpg",
+				"images": "https://business.livingxworld.com/images/ing-direct.png",
 				"hasMap": "google map url"
 			},
 			{
@@ -200,7 +200,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 
 				},
 				"name": "The Hi-Dive"
-				"images": "https://business.livingxworld.com/images/consumer/.jpg",
+				"images": "https://business.livingxworld.com/images/ing-direct.png",
 				"hasMap": "google map url"	
 			}
 		],

@@ -1,7 +1,7 @@
 <p>[img src="https://business.livingxworld.com/images/nologo-found.png" alt="Hospital Don Ricardo L. Maddela" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
 
  <p><strong>Description:</strong> --</p>
 
@@ -9,11 +9,11 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
-		[h3]Ces logiciels et Apps[/h3]
+		[h3]Ces logiciels and Apps[/h3]
 		<p>
-			Apple Store [a href="#" target="_blank"][fa name="apple" zoom="2x" /][/a]
-			Windows Store [a href="#" target="_blank"][fa name="windows" zoom="2x" /][/a]
-			Google Play [a href="#" target="_blank"][fa name="android" zoom="2x" /][/a]
+			Apple Store [a href="#" targand="_blank"][fa name="apple" zoom="2x" /][/a]
+			Windows Store [a href="#" targand="_blank"][fa name="windows" zoom="2x" /][/a]
+			Google Play [a href="#" targand="_blank"][fa name="android" zoom="2x" /][/a]
 		</p>
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -39,18 +39,18 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note and advice with requirement</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[lxw-badge parent="administration" category="hopital" entreprise="hospital-don-ricardo-l-maddela-nueva-vizcaya" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
+				[begins tags="dt" /]Tester reviews (by Administrator)[ends tags="dt" /] 
 				[begins tags="dd" /] Les médicaments sont peux efficaces[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
+				[begins tags="dt" /]Web security test[ends tags="dt" /] 
 				[begins tags="dd" /] --[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
@@ -58,15 +58,15 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 		[h3]Contrôle indépendant[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Services chez le client[ends tags="dt" /] 
-				[begins tags="dd" /]Comme en france rapide et compétente[ends tags="dd" /] 
+				[begins tags="dt" /]Customer services[ends tags="dt" /] 
+				[begins tags="dd" /]Comme en france rapide and compétente[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Ambiance d'équipe[ends tags="dt" /] 
+				[begins tags="dt" /]Team atmosphere[ends tags="dt" /] 
 				[begins tags="dd" /]bonne organisation[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
+				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
 				[begins tags="dd" /]--[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
@@ -74,7 +74,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [ends tags="div" /]	
 
 <p> </p>
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Faire connaître</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Tell a Friends</strong></span></h2>
 <p> </p> 
 	[begins tags="div" class="row" /] 
 		[begins tags="div" class="col-md-12 center-block text-center" /]
@@ -83,7 +83,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[ends tags="div" /]
  
  [br /] [br /]
-A vous de donner votre opignon: selon ses services clientèles, ses proposition, qualité de la prestation et encore plus.
+It is up to you to give your opinion: according to its customer service, its proposals, quality of the service and more.
 
 
 
@@ -107,7 +107,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
             "dateModified": "2017-09-30",
-			"inLanguage": "french",
+			"inLanguage": "english",
             "name": "Hospital Don Ricardo L. Maddela",
             "reviewBody": "A part le médecin compétent sauf que les médicaments ne sont pas assez efficaces",
             "reviewRating": {

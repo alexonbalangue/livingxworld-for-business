@@ -1,9 +1,9 @@
-<p>[img src="https://business.livingxworld.com/images/jooble.jpg" alt="jooble" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/agence-solidarité-transport.gif" alt="agence solidarité transport" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
 
- <p><strong>Description:</strong> Job search among all major job vacancies and job portals • Fast & Free • Jobs in France and abroad • Find your job today!</p>
+ <p><strong>Description:</strong> --</p>
 
 Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
@@ -25,13 +25,14 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//jooble.org" targand="_blank"]Website[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] Griva Digeni str, Panayides Building, Office 203, Limassol 3035, Cyprus [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//solidaritandransport.fr" targand="_blank"]Website[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 21 BOULEVARD HAUSSMANN 75009 PARIS [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
+		SIREN [a href="https://www.sociande.com/sociande/comutitres-433136066.html"]433 136 066[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		adresse inconnue
+		[mapbox-custom parent="administration" category="aide-and-autre" entreprise="agence-solidarite-transport" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -42,13 +43,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="jooble.org" /] 
+		[whois-domains url="solidaritandransport.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="jooble.org" /]
+		[ssllabs domains="solidaritandransport.fr" /]
 		[h3]Your data are:[/h3]
-		[api-myipms query="jooble.org" /]
+		[api-myipms query="solidaritandransport.fr" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -62,14 +63,14 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="administration" category="emploi" entreprise="jooble" showembed="yes" /]
+		[lxw-badge parent="administration" category="aide-and-autre" entreprise="agence-solidarite-transport" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Tester reviews (by Administrator)[ends tags="dt" /] 
 				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /]  	COMODO RSA Domain Validation Secure Server CA : F (unsecured must do bandter A+) | to correct ssl2, ssl3, TLS1.2, RC4 and Forward Secrecy[ends tags="dd" /] 
+				[begins tags="dd" /] thawte SSL CA - G2 : A (Secure can do bandter A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -109,18 +110,15 @@ It is up to you to give your opinion: according to its customer service, its pro
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "jooble",
-		"url": "https://jooble.org",
-		"logo": "https://business.livingxworld.com/images/jooble.jpg",
-		
-		"description": "Job search among all major job vacancies and job portals • Fast & Free • Jobs in France and abroad • Find your job today!",
-		
-		
-		
+		"name": "agence solidarité transport",
+		"url": "https://solidaritandransport.fr",
+		"logo": "https://business.livingxworld.com/images/agence-solidarité-transport.gif",
+		"description": "description",
 		"address": {
 			"@type": "PostalAddress",
-			"streandAddress": "Griva Digeni str, Panayides Building, Office 203, Limassol 3035, Cyprus"
+			"streandAddress": "21 BOULEVARD HAUSSMANN 75009 PARIS"
 		},
+		"hasMap": "https://www.google.fr/maps/place/21-23+Boulevard+Haussmann,+75009+Paris/@48.8725947,2.3314757,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66e3741612aa7:0xf776550b01f8ebd1!8m2!3d48.8725947!4d2.3336644",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
@@ -128,12 +126,12 @@ It is up to you to give your opinion: according to its customer service, its pro
             "datePublished": "2014-06-12",
             "dateModified": "2017-09-30",
 			"inLanguage": "english",
-            "name": "jooble",
+            "name": "agence solidarité transport",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "2",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

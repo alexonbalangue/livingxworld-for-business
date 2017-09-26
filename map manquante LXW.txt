@@ -21,8 +21,12 @@ opérateur store:
 hospital:
 -aphp
 
+des aide et autre
+-caf
 
-
+Education
+-epitech
+-epita
 
 
 

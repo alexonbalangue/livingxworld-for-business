@@ -1,19 +1,19 @@
 <p>[img src="https://business.livingxworld.com/images/freelancer.jpg" alt="freelancer" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
 
- <p><strong>Description:</strong> Embaucher des programmeurs indépendants, des développeurs web, des concepteurs, des écrivains, des saisies de données et des logiciels; plus à une fraction du coût sur le marché de l'externalisation le plus vaste au monde.</p>
+ <p><strong>Description:</strong> Hire independent programmers, web developers, designers, writers, data entry and software; more at a fraction of the cost in the world's largest outsourcing markand.</p>
 
 [youtube source="45Zm4WgVMcc" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
-		[h3]Ces logiciels et Apps[/h3]
+		[h3]Ces logiciels and Apps[/h3]
 		<p>
-			Apple Store [a href="#" target="_blank"][fa name="apple" zoom="2x" /][/a]
-			Windows Store [a href="#" target="_blank"][fa name="windows" zoom="2x" /][/a]
-			Google Play [a href="#" target="_blank"][fa name="android" zoom="2x" /][/a]
+			Apple Store [a href="#" targand="_blank"][fa name="apple" zoom="2x" /][/a]
+			Windows Store [a href="#" targand="_blank"][fa name="windows" zoom="2x" /][/a]
+			Google Play [a href="#" targand="_blank"][fa name="android" zoom="2x" /][/a]
 		</p>
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -25,7 +25,7 @@
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//freelancer.com" target="_blank"]Site internet[/a] [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//freelancer.com" targand="_blank"]Website[/a] [br /]
 		[fa name="map-marker" zoom="2x" /] adresse [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
 	[ends tags="div" /]	
@@ -37,17 +37,17 @@
 [ends tags="div" /]	
 <p> </p>
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Scanner automatique</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Automatic scanner</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
-		[h3]Priotitaire du site[/h3]
+		[h3]owner site[/h3]
 		[whois-domains url="freelancer.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
 		[ssllabs domains="freelancer.com" /]
-		[h3]Vos données sont:[/h3]
+		[h3]Your data are:[/h3]
 		[api-myipms query="freelancer.com" /]
 		
 	[ends tags="div" /]	
@@ -57,42 +57,42 @@
 
 
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note et avis avec exigence</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note and advice with requirement</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
 		[lxw-badge parent="administration" category="emploi" entreprise="freelancer" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dt" /]Tester reviews (by Administrator)[ends tags="dt" /] 
+				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] DigiCert SHA2 Secure Server CA : oui (sécurisé peut mieux faire A+)[ends tags="dd" /] 
+				[begins tags="dt" /]Web security test[ends tags="dt" /] 
+				[begins tags="dd" /] DigiCert SHA2 Secure Server CA : yes (Secure can do bandter A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Contrôle indépendant[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Services chez le client[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dt" /]Customer services[ends tags="dt" /] 
+				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Ambiance d'équipe[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dt" /]Team atmosphere[ends tags="dt" /] 
+				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
+				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
+				[begins tags="dd" /][fa name="check" /] complete[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
 [ends tags="div" /]	
 
 <p> </p>
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Faire connaître</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Tell a Friends</strong></span></h2>
 <p> </p> 
 	[begins tags="div" class="row" /] 
 		[begins tags="div" class="col-md-12 center-block text-center" /]
@@ -101,7 +101,7 @@
 	[ends tags="div" /]
  
  [br /] [br /]
-A vous de donner votre opignon: selon ses services clientèles, ses proposition, qualité de la prestation et encore plus.
+It is up to you to give your opinion: according to its customer service, its proposals, quality of the service and more.
 
 
 
@@ -128,13 +128,13 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 		],
 		"logo": "https://business.livingxworld.com/images/freelancer.jpg",
 		
-		"description": "Embaucher des programmeurs indépendants, des développeurs web, des concepteurs, des écrivains, des saisies de données et des logiciels; plus à une fraction du coût sur le marché de l'externalisation le plus vaste au monde.",
+		"description": "Hire independent programmers, web developers, designers, writers, data entry and software; more at a fraction of the cost in the world's largest outsourcing markand.",
 		
 		
 		
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "680 George Street, Sydney, New South Wales, Australia 2000"
+			"streandAddress": "680 George Streand, Sydney, New South Wales, Australia 2000"
 		},
 		"hasMap": "https://www.google.fr/maps/place/680+George+St,+Sydney+NSW+2000,+Australie/@-33.8773271,151.2039305,17z/data=!3m1!4b1!4m5!3m4!1s0x6b12ae3cc6719adf:0xca6a06a5a9933686!8m2!3d-33.8773271!4d151.2061192",
 		"review": {
@@ -143,7 +143,7 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
             "dateModified": "2017-09-30",
-			"inLanguage": "french",
+			"inLanguage": "english",
             "name": "freelancer",
             "reviewBody": " ",
             "reviewRating": {

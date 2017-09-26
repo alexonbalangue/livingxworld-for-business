@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/jooble.jpg" alt="jooble" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/epitech.jpg" alt="epitech" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
 
- <p><strong>Description:</strong> Job search among all major job vacancies and job portals • Fast & Free • Jobs in France and abroad • Find your job today!</p>
+ <p><strong>Description:</strong> Ecole d'informatique which offers training in 5 years post-bac in 12 cities of France. Epitech delivers a title of Information Technology Expert (Bac + 5), certified Level 1 by the State.</p>
 
-Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
+[youtube source="t7a2ssGalu4" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,13 +25,14 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//jooble.org" targand="_blank"]Website[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] Griva Digeni str, Panayides Building, Office 203, Limassol 3035, Cyprus [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//epitech.eu" targand="_blank"]Website[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 24 RUE PASTEUR 94270 LE KREMLIN BICandRE [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
+		SIREN [a href="https://www.sociande.com/sociande/epitech-ecole-informatique-nouv-technol-423855196.html"]423 855 196[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		adresse inconnue
+		[mapbox-custom parent="administration" category="education" entreprise="epitech" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -42,34 +43,59 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="jooble.org" /] 
+		[whois-domains url="epitech.eu" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="jooble.org" /]
+		[ssllabs domains="epitech.eu" /]
 		[h3]Your data are:[/h3]
-		[api-myipms query="jooble.org" /]
+		[api-myipms query="epitech.eu" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
 <p>  </p>
 
 
-
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>The Prices Proposed in Taxe (without promotion)</strong></span></h2>
+<p> </p>
+[begins tags="div" class="table-responsive" /] 
+	[begins tags="table" class="table table-bordered" /] 
+		[begins tags="thead" /] 
+			[begins tags="tr" /] 
+				[begins tags="th" /]Application fee[ends tags="th" /] 
+				[begins tags="th" /]schooling 1 year[ends tags="th" /] 
+				[begins tags="th" /]schooling 2 year[ends tags="th" /] 
+				[begins tags="th" /]schooling 3 year[ends tags="th" /] 
+				[begins tags="th" /]schooling 4 year[ends tags="th" /] 
+				[begins tags="th" /]schooling 5 year[ends tags="th" /] 
+			[ends tags="tr" /] 
+		[ends tags="thead" /] 
+		[begins tags="tbody" /] 
+			[begins tags="tr" /] 
+				[begins tags="td" /]€40 [ends tags="td" /] 
+				[begins tags="td" /]€6 200 [ends tags="td" /] 
+				[begins tags="td" /]€6 200 [ends tags="td" /] 
+				[begins tags="td" /]€8 100 [ends tags="td" /] 
+				[begins tags="td" /]€8 100 [ends tags="td" /] 
+				[begins tags="td" /]€8 100 [ends tags="td" /] 
+			[ends tags="tr" /] 
+		[ends tags="tbody" /] 
+	[ends tags="table" /] 
+[ends tags="div" /]
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Note and advice with requirement</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="administration" category="emploi" entreprise="jooble" showembed="yes" /]
+		[lxw-badge parent="administration" category="education" entreprise="epitech" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Tester reviews (by Administrator)[ends tags="dt" /] 
 				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /]  	COMODO RSA Domain Validation Secure Server CA : F (unsecured must do bandter A+) | to correct ssl2, ssl3, TLS1.2, RC4 and Forward Secrecy[ends tags="dd" /] 
+				[begins tags="dd" /] inexistent[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -109,18 +135,21 @@ It is up to you to give your opinion: according to its customer service, its pro
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "jooble",
-		"url": "https://jooble.org",
-		"logo": "https://business.livingxworld.com/images/jooble.jpg",
-		
-		"description": "Job search among all major job vacancies and job portals • Fast & Free • Jobs in France and abroad • Find your job today!",
-		
-		
-		
+		"name": "epitech",
+		"url": "https://epitech.eu",
+		"sameAs": [
+			"https://www.e-epitech.com/"
+		],
+		"logo": "https://business.livingxworld.com/images/epitech.jpg",
+		"description": "Ecole d'informatique which offers training in 5 years post-bac in 12 cities of France. Epitech delivers a title of Information Technology Expert (Bac + 5), certified Level 1 by the State.",
+		"currenciesAccepted": "EUR",
+		"paymentAccepted": "card, paypal",
+		"priceRange": "€€€€",
 		"address": {
 			"@type": "PostalAddress",
-			"streandAddress": "Griva Digeni str, Panayides Building, Office 203, Limassol 3035, Cyprus"
+			"streandAddress": "24 RUE PASTEUR 94270 LE KREMLIN BICandRE"
 		},
+		"hasMap": "https://www.google.fr/maps/place/24+Rue+Pasteur,+94270+Le+Kremlin-Bic%C3%AAtre/@48.8155478,2.3607954,17z/data=!3m1!4b1!4m5!3m4!1s0x47e6717ff94e4521:0x24f4c7dfecbb39c3!8m2!3d48.8155478!4d2.3629841",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
@@ -128,7 +157,7 @@ It is up to you to give your opinion: according to its customer service, its pro
             "datePublished": "2014-06-12",
             "dateModified": "2017-09-30",
 			"inLanguage": "english",
-            "name": "jooble",
+            "name": "epitech",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
@@ -140,4 +169,4 @@ It is up to you to give your opinion: according to its customer service, its pro
 			"creator": "Alexon Balangue"
 		}
 	}
-[ends tags="script" /]
+[ends tags="script" /]<p>

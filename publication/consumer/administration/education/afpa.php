@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/jooble.jpg" alt="jooble" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/afpa.jpg" alt="afpa" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
 
- <p><strong>Description:</strong> Job search among all major job vacancies and job portals • Fast & Free • Jobs in France and abroad • Find your job today!</p>
+ <p><strong>Description:</strong> --</p>
 
-Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
+[youtube source="y0JHl3JBnMM" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,13 +25,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//jooble.org" targand="_blank"]Website[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] Griva Digeni str, Panayides Building, Office 203, Limassol 3035, Cyprus [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//afpa.fr" targand="_blank"]Website[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] adresse [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		adresse inconnue
+		N°SIREN n'est pas présent dans la page mention légale
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -42,18 +42,17 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="jooble.org" /] 
+		[whois-domains url="afpa.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="jooble.org" /]
+		[ssllabs domains="afpa.fr" /]
 		[h3]Your data are:[/h3]
-		[api-myipms query="jooble.org" /]
+		[api-myipms query="afpa.fr" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
 <p>  </p>
-
 
 
 
@@ -62,14 +61,14 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="administration" category="emploi" entreprise="jooble" showembed="yes" /]
+		[lxw-badge parent="administration" category="education" entreprise="afpa" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Tester reviews (by Administrator)[ends tags="dt" /] 
 				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /]  	COMODO RSA Domain Validation Secure Server CA : F (unsecured must do bandter A+) | to correct ssl2, ssl3, TLS1.2, RC4 and Forward Secrecy[ends tags="dd" /] 
+				[begins tags="dd" /] GeoTrust SSL CA - G3 : F (unsecured must do bandter A+) | to correct openssl, RC4, Diffie-Hellman (DH) and Forward Secrecy [ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -85,7 +84,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /][fa name="check" /] complete[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="ban" /] incomplete[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -109,18 +108,9 @@ It is up to you to give your opinion: according to its customer service, its pro
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "jooble",
-		"url": "https://jooble.org",
-		"logo": "https://business.livingxworld.com/images/jooble.jpg",
-		
-		"description": "Job search among all major job vacancies and job portals • Fast & Free • Jobs in France and abroad • Find your job today!",
-		
-		
-		
-		"address": {
-			"@type": "PostalAddress",
-			"streandAddress": "Griva Digeni str, Panayides Building, Office 203, Limassol 3035, Cyprus"
-		},
+		"name": "afpa",
+		"url": "https://afpa.fr",
+		"logo": "https://business.livingxworld.com/images/afpa.jpg",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
@@ -128,12 +118,12 @@ It is up to you to give your opinion: according to its customer service, its pro
             "datePublished": "2014-06-12",
             "dateModified": "2017-09-30",
 			"inLanguage": "english",
-            "name": "jooble",
+            "name": "afpa",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "0",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

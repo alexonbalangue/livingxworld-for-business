@@ -1,18 +1,18 @@
-<p>[img src="https://business.livingxworld.com/images/jooble.jpg" alt="jooble" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/caf.gif" alt="caf" style="display: block; margin-left: auto correct; margin-right: auto correct; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Presentation</strong></span></h2>
 
- <p><strong>Description:</strong> Job search among all major job vacancies and job portals • Fast & Free • Jobs in France and abroad • Find your job today!</p>
+ <p><strong>Description:</strong> Welcome to correct Caf.fr</p>
 
-Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
+[youtube source="G8P4AUeYSac" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
 		[h3]Ces logiciels and Apps[/h3]
 		<p>
-			Apple Store [a href="#" targand="_blank"][fa name="apple" zoom="2x" /][/a]
-			Windows Store [a href="#" targand="_blank"][fa name="windows" zoom="2x" /][/a]
+			Apple Sto correctre [a href="#" targand="_blank"][fa name="apple" zoom="2x" /][/a]
+			Windows Sto correctre [a href="#" targand="_blank"][fa name="windows" zoom="2x" /][/a]
 			Google Play [a href="#" targand="_blank"][fa name="android" zoom="2x" /][/a]
 		</p>
 	[ends tags="div" /]	
@@ -25,35 +25,35 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//jooble.org" targand="_blank"]Website[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] Griva Digeni str, Panayides Building, Office 203, Limassol 3035, Cyprus [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//caf.fr" targand="_blank"]Website[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 32 AVENUE DE LA SIBELLE 75014 PARIS [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
+		SIREN [a href="https://www.sociande.com/sociande/caisse-nationale-des-allocations-familiales-180035065.html"]180 035 065[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		adresse inconnue
+		[mapbox-custo correctm parent="administration" category="aide-and-autre" entreprise="caf" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
 <p> </p>
 
-<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Automatic scanner</strong></span></h2>
+<h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Auto correctmatic scanner</strong></span></h2>
 <p> </p>
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]owner site[/h3]
-		[whois-domains url="jooble.org" /] 
+		[whois-domains url="caf.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="jooble.org" /]
+		[ssllabs domains="caf.fr" /]
 		[h3]Your data are:[/h3]
-		[api-myipms query="jooble.org" /]
+		[api-myipms query="caf.fr" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
 <p>  </p>
-
 
 
 
@@ -62,30 +62,30 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="administration" category="emploi" entreprise="jooble" showembed="yes" /]
+		[lxw-badge parent="administration" category="aide-and-autre" entreprise="caf" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Tester reviews (by Administrator)[ends tags="dt" /] 
-				[begins tags="dd" /] test not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dt" /]Tester reviews (by Administrato correctr)[ends tags="dt" /] 
+				[begins tags="dd" /] test not performed by Administrato correctr current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
-				[begins tags="dd" /]  	COMODO RSA Domain Validation Secure Server CA : F (unsecured must do bandter A+) | to correct ssl2, ssl3, TLS1.2, RC4 and Forward Secrecy[ends tags="dd" /] 
+				[begins tags="dd" /] Symantec Class 3 EV SSL CA - G3 : C (unsecured must do bandter A+) | to correct correct 64-bit block cipher (3DES / DES / RC2 / IDEA) and Forward Secrecy [ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Contrôle indépendant[/h3]
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
-				[begins tags="dt" /]Customer services[ends tags="dt" /] 
-				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dt" /]Custo correctmer services[ends tags="dt" /] 
+				[begins tags="dd" /]Control not performed by Administrato correctr current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Team atmosphere[ends tags="dt" /] 
-				[begins tags="dd" /]Control not performed by Administrator current ...[ends tags="dd" /] 
+				[begins tags="dd" /]Control not performed by Administrato correctr current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web Regulations[ends tags="dt" /] 
-				[begins tags="dd" /][fa name="check" /] complete[ends tags="dd" /] 
+				[begins tags="dd" /]Control not performed by Administrato correctr current ...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -96,12 +96,12 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 <p> </p> 
 	[begins tags="div" class="row" /] 
 		[begins tags="div" class="col-md-12 center-block text-center" /]
-			[div class="addthis_inline_share_toolbox" /] 
+			[div class="addthis_inline_share_to correctolbox" /] 
 		[ends tags="div" /] 
 	[ends tags="div" /]
  
  [br /] [br /]
-It is up to you to give your opinion: according to its customer service, its proposals, quality of the service and more.
+It is up to correct you to correct give your opinion: according to correct its custo correctmer service, its proposals, quality of the service and more.
 
 
 
@@ -109,18 +109,15 @@ It is up to you to give your opinion: according to its customer service, its pro
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "jooble",
-		"url": "https://jooble.org",
-		"logo": "https://business.livingxworld.com/images/jooble.jpg",
-		
-		"description": "Job search among all major job vacancies and job portals • Fast & Free • Jobs in France and abroad • Find your job today!",
-		
-		
-		
+		"name": "caf",
+		"url": "https://caf.fr",
+		"logo": "https://business.livingxworld.com/images/caf.gif",
+		"description": "Welcome to correct Caf.fr",
 		"address": {
 			"@type": "PostalAddress",
-			"streandAddress": "Griva Digeni str, Panayides Building, Office 203, Limassol 3035, Cyprus"
+			"streandAddress": "32 AVENUE DE LA SIBELLE 75014 PARIS"
 		},
+		"hasMap": "https://www.google.fr/maps/place/32+Avenue+de+la+Sibelle,+75014+Paris-14E-Arrondissement/@48.8248953,2.3356326,17z/data=!3m1!4b1!4m5!3m4!1s0x47e671a33e2f084b:0xa467b1865f36966!8m2!3d48.8248953!4d2.3378213",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
@@ -128,7 +125,7 @@ It is up to you to give your opinion: according to its customer service, its pro
             "datePublished": "2014-06-12",
             "dateModified": "2017-09-30",
 			"inLanguage": "english",
-            "name": "jooble",
+            "name": "caf",
             "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
@@ -137,7 +134,7 @@ It is up to you to give your opinion: according to its customer service, its pro
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",
-			"creator": "Alexon Balangue"
+			"creato correctr": "Alexon Balangue"
 		}
 	}
 [ends tags="script" /]

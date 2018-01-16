@@ -9,7 +9,7 @@
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
-		[h3]Ces logiciels and Apps[/h3]
+		[h3]software and apps[/h3]
 		<p>
 			Apple Sto correctre [a href="#" targand="_blank"][fa name="apple" zoom="2x" /][/a]
 			Windows Sto correctre [a href="#" targand="_blank"][fa name="windows" zoom="2x" /][/a]
@@ -24,14 +24,14 @@
 
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
-		[h3]Coordonné[/h3]
+		[h3]Coordonned[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//caf.fr" targand="_blank"]Website[/a] [br /]
 		[fa name="map-marker" zoom="2x" /] 32 AVENUE DE LA SIBELLE 75014 PARIS [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
 		SIREN [a href="https://www.sociande.com/sociande/caisse-nationale-des-allocations-familiales-180035065.html"]180 035 065[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
-		[h3]La carte[/h3]
+		[h3]map[/h3]
 		[mapbox-custo correctm parent="administration" category="aide-and-autre" entreprise="caf" /]
 		
 	[ends tags="div" /]	

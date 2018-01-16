@@ -9,7 +9,7 @@
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
-		[h3]Ces logiciels and Apps[/h3]
+		[h3]software and apps[/h3]
 		<p>
 			Apple Store [a href="#" targand="_blank"][fa name="apple" zoom="2x" /][/a]
 			Windows Store [a href="#" targand="_blank"][fa name="windows" zoom="2x" /][/a]
@@ -24,15 +24,15 @@
 
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
-		[h3]Coordonné[/h3]
+		[h3]Coordonned[/h3]
 		[fa name="external-link" zoom="2x" /] [a href="//valsoftware.com" targand="_blank"]Website[/a] [br /]
 		[fa name="map-marker" zoom="2x" /] 16 AVENUE SALVADOR DALI CS 80040 31700 BLAGNAC [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
 		SIREN [a href="https://www.sociande.com/sociande/val-software-334691987.html"]334 691 987[/a] [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
-		[h3]La carte[/h3]
-		adresse introuvable
+		[h3]map[/h3]
+		Address not found
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	

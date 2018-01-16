@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/sumup.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/sumup.png" alt="sumup" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Faîtres grandir votre entreprise en acceptant les paiements par carte bancaire sur votre smartphone ou tablette Apple et Android. C'est la solution simple, sécurisée et à coûts maîtrisés!</p>
 
-Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
+[youtube source="0NcW5tEMohU" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,34 +25,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//sumup.fr" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 34 Great Marlborough St W1F 7JB London [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
-		[h3]Horaires[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Transport[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Autres[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="administration" category="bank" entreprise="" /]
+		[mapbox-custom parent="administration" category="bank" entreprise="sumup" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -63,13 +42,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="sumup.fr" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="sumup.fr" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="sumup.fr" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -82,16 +61,14 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]Frais transaction[ends tags="th" /] 
+				[begins tags="th" /]Frais mensualité[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /]1.75% [ends tags="td" /] 
+				[begins tags="td" /]0€ [ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -102,14 +79,14 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="administration" category="bank" entreprise="" showembed="yes" /]
+		[lxw-badge parent="administration" category="bank" entreprise="sumup" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] Amazon : oui (sécurisé doit faire mieux A+)[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -125,7 +102,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -149,80 +126,31 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
+		"name": "sumup",
+		"url": "https://sumup.fr",
 		"logo": "https://business.livingxworld.com/images/sumup.png",
-		"telephone": "+33100000000",
-		"description": "description",
+		"description": "Faîtres grandir votre entreprise en acceptant les paiements par carte bancaire sur votre smartphone ou tablette Apple et Android. C'est la solution simple, sécurisée et à coûts maîtrisés!",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"priceRange": "€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "34 Great Marlborough St W1F 7JB London"
 		},
-		"location": [
-			{
-				"@type": "Place",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-				},
-				"name": "The Hi-Dive",	
-				"images": "https://business.livingxworld.com/images/sumup.png",
-				"hasMap": "google map url"
-			},
-			{
-				"@type": "Place",
-				"address": {
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-
-				},
-				"name": "The Hi-Dive"
-				"images": "https://business.livingxworld.com/images/sumup.png",
-				"hasMap": "google map url"	
-			}
-		],
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		],
+		"hasMap": "https://www.google.fr/maps/place/34+Great+Marlborough+St,+Soho,+London+W1F+7JD,+Royaume-Uni/@51.5138925,-0.1414453,17z/data=!3m1!4b1!4m5!3m4!1s0x487604d539f23cc5:0x7ecec20357b66550!8m2!3d51.5138925!4d-0.1392566",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
-			"inLanguage": "french",
-            "name": "A masterpiece of literature",
-            "reviewBody": "mon avis",
+            "dateModified": "2018-01-08",
+			"inLanguage": "english",
+            "name": "sumup",
+            "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "3",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

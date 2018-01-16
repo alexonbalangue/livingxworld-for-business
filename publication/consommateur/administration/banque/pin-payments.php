@@ -1,9 +1,9 @@
-<p>[img src="https://business.livingxworld.com/images/pin-payments.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/pin-payments.png" alt="pin payments" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Prenez les paiements par carte en ligne pour votre entreprise avec Pin Payments. Aucun compte marchand requis. Installation facile.</p>
 
 Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
@@ -25,34 +25,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//pinpayments.com" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 34 Queen St, Melbourne VIC 3000 [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
-		[h3]Horaires[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Transport[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Autres[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="administration" category="bank" entreprise="" /]
+		[mapbox-custom parent="administration" category="bank" entreprise="pin-payments" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -63,13 +42,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="pinpayments.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="pinpayments.com" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="pinpayments.com" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -82,16 +61,16 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]Frais de transaction[ends tags="th" /] 
+				[begins tags="th" /]Frais de transfert[ends tags="th" /] 
+				[begins tags="th" /]charge[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /]2.6% + 0.30$ [ends tags="td" /] 
+				[begins tags="td" /] 0.30$[ends tags="td" /] 
+				[begins tags="td" /] 25$[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -102,14 +81,14 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="administration" category="bank" entreprise="" showembed="yes" /]
+		[lxw-badge parent="administration" category="bank" entreprise="pin-payments" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] teste non effectué par Administrateur en cours..[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /]GeoTrust EV SSL CA - G4 : oui (sécurisé peut mieux faire A+) | à corriger sha2[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -117,15 +96,15 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Services chez le client[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours..[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Ambiance d'équipe[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours..[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -149,80 +128,31 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
+		"name": "pin payments",
+		"url": "https://pinpayments.com",
 		"logo": "https://business.livingxworld.com/images/pin-payments.png",
-		"telephone": "+33100000000",
-		"description": "description",
-		"currenciesAccepted": "EUR",
-		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"description": "Prenez les paiements par carte en ligne pour votre entreprise avec Pin Payments. Aucun compte marchand requis. Installation facile.",
+		"currenciesAccepted": "AUD",
+		"paymentAccepted": "card",
+		"priceRange": "$",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "34 Queen St, Melbourne VIC 3000"
 		},
-		"location": [
-			{
-				"@type": "Place",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-				},
-				"name": "The Hi-Dive",	
-				"images": "https://business.livingxworld.com/images/pin-payments.png",
-				"hasMap": "google map url"
-			},
-			{
-				"@type": "Place",
-				"address": {
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-
-				},
-				"name": "The Hi-Dive"
-				"images": "https://business.livingxworld.com/images/pin-payments.png",
-				"hasMap": "google map url"	
-			}
-		],
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		],
+		"hasMap": "https://www.google.fr/maps/place/34+Queen+St,+Melbourne+VIC+3000,+Australie/@-37.8180131,144.9602827,17z/data=!3m1!4b1!4m5!3m4!1s0x6ad642b340318a6f:0x44b21be5ac00c80b!8m2!3d-37.8180131!4d144.9624714",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
-			"inLanguage": "french",
-            "name": "A masterpiece of literature",
-            "reviewBody": "mon avis",
+            "dateModified": "2018-01-08",
+			"inLanguage": "english",
+            "name": "pin payments",
+            "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "2",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

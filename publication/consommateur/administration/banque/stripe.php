@@ -1,11 +1,11 @@
-<p>[img src="https://business.livingxworld.com/images/stripe.png" alt="" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
+<p>[img src="https://business.livingxworld.com/images/stripe.png" alt="stripe" style="display: block; margin-left: auto; margin-right: auto; width: 300px; height: 300px;" /]</p>
 <hr id="system-readmore" />
 
 <h2 style="text-align: center;"><span style="text-decoration: underline;"><strong>Présentation</strong></span></h2>
 
- <p><strong>Description:</strong> --</p>
+ <p><strong>Description:</strong> Stripe offre une gamme d'API dédiées au commerce pour les entreprises de toutes tailles.</p>
 
-Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
+[youtube source="1INoRUx0144" /]
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
@@ -25,34 +25,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
 		[h3]Coordonné[/h3]
-		[fa name="external-link" zoom="2x" /] [a href="//" target="_blank"]Site internet[/a] [br /]
-		[fa name="map-marker" zoom="2x" /] adresse [br /]
+		[fa name="external-link" zoom="2x" /] [a href="//stripe.com" target="_blank"]Site internet[/a] [br /]
+		[fa name="map-marker" zoom="2x" /] 185 Berry Street, Suite 550 San Francisco, CA 94107 [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
-		[h3]Horaires[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Transport[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
-		[h3]Autres[/h3] [br /]
-		<ul>
-			<li></li>
-			<li></li>
-			<li></li>
-			<li></li>
-		</ul>
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
 		[h3]La carte[/h3]
-		[mapbox-custom parent="administration" category="bank" entreprise="" /]
+		[mapbox-custom parent="administration" category="bank" entreprise="stripe" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -63,13 +42,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]Priotitaire du site[/h3]
-		[whois-domains url="" /] 
+		[whois-domains url="stripe.com" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-12" /]
 		[h3]HTTPS: SSL/TLS[/h3]
-		[ssllabs domains="" /]
+		[ssllabs domains="stripe.com" /]
 		[h3]Vos données sont:[/h3]
-		[api-myipms query="" /]
+		[api-myipms query="stripe.com" /]
 		
 	[ends tags="div" /]	
 [ends tags="div" /]	
@@ -82,16 +61,12 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 	[begins tags="table" class="table table-bordered" /] 
 		[begins tags="thead" /] 
 			[begins tags="tr" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
-				[begins tags="th" /][ends tags="th" /] 
+				[begins tags="th" /]Frais transaction[ends tags="th" /] 
 			[ends tags="tr" /] 
 		[ends tags="thead" /] 
 		[begins tags="tbody" /] 
 			[begins tags="tr" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
-				[begins tags="td" /] [ends tags="td" /] 
+				[begins tags="td" /] 2.9%+0.90$US[ends tags="td" /] 
 			[ends tags="tr" /] 
 		[ends tags="tbody" /] 
 	[ends tags="table" /] 
@@ -102,14 +77,14 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-xs-12 col-md-6" /]
 		[h3]Badge[/h3]
-		[lxw-badge parent="administration" category="bank" entreprise="" showembed="yes" /]
+		[lxw-badge parent="administration" category="bank" entreprise="stripe" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Avis testeur (par Administrateur)[ends tags="dt" /] 
 				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Teste de sécurité web[ends tags="dt" /] 
-				[begins tags="dd" /] teste non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /] DigiCert SHA2 Extended Validation Server CA : B (non sécurisé doit faire mieux A+)| à corriger RC4 cipher[ends tags="dd" /] 
 			[ends tags="dl" /] 
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-6" /]
@@ -125,7 +100,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Réglementation web[ends tags="dt" /] 
-				[begins tags="dd" /]Contrôle non effectué par Administrateur en cours...[ends tags="dd" /] 
+				[begins tags="dd" /][fa name="check" /] complet[ends tags="dd" /] 
 			[ends tags="dl" /] 
 		[ends tags="blockquote" /]
 	[ends tags="div" /]	
@@ -149,80 +124,31 @@ A vous de donner votre opignon: selon ses services clientèles, ses proposition,
 	{
 		"@context": "http://www.schema.org",
 		"@type": "LocalBusiness",
-		"name": "nom",
-		"url": "https://url.com",
-		"sameAs": [
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/",
-			"https://www.facebook.com/"
-		],
+		"name": "stripe",
+		"url": "https://stripe.com",
 		"logo": "https://business.livingxworld.com/images/stripe.png",
-		"telephone": "+33100000000",
-		"description": "description",
+		"description": "Stripe offre une gamme d'API dédiées au commerce pour les entreprises de toutes tailles.",
 		"currenciesAccepted": "EUR",
 		"paymentAccepted": "cash",
-		"priceRange": "€€",
+		"priceRange": "€",
 		"address": {
 			"@type": "PostalAddress",
-			"streetAddress": "adresse",
-			"addressLocality": "Ville",
-			"addressRegion": "région",
-			"postalCode": "code postal",
-			"addressCountry": "pays"
+			"streetAddress": "185 Berry Street, Suite 550 San Francisco, CA 94107"
 		},
-		"location": [
-			{
-				"@type": "Place",
-				"address": {
-					"@type": "PostalAddress",
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-				},
-				"name": "The Hi-Dive",	
-				"images": "https://business.livingxworld.com/images/stripe.png",
-				"hasMap": "google map url"
-			},
-			{
-				"@type": "Place",
-				"address": {
-					"streetAddress": "adresse",
-					"addressLocality": "Ville",
-					"addressRegion": "région",
-					"postalCode": "code postal",
-					"addressCountry": "pays"
-
-				},
-				"name": "The Hi-Dive"
-				"images": "https://business.livingxworld.com/images/stripe.png",
-				"hasMap": "google map url"	
-			}
-		],
-		"hasMap": "https://business.livingxworld.com/map/consumer/",
-		"openingHours": [
-			"Mo-Sa 11:00-14:30",
-			"Mo-Th 17:00-21:30",
-			"Fr-Sa 17:00-22:00"
-		],
+		"hasMap": "https://www.google.fr/maps/place/185+Berry+St+%23550,+San+Francisco,+CA+94107,+%C3%89tats-Unis/@37.776503,-122.3942272,17z/data=!3m1!4b1!4m5!3m4!1s0x808f7fd73b019873:0xa3346a2ef1de8861!8m2!3d37.776503!4d-122.3920385?dcr=0",
 		"review": {
 			"@type": "Review",
             "author": "Alexon Balangue",
             "dateCreated": "2014-06-12",
             "datePublished": "2014-06-12",
-            "dateModified": "2017-08-06",
-			"inLanguage": "french",
-            "name": "A masterpiece of literature",
-            "reviewBody": "mon avis",
+            "dateModified": "2018-01-08",
+			"inLanguage": "english",
+            "name": "stripe",
+            "reviewBody": " ",
             "reviewRating": {
 				"@type": "Rating",
 				"bestRating": "5",
-				"ratingValue": "1",
+				"ratingValue": "1.5",
 				"worstRating": "1"
 			},
 			"CopyrightHolder": "LivingxWorld",

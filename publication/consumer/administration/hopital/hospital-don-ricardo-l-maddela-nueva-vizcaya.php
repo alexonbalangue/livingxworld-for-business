@@ -5,11 +5,11 @@
 
  <p><strong>Description:</strong> --</p>
 
-Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
+Sorry the contractor presents no free video on the web.
 
 [begins tags="div" class="row text-center" /]
 	[begins tags="div" class="col-md-12" /]
-		[h3]Ces logiciels and Apps[/h3]
+		[h3]software and apps[/h3]
 		<p>
 			Apple Store [a href="#" targand="_blank"][fa name="apple" zoom="2x" /][/a]
 			Windows Store [a href="#" targand="_blank"][fa name="windows" zoom="2x" /][/a]
@@ -24,13 +24,13 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 
 [begins tags="div" class="row" /]
 	[begins tags="div" class="col-xs-12 col-md-4" /]
-		[h3]Coordonné[/h3]
+		[h3]Coordonned[/h3]
 		[fa name="external-link" zoom="2x" /] aucun [br /]
-		[fa name="map-marker" zoom="2x" /] Nueva Vizcaya, Philippines(non précise) [br /]
+		[fa name="map-marker" zoom="2x" /] Nueva Vizcaya, Philippines(no exact) [br /]
 		[fa name="phone" zoom="2x" /] aucun [br /]
 	[ends tags="div" /]	
 	[begins tags="div" class="col-xs-12 col-md-8" /]
-		[h3]La carte[/h3]
+		[h3]map[/h3]
 		[mapbox-custom parent="administration" category="hopital" entreprise="hospital-don-ricardo-l-maddela-nueva-vizcaya" /]
 		
 	[ends tags="div" /]	
@@ -47,7 +47,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 		[lxw-badge parent="administration" category="hopital" entreprise="hospital-don-ricardo-l-maddela-nueva-vizcaya" showembed="yes" /]
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Tester reviews (by Administrator)[ends tags="dt" /] 
-				[begins tags="dd" /] Les médicaments sont peux efficaces[ends tags="dd" /] 
+				[begins tags="dd" /] Medicines are not very effective[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Web security test[ends tags="dt" /] 
@@ -59,7 +59,7 @@ Désolé l'entrepreneur présente aucune vidéo libre sur la toile.
 		[begins tags="blockquote" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Customer services[ends tags="dt" /] 
-				[begins tags="dd" /]Comme en france rapide and compétente[ends tags="dd" /] 
+				[begins tags="dd" /]As in France fast and competent[ends tags="dd" /] 
 			[ends tags="dl" /] 
 			[begins tags="dl" class="dl-horizontal" /] 
 				[begins tags="dt" /]Team atmosphere[ends tags="dt" /] 
